@@ -1,0 +1,1501 @@
+JobKey,JobTitle,Occupation_Code,Job_Family,IndustryKey,ExperienceKey,AIImpactKey,WorkModeKey,SalaryAnalyticsKey,Job_Status,Description,Career_Path_Example
+1,AI Specialist 1,45-8324,Finance,44,46,37,1,111,Emerging,Description for job 1,Specialist
+2,Data Scientist 2,11-1916,Technology,68,7,36,3,145,Declining,Description for job 2,Management
+3,Marketing Manager 3,76-2895,Technology,51,50,37,35,42,Stable,Description for job 3,Specialist
+4,Graphic Designer 4,76-1469,Marketing,82,27,17,30,108,Stable,Description for job 4,Management
+5,Nurse 5,37-1844,HR,83,9,8,43,198,Stable,Description for job 5,Management
+6,Financial Analyst 6,71-5440,Marketing,67,32,37,32,19,Transforming,Description for job 6,Specialist
+7,Software Engineer 7,13-3512,Finance,50,3,14,38,69,Emerging,Description for job 7,Senior Role
+8,Graphic Designer 8,52-2281,Finance,22,8,5,18,104,Stable,Description for job 8,Specialist
+9,Graphic Designer 9,89-5189,Finance,55,7,20,44,164,Stable,Description for job 9,Management
+10,Accountant 10,75-3449,Finance,23,50,48,15,85,Stable,Description for job 10,Specialist
+11,Truck Driver 11,82-6217,Marketing,36,9,46,44,53,Stable,Description for job 11,Senior Role
+12,Data Scientist 12,42-1909,Finance,41,28,47,16,190,Transforming,Description for job 12,Senior Role
+13,Data Scientist 13,33-8097,Sales,15,36,45,2,103,Stable,Description for job 13,Senior Role
+14,Marketing Manager 14,25-7528,Operations,21,29,49,43,48,Transforming,Description for job 14,Specialist
+15,AI Specialist 15,95-8286,HR,55,42,46,16,198,Emerging,Description for job 15,Specialist
+16,Graphic Designer 16,58-7944,Technology,85,25,40,32,89,Declining,Description for job 16,Specialist
+17,Data Scientist 17,82-6798,Marketing,9,4,27,16,178,Stable,Description for job 17,Management
+18,Customer Service Rep 18,22-1104,Finance,45,10,45,24,192,Emerging,Description for job 18,Management
+19,Customer Service Rep 19,83-4866,Technology,32,11,18,31,61,Transforming,Description for job 19,Senior Role
+20,Truck Driver 20,76-6120,HR,73,40,42,9,180,Emerging,Description for job 20,Senior Role
+21,Software Engineer 21,53-6660,HR,39,26,10,46,155,Declining,Description for job 21,Senior Role
+22,Truck Driver 22,96-2642,Technology,99,45,46,12,35,Declining,Description for job 22,Specialist
+23,Software Engineer 23,69-2835,Marketing,46,37,15,18,24,Stable,Description for job 23,Management
+24,Accountant 24,79-4827,Marketing,77,28,24,24,1,Transforming,Description for job 24,Specialist
+25,Sales Director 25,73-5187,Sales,64,29,10,47,9,Stable,Description for job 25,Management
+26,Marketing Manager 26,17-4857,Marketing,84,15,9,25,179,Stable,Description for job 26,Senior Role
+27,Financial Analyst 27,90-8454,HR,49,36,48,17,62,Stable,Description for job 27,Specialist
+28,Graphic Designer 28,57-5372,Marketing,55,36,50,25,141,Transforming,Description for job 28,Specialist
+29,Truck Driver 29,96-7251,Technology,61,48,43,42,14,Declining,Description for job 29,Senior Role
+30,Software Engineer 30,66-9748,Technology,69,25,39,9,173,Stable,Description for job 30,Senior Role
+31,Truck Driver 31,64-9400,Technology,23,1,34,49,184,Transforming,Description for job 31,Management
+32,Nurse 32,86-4903,Finance,94,12,26,19,132,Emerging,Description for job 32,Management
+33,Truck Driver 33,74-5801,Finance,50,49,10,1,61,Transforming,Description for job 33,Specialist
+34,AI Specialist 34,58-5069,Finance,61,5,41,2,22,Stable,Description for job 34,Senior Role
+35,AI Specialist 35,65-9206,Technology,91,28,5,20,176,Emerging,Description for job 35,Specialist
+36,Sales Director 36,51-9133,HR,32,17,17,30,86,Emerging,Description for job 36,Senior Role
+37,Customer Service Rep 37,66-5719,Finance,95,42,2,17,156,Stable,Description for job 37,Senior Role
+38,Sales Director 38,28-5202,Operations,30,9,32,14,145,Emerging,Description for job 38,Management
+39,Machine Learning Engineer 39,25-3284,Sales,9,49,32,41,126,Declining,Description for job 39,Management
+40,Customer Service Rep 40,40-8931,Technology,35,46,18,37,128,Transforming,Description for job 40,Specialist
+41,Data Scientist 41,89-2407,Marketing,20,15,17,12,98,Emerging,Description for job 41,Management
+42,Sales Director 42,92-6665,Marketing,44,48,23,49,185,Stable,Description for job 42,Senior Role
+43,Data Scientist 43,58-2145,Sales,90,26,13,36,190,Stable,Description for job 43,Senior Role
+44,Graphic Designer 44,80-2403,Sales,49,10,42,13,33,Declining,Description for job 44,Senior Role
+45,AI Specialist 45,79-1612,Marketing,98,29,44,39,99,Emerging,Description for job 45,Specialist
+46,AI Specialist 46,25-5042,Technology,28,34,6,4,176,Transforming,Description for job 46,Senior Role
+47,Nurse 47,80-1264,Technology,63,46,3,25,99,Declining,Description for job 47,Specialist
+48,Machine Learning Engineer 48,46-8024,Marketing,79,36,24,46,45,Declining,Description for job 48,Senior Role
+49,Software Engineer 49,32-2128,Operations,55,29,36,38,154,Stable,Description for job 49,Specialist
+50,Nurse 50,60-6068,Operations,75,10,20,48,94,Declining,Description for job 50,Senior Role
+51,Nurse 51,28-5147,Operations,1,1,16,33,165,Declining,Description for job 51,Management
+52,Financial Analyst 52,33-9493,Sales,90,7,48,3,181,Stable,Description for job 52,Management
+53,Graphic Designer 53,25-3342,HR,75,38,25,44,22,Stable,Description for job 53,Senior Role
+54,Graphic Designer 54,62-2789,Operations,89,47,22,43,35,Transforming,Description for job 54,Specialist
+55,Accountant 55,19-4718,Technology,37,39,48,32,105,Stable,Description for job 55,Management
+56,Customer Service Rep 56,53-9955,Marketing,28,4,10,36,76,Declining,Description for job 56,Specialist
+57,Truck Driver 57,73-6860,Sales,97,36,49,15,24,Declining,Description for job 57,Management
+58,Financial Analyst 58,41-7585,Operations,82,47,1,5,105,Stable,Description for job 58,Management
+59,Truck Driver 59,27-6428,Marketing,2,48,7,11,170,Transforming,Description for job 59,Specialist
+60,Machine Learning Engineer 60,79-9197,Operations,66,41,38,50,63,Declining,Description for job 60,Senior Role
+61,Financial Analyst 61,66-9351,Marketing,97,26,49,9,187,Emerging,Description for job 61,Specialist
+62,Truck Driver 62,56-6420,HR,67,20,42,11,171,Emerging,Description for job 62,Specialist
+63,Truck Driver 63,12-2671,HR,50,35,26,42,27,Declining,Description for job 63,Specialist
+64,Marketing Manager 64,66-7115,Finance,15,49,41,50,180,Emerging,Description for job 64,Management
+65,Software Engineer 65,45-4822,Marketing,2,20,2,11,119,Declining,Description for job 65,Specialist
+66,Customer Service Rep 66,13-6211,HR,65,9,22,19,94,Stable,Description for job 66,Senior Role
+67,HR Specialist 67,84-7326,Technology,83,13,10,45,160,Stable,Description for job 67,Management
+68,Financial Analyst 68,53-2515,Finance,41,6,30,22,173,Emerging,Description for job 68,Management
+69,Customer Service Rep 69,21-6559,HR,49,7,21,31,42,Emerging,Description for job 69,Specialist
+70,HR Specialist 70,31-7623,Sales,29,18,21,7,189,Declining,Description for job 70,Senior Role
+71,Data Scientist 71,57-2062,Operations,77,22,27,2,67,Emerging,Description for job 71,Senior Role
+72,Software Engineer 72,11-6788,Sales,83,36,35,24,183,Transforming,Description for job 72,Specialist
+73,Machine Learning Engineer 73,12-9644,Marketing,18,12,41,36,17,Stable,Description for job 73,Specialist
+74,AI Specialist 74,30-3475,Sales,10,26,24,15,109,Emerging,Description for job 74,Senior Role
+75,HR Specialist 75,87-4443,Finance,41,33,41,36,51,Stable,Description for job 75,Specialist
+76,Accountant 76,85-3739,Operations,34,27,21,27,91,Transforming,Description for job 76,Specialist
+77,Accountant 77,81-4357,Marketing,7,19,12,21,163,Stable,Description for job 77,Senior Role
+78,Machine Learning Engineer 78,27-2553,Sales,45,24,2,16,95,Emerging,Description for job 78,Specialist
+79,Data Scientist 79,68-9931,Marketing,86,30,46,24,134,Declining,Description for job 79,Senior Role
+80,AI Specialist 80,55-4241,HR,17,38,23,11,88,Declining,Description for job 80,Specialist
+81,Data Scientist 81,65-5012,HR,77,32,24,6,37,Emerging,Description for job 81,Senior Role
+82,Customer Service Rep 82,70-6402,Technology,11,20,3,37,99,Stable,Description for job 82,Specialist
+83,Sales Director 83,71-8516,Finance,10,25,40,28,2,Transforming,Description for job 83,Management
+84,Accountant 84,21-7059,Technology,69,3,34,19,159,Stable,Description for job 84,Senior Role
+85,Sales Director 85,45-2008,Sales,29,1,6,47,94,Emerging,Description for job 85,Management
+86,Customer Service Rep 86,72-3405,Technology,38,3,39,34,115,Stable,Description for job 86,Senior Role
+87,AI Specialist 87,88-9469,Operations,48,30,4,50,23,Declining,Description for job 87,Specialist
+88,Software Engineer 88,99-2101,Operations,17,25,38,18,46,Stable,Description for job 88,Senior Role
+89,Sales Director 89,91-5247,HR,41,23,8,36,131,Transforming,Description for job 89,Senior Role
+90,HR Specialist 90,54-8780,Technology,81,14,3,32,12,Stable,Description for job 90,Senior Role
+91,Software Engineer 91,80-3753,Sales,23,41,45,21,154,Emerging,Description for job 91,Senior Role
+92,Marketing Manager 92,59-1963,Technology,32,50,9,8,155,Emerging,Description for job 92,Senior Role
+93,Graphic Designer 93,46-8428,Marketing,40,39,19,24,90,Emerging,Description for job 93,Management
+94,Graphic Designer 94,31-2653,HR,11,17,48,1,114,Declining,Description for job 94,Senior Role
+95,Accountant 95,67-2891,Technology,93,35,26,16,132,Declining,Description for job 95,Specialist
+96,Truck Driver 96,46-4234,Finance,61,1,28,33,185,Stable,Description for job 96,Senior Role
+97,Financial Analyst 97,96-9435,Marketing,68,20,33,38,131,Transforming,Description for job 97,Senior Role
+98,AI Specialist 98,67-3539,HR,13,46,44,41,134,Stable,Description for job 98,Management
+99,Software Engineer 99,33-1014,Sales,65,34,23,17,94,Declining,Description for job 99,Senior Role
+100,Graphic Designer 100,58-2343,Marketing,61,38,33,32,66,Stable,Description for job 100,Senior Role
+101,Marketing Manager 101,18-2172,Finance,82,5,29,27,9,Transforming,Description for job 101,Management
+102,Sales Director 102,67-7834,Sales,40,1,18,36,15,Emerging,Description for job 102,Senior Role
+103,Data Scientist 103,47-8055,Technology,53,38,40,22,139,Stable,Description for job 103,Senior Role
+104,Accountant 104,98-7626,Finance,10,4,25,35,158,Stable,Description for job 104,Specialist
+105,Data Scientist 105,71-4195,Marketing,1,43,37,21,37,Declining,Description for job 105,Management
+106,Marketing Manager 106,99-1821,Sales,31,7,34,46,101,Emerging,Description for job 106,Specialist
+107,Data Scientist 107,40-3024,Operations,26,25,30,11,106,Transforming,Description for job 107,Management
+108,Graphic Designer 108,69-7756,Sales,75,10,23,49,125,Emerging,Description for job 108,Management
+109,Accountant 109,41-4869,Sales,1,20,29,19,82,Declining,Description for job 109,Specialist
+110,Machine Learning Engineer 110,97-8592,HR,52,32,36,49,131,Stable,Description for job 110,Management
+111,Truck Driver 111,64-6748,Marketing,29,34,4,33,36,Declining,Description for job 111,Specialist
+112,Truck Driver 112,10-5540,Operations,4,38,10,10,66,Declining,Description for job 112,Senior Role
+113,Data Scientist 113,81-2520,Operations,9,49,12,33,47,Emerging,Description for job 113,Specialist
+114,HR Specialist 114,86-2012,Operations,69,28,18,48,135,Declining,Description for job 114,Management
+115,Marketing Manager 115,10-7685,Technology,81,6,42,48,18,Declining,Description for job 115,Senior Role
+116,Truck Driver 116,35-5644,Technology,36,33,14,37,112,Emerging,Description for job 116,Specialist
+117,Nurse 117,47-6171,Technology,50,14,31,36,7,Declining,Description for job 117,Senior Role
+118,Financial Analyst 118,88-8610,Sales,77,46,20,10,14,Emerging,Description for job 118,Specialist
+119,Machine Learning Engineer 119,73-2183,Finance,95,28,49,12,50,Transforming,Description for job 119,Senior Role
+120,Truck Driver 120,67-4050,Technology,93,46,19,28,159,Transforming,Description for job 120,Management
+121,Accountant 121,69-3595,Finance,51,13,27,34,183,Emerging,Description for job 121,Specialist
+122,Nurse 122,80-4997,HR,64,16,15,9,74,Stable,Description for job 122,Senior Role
+123,Graphic Designer 123,60-6068,Marketing,55,10,7,18,3,Stable,Description for job 123,Senior Role
+124,HR Specialist 124,71-6209,Sales,97,19,26,37,116,Stable,Description for job 124,Specialist
+125,Financial Analyst 125,26-5545,Sales,31,18,5,48,170,Stable,Description for job 125,Senior Role
+126,AI Specialist 126,72-3823,Sales,54,4,11,24,24,Transforming,Description for job 126,Specialist
+127,Customer Service Rep 127,93-9572,Operations,27,26,30,23,91,Emerging,Description for job 127,Management
+128,Financial Analyst 128,26-8338,Technology,21,34,18,20,66,Declining,Description for job 128,Specialist
+129,HR Specialist 129,86-5110,Operations,38,13,16,37,112,Stable,Description for job 129,Management
+130,HR Specialist 130,50-1318,Sales,43,33,33,4,195,Emerging,Description for job 130,Senior Role
+131,Graphic Designer 131,58-9122,Operations,97,49,38,18,109,Declining,Description for job 131,Specialist
+132,AI Specialist 132,91-7433,Marketing,86,50,9,48,147,Transforming,Description for job 132,Management
+133,Financial Analyst 133,17-3089,Technology,16,35,19,45,74,Declining,Description for job 133,Specialist
+134,Nurse 134,66-3022,Finance,66,24,11,30,1,Transforming,Description for job 134,Senior Role
+135,HR Specialist 135,96-7328,Finance,59,38,5,21,126,Transforming,Description for job 135,Senior Role
+136,AI Specialist 136,14-5985,Marketing,28,15,34,1,7,Stable,Description for job 136,Management
+137,Graphic Designer 137,61-1378,Marketing,9,5,42,39,150,Declining,Description for job 137,Management
+138,Machine Learning Engineer 138,72-6499,Technology,94,1,41,36,74,Declining,Description for job 138,Senior Role
+139,Graphic Designer 139,44-1995,Operations,67,42,48,7,96,Declining,Description for job 139,Management
+140,Accountant 140,43-9943,Technology,67,27,10,36,104,Transforming,Description for job 140,Management
+141,AI Specialist 141,49-3124,HR,25,21,19,49,39,Stable,Description for job 141,Management
+142,Software Engineer 142,72-2501,Marketing,100,34,14,45,152,Declining,Description for job 142,Senior Role
+143,Machine Learning Engineer 143,91-1954,Technology,55,40,13,25,137,Stable,Description for job 143,Management
+144,Machine Learning Engineer 144,63-2907,Operations,3,5,7,20,174,Emerging,Description for job 144,Specialist
+145,HR Specialist 145,70-3530,Finance,58,26,25,48,50,Declining,Description for job 145,Specialist
+146,Sales Director 146,70-1576,Technology,26,20,35,2,136,Emerging,Description for job 146,Management
+147,AI Specialist 147,68-4610,Finance,69,44,29,34,121,Emerging,Description for job 147,Senior Role
+148,Marketing Manager 148,22-5664,Operations,3,37,14,28,25,Stable,Description for job 148,Management
+149,AI Specialist 149,39-8391,Operations,37,33,40,7,36,Emerging,Description for job 149,Specialist
+150,Data Scientist 150,99-3441,Finance,60,15,26,3,150,Transforming,Description for job 150,Senior Role
+151,Financial Analyst 151,94-7541,Technology,18,41,11,19,136,Transforming,Description for job 151,Specialist
+152,HR Specialist 152,75-1807,Operations,71,12,24,42,167,Declining,Description for job 152,Senior Role
+153,Nurse 153,41-3755,Operations,18,48,25,43,113,Transforming,Description for job 153,Management
+154,Sales Director 154,46-7066,HR,2,15,46,43,196,Transforming,Description for job 154,Specialist
+155,Truck Driver 155,72-7853,HR,40,15,47,40,25,Stable,Description for job 155,Specialist
+156,Truck Driver 156,12-9688,Marketing,79,50,5,26,52,Transforming,Description for job 156,Senior Role
+157,Software Engineer 157,62-5721,Operations,89,11,42,7,12,Declining,Description for job 157,Specialist
+158,AI Specialist 158,48-8136,Sales,21,10,41,2,178,Declining,Description for job 158,Management
+159,Customer Service Rep 159,46-6716,Technology,72,2,13,9,131,Emerging,Description for job 159,Management
+160,HR Specialist 160,93-7092,Finance,14,12,30,37,87,Declining,Description for job 160,Management
+161,Machine Learning Engineer 161,99-7815,HR,28,20,3,3,70,Emerging,Description for job 161,Senior Role
+162,Customer Service Rep 162,12-6783,Marketing,5,47,34,24,41,Emerging,Description for job 162,Management
+163,Software Engineer 163,74-8138,HR,95,4,35,5,105,Transforming,Description for job 163,Senior Role
+164,HR Specialist 164,84-1504,Operations,56,1,12,5,54,Declining,Description for job 164,Management
+165,Customer Service Rep 165,52-4443,HR,50,12,20,38,103,Transforming,Description for job 165,Management
+166,AI Specialist 166,58-4650,Marketing,22,31,32,17,61,Emerging,Description for job 166,Management
+167,Software Engineer 167,54-1393,HR,46,9,44,2,156,Emerging,Description for job 167,Senior Role
+168,Marketing Manager 168,27-9333,Finance,94,27,16,43,81,Emerging,Description for job 168,Specialist
+169,Sales Director 169,13-3101,Finance,12,45,20,32,187,Declining,Description for job 169,Management
+170,AI Specialist 170,70-8510,Marketing,52,48,39,15,72,Stable,Description for job 170,Senior Role
+171,HR Specialist 171,82-1407,Marketing,19,27,33,38,107,Transforming,Description for job 171,Management
+172,Nurse 172,36-8880,Operations,14,26,10,22,99,Declining,Description for job 172,Management
+173,Marketing Manager 173,11-8255,Sales,81,16,45,47,7,Declining,Description for job 173,Senior Role
+174,Graphic Designer 174,50-7702,Operations,98,7,45,4,53,Stable,Description for job 174,Management
+175,Truck Driver 175,54-7643,Operations,64,16,31,9,170,Emerging,Description for job 175,Management
+176,Customer Service Rep 176,37-8008,Sales,85,1,43,12,117,Declining,Description for job 176,Management
+177,Marketing Manager 177,51-6323,Operations,99,17,8,29,72,Declining,Description for job 177,Specialist
+178,Accountant 178,38-5233,Technology,88,20,22,23,184,Emerging,Description for job 178,Management
+179,Truck Driver 179,37-4841,Finance,1,7,28,2,151,Transforming,Description for job 179,Management
+180,Customer Service Rep 180,53-8498,Operations,84,16,24,15,174,Transforming,Description for job 180,Senior Role
+181,Nurse 181,91-9408,HR,19,48,19,13,126,Emerging,Description for job 181,Senior Role
+182,Software Engineer 182,25-6400,Finance,65,25,1,49,182,Transforming,Description for job 182,Senior Role
+183,Sales Director 183,34-3801,Operations,45,6,47,19,129,Transforming,Description for job 183,Specialist
+184,Financial Analyst 184,12-6501,Technology,98,17,31,40,150,Emerging,Description for job 184,Management
+185,HR Specialist 185,51-1948,Technology,4,47,15,42,115,Transforming,Description for job 185,Senior Role
+186,Sales Director 186,85-6240,HR,47,37,17,48,56,Declining,Description for job 186,Specialist
+187,Nurse 187,17-1552,HR,42,29,40,25,46,Emerging,Description for job 187,Senior Role
+188,Graphic Designer 188,68-9786,Operations,57,12,17,18,123,Transforming,Description for job 188,Management
+189,Graphic Designer 189,28-8121,Finance,32,15,41,33,73,Emerging,Description for job 189,Management
+190,Truck Driver 190,29-8774,Technology,17,31,10,27,41,Stable,Description for job 190,Senior Role
+191,Marketing Manager 191,29-2518,Finance,29,47,24,30,181,Declining,Description for job 191,Senior Role
+192,Sales Director 192,26-5136,Finance,34,38,20,50,71,Stable,Description for job 192,Specialist
+193,Software Engineer 193,15-2635,Sales,17,39,8,4,97,Emerging,Description for job 193,Senior Role
+194,Machine Learning Engineer 194,70-4966,Technology,48,38,44,34,105,Declining,Description for job 194,Management
+195,HR Specialist 195,59-4542,Marketing,90,28,16,6,156,Emerging,Description for job 195,Senior Role
+196,Data Scientist 196,62-5925,Sales,27,39,17,9,66,Emerging,Description for job 196,Management
+197,Truck Driver 197,36-8302,Operations,32,29,44,38,119,Emerging,Description for job 197,Management
+198,Financial Analyst 198,75-4757,Marketing,76,22,36,49,156,Stable,Description for job 198,Specialist
+199,Machine Learning Engineer 199,64-7966,HR,56,45,27,8,23,Stable,Description for job 199,Senior Role
+200,Graphic Designer 200,59-2638,HR,13,36,41,46,14,Emerging,Description for job 200,Management
+201,Machine Learning Engineer 201,68-2011,Finance,17,9,20,26,176,Declining,Description for job 201,Senior Role
+202,Nurse 202,35-7317,Operations,91,23,8,34,88,Transforming,Description for job 202,Specialist
+203,Marketing Manager 203,53-6502,Finance,93,35,22,42,187,Transforming,Description for job 203,Senior Role
+204,AI Specialist 204,25-3401,Technology,42,16,19,45,142,Emerging,Description for job 204,Management
+205,Nurse 205,88-1012,Finance,70,19,2,50,169,Emerging,Description for job 205,Specialist
+206,Software Engineer 206,71-6863,Finance,76,37,9,13,143,Declining,Description for job 206,Management
+207,Sales Director 207,16-9468,HR,92,4,45,48,143,Stable,Description for job 207,Senior Role
+208,Machine Learning Engineer 208,84-6928,HR,86,27,1,14,32,Transforming,Description for job 208,Management
+209,Sales Director 209,93-4264,HR,28,4,18,43,16,Declining,Description for job 209,Management
+210,Sales Director 210,63-8399,Operations,17,36,20,43,137,Emerging,Description for job 210,Specialist
+211,AI Specialist 211,40-3073,Finance,84,43,45,21,4,Declining,Description for job 211,Management
+212,Data Scientist 212,45-8040,Marketing,65,41,26,6,67,Stable,Description for job 212,Specialist
+213,Machine Learning Engineer 213,67-5812,Technology,57,24,3,25,185,Declining,Description for job 213,Management
+214,Graphic Designer 214,14-7688,Technology,94,13,41,15,185,Declining,Description for job 214,Specialist
+215,Data Scientist 215,13-8166,Marketing,17,18,7,44,99,Transforming,Description for job 215,Specialist
+216,HR Specialist 216,87-1743,Operations,11,19,3,2,142,Declining,Description for job 216,Specialist
+217,Marketing Manager 217,66-1039,Sales,21,49,20,43,1,Declining,Description for job 217,Senior Role
+218,Marketing Manager 218,96-2567,Marketing,43,9,19,2,187,Emerging,Description for job 218,Management
+219,Marketing Manager 219,33-8660,HR,3,11,9,11,158,Emerging,Description for job 219,Specialist
+220,Customer Service Rep 220,24-9170,Marketing,2,43,29,4,160,Transforming,Description for job 220,Management
+221,Sales Director 221,66-3913,HR,100,18,14,27,127,Transforming,Description for job 221,Specialist
+222,Marketing Manager 222,50-5590,Operations,52,37,36,48,2,Declining,Description for job 222,Specialist
+223,AI Specialist 223,14-2409,Technology,30,18,17,30,11,Emerging,Description for job 223,Senior Role
+224,Customer Service Rep 224,65-6258,HR,23,50,2,10,57,Transforming,Description for job 224,Management
+225,Graphic Designer 225,66-4430,Marketing,5,28,26,17,184,Transforming,Description for job 225,Senior Role
+226,Accountant 226,12-9722,Sales,73,16,18,16,182,Declining,Description for job 226,Management
+227,Graphic Designer 227,54-3297,Operations,37,44,11,21,108,Transforming,Description for job 227,Management
+228,Graphic Designer 228,75-3208,Sales,93,16,48,42,114,Emerging,Description for job 228,Specialist
+229,Financial Analyst 229,26-1907,Finance,32,22,28,37,109,Declining,Description for job 229,Management
+230,HR Specialist 230,85-7650,Marketing,74,12,4,19,86,Declining,Description for job 230,Specialist
+231,Financial Analyst 231,64-3050,Finance,93,37,39,46,164,Declining,Description for job 231,Specialist
+232,Accountant 232,39-6685,Sales,74,44,22,17,35,Transforming,Description for job 232,Specialist
+233,Accountant 233,27-4935,Marketing,8,38,30,12,28,Transforming,Description for job 233,Senior Role
+234,AI Specialist 234,56-3825,Technology,88,43,39,28,179,Declining,Description for job 234,Specialist
+235,AI Specialist 235,72-6869,Sales,86,7,49,9,152,Transforming,Description for job 235,Management
+236,Nurse 236,72-8500,Operations,45,24,22,11,162,Emerging,Description for job 236,Management
+237,Truck Driver 237,43-8837,Sales,67,9,28,26,2,Stable,Description for job 237,Senior Role
+238,Nurse 238,94-2056,Technology,91,32,26,40,199,Stable,Description for job 238,Management
+239,Machine Learning Engineer 239,58-6810,HR,44,35,8,44,41,Emerging,Description for job 239,Senior Role
+240,Nurse 240,65-4503,Operations,66,46,24,16,24,Declining,Description for job 240,Management
+241,Accountant 241,55-6428,Marketing,46,46,12,29,30,Declining,Description for job 241,Specialist
+242,Sales Director 242,84-1701,Operations,74,13,43,32,182,Emerging,Description for job 242,Senior Role
+243,Financial Analyst 243,15-1272,Sales,78,34,50,19,110,Stable,Description for job 243,Management
+244,AI Specialist 244,17-8774,Operations,57,37,9,9,21,Declining,Description for job 244,Management
+245,Machine Learning Engineer 245,62-8174,Technology,45,34,3,34,49,Emerging,Description for job 245,Senior Role
+246,Graphic Designer 246,55-9630,Marketing,92,11,5,17,11,Transforming,Description for job 246,Management
+247,Truck Driver 247,27-7330,Marketing,89,17,29,33,64,Stable,Description for job 247,Specialist
+248,Marketing Manager 248,71-6136,Marketing,29,39,39,19,48,Declining,Description for job 248,Specialist
+249,Nurse 249,75-4248,Technology,77,11,27,43,173,Emerging,Description for job 249,Senior Role
+250,Graphic Designer 250,42-2319,HR,73,46,31,48,36,Stable,Description for job 250,Specialist
+251,Accountant 251,17-9781,Finance,77,6,10,22,83,Declining,Description for job 251,Management
+252,AI Specialist 252,93-8786,Sales,93,5,50,31,187,Stable,Description for job 252,Specialist
+253,Software Engineer 253,60-5588,Marketing,92,17,31,17,5,Transforming,Description for job 253,Specialist
+254,Financial Analyst 254,56-1875,Marketing,67,11,5,50,27,Emerging,Description for job 254,Senior Role
+255,Financial Analyst 255,11-3610,Technology,16,46,41,48,29,Declining,Description for job 255,Specialist
+256,Machine Learning Engineer 256,71-2656,Sales,78,11,12,7,109,Transforming,Description for job 256,Senior Role
+257,Accountant 257,62-7117,Sales,100,13,28,50,67,Declining,Description for job 257,Management
+258,Accountant 258,44-1340,Operations,30,38,19,18,58,Transforming,Description for job 258,Senior Role
+259,Truck Driver 259,70-2264,Technology,5,14,47,18,102,Transforming,Description for job 259,Management
+260,HR Specialist 260,56-5234,Sales,22,37,50,1,75,Transforming,Description for job 260,Senior Role
+261,Data Scientist 261,92-3823,Operations,79,2,15,36,142,Transforming,Description for job 261,Senior Role
+262,Sales Director 262,98-8049,Marketing,83,14,19,33,54,Transforming,Description for job 262,Senior Role
+263,Machine Learning Engineer 263,39-1626,Technology,76,2,2,21,180,Stable,Description for job 263,Management
+264,HR Specialist 264,58-5296,Operations,82,16,13,24,165,Emerging,Description for job 264,Senior Role
+265,Accountant 265,91-1519,Operations,30,28,36,36,176,Emerging,Description for job 265,Senior Role
+266,Accountant 266,37-3353,Marketing,69,45,1,48,99,Emerging,Description for job 266,Specialist
+267,Graphic Designer 267,72-2474,Finance,12,43,15,40,192,Transforming,Description for job 267,Senior Role
+268,Nurse 268,33-3658,HR,57,7,44,49,80,Declining,Description for job 268,Senior Role
+269,Accountant 269,51-4934,Finance,42,1,7,45,51,Stable,Description for job 269,Senior Role
+270,Financial Analyst 270,95-4337,Finance,92,4,20,29,91,Declining,Description for job 270,Senior Role
+271,HR Specialist 271,33-4429,Finance,20,46,25,50,55,Stable,Description for job 271,Senior Role
+272,AI Specialist 272,79-9577,HR,89,11,33,20,44,Transforming,Description for job 272,Management
+273,HR Specialist 273,66-6048,Finance,6,36,38,38,179,Emerging,Description for job 273,Specialist
+274,Financial Analyst 274,58-8044,Sales,34,20,10,47,185,Transforming,Description for job 274,Senior Role
+275,Sales Director 275,13-6183,Technology,88,13,14,19,165,Declining,Description for job 275,Specialist
+276,Accountant 276,84-8011,Operations,29,18,6,25,59,Emerging,Description for job 276,Specialist
+277,Sales Director 277,29-4005,Marketing,95,26,32,49,190,Stable,Description for job 277,Specialist
+278,Accountant 278,71-3869,Operations,48,38,21,46,21,Emerging,Description for job 278,Management
+279,Marketing Manager 279,26-5725,Marketing,64,41,2,48,118,Emerging,Description for job 279,Senior Role
+280,Marketing Manager 280,20-8040,Operations,63,42,17,1,140,Transforming,Description for job 280,Senior Role
+281,Software Engineer 281,88-8192,Marketing,76,15,15,49,73,Emerging,Description for job 281,Specialist
+282,Sales Director 282,26-1473,Marketing,80,23,12,15,45,Transforming,Description for job 282,Senior Role
+283,Accountant 283,68-5062,HR,34,13,22,42,112,Stable,Description for job 283,Specialist
+284,Customer Service Rep 284,61-8497,Technology,60,34,19,43,19,Emerging,Description for job 284,Management
+285,Marketing Manager 285,98-5292,Finance,89,47,9,35,9,Transforming,Description for job 285,Senior Role
+286,Graphic Designer 286,42-7948,Sales,41,49,27,16,141,Declining,Description for job 286,Senior Role
+287,Marketing Manager 287,91-9465,Sales,83,13,43,4,51,Stable,Description for job 287,Specialist
+288,Sales Director 288,57-5381,Operations,76,44,6,29,179,Emerging,Description for job 288,Senior Role
+289,Data Scientist 289,69-8573,Operations,43,23,26,41,57,Emerging,Description for job 289,Senior Role
+290,Truck Driver 290,81-8405,Marketing,7,1,41,13,15,Stable,Description for job 290,Senior Role
+291,Truck Driver 291,25-1790,Finance,45,40,14,33,175,Transforming,Description for job 291,Management
+292,Customer Service Rep 292,43-2908,HR,37,21,29,44,35,Stable,Description for job 292,Management
+293,Data Scientist 293,19-2290,Finance,96,43,29,16,118,Transforming,Description for job 293,Specialist
+294,Marketing Manager 294,16-6299,Finance,65,2,41,32,8,Emerging,Description for job 294,Specialist
+295,Nurse 295,21-1195,Finance,85,7,1,2,4,Stable,Description for job 295,Specialist
+296,Software Engineer 296,14-1970,Technology,42,16,3,12,16,Stable,Description for job 296,Specialist
+297,HR Specialist 297,10-1211,HR,31,11,39,41,199,Declining,Description for job 297,Specialist
+298,Graphic Designer 298,80-7496,HR,8,4,40,38,192,Transforming,Description for job 298,Specialist
+299,HR Specialist 299,72-9067,Technology,72,1,25,3,4,Stable,Description for job 299,Senior Role
+300,Customer Service Rep 300,28-2867,HR,26,1,21,4,18,Stable,Description for job 300,Senior Role
+301,Data Scientist 301,81-2010,Sales,74,25,15,22,139,Emerging,Description for job 301,Management
+302,Accountant 302,74-8491,HR,2,38,43,50,152,Transforming,Description for job 302,Management
+303,Sales Director 303,70-8134,Operations,24,36,48,15,63,Declining,Description for job 303,Management
+304,Nurse 304,50-9843,Operations,11,6,20,9,2,Declining,Description for job 304,Senior Role
+305,Sales Director 305,31-4613,Finance,48,19,14,9,8,Declining,Description for job 305,Management
+306,Data Scientist 306,62-8842,Finance,5,39,30,13,95,Transforming,Description for job 306,Senior Role
+307,Financial Analyst 307,85-1704,HR,37,36,18,21,73,Transforming,Description for job 307,Management
+308,Financial Analyst 308,73-3772,Marketing,47,2,50,19,97,Transforming,Description for job 308,Senior Role
+309,AI Specialist 309,45-8323,Finance,27,18,11,47,50,Transforming,Description for job 309,Senior Role
+310,Nurse 310,63-1089,Marketing,27,13,14,2,158,Declining,Description for job 310,Management
+311,Accountant 311,18-4627,Operations,17,41,15,35,143,Declining,Description for job 311,Specialist
+312,Customer Service Rep 312,85-9328,HR,56,32,7,44,78,Stable,Description for job 312,Specialist
+313,Customer Service Rep 313,35-3056,Technology,100,43,24,29,179,Transforming,Description for job 313,Management
+314,AI Specialist 314,33-9829,Operations,21,19,47,19,176,Emerging,Description for job 314,Specialist
+315,Graphic Designer 315,10-5095,Finance,10,48,6,13,121,Emerging,Description for job 315,Specialist
+316,HR Specialist 316,96-3912,Marketing,78,35,36,7,183,Emerging,Description for job 316,Specialist
+317,Data Scientist 317,99-9111,Operations,21,50,27,46,156,Transforming,Description for job 317,Specialist
+318,AI Specialist 318,48-8339,Marketing,21,15,4,5,182,Declining,Description for job 318,Senior Role
+319,AI Specialist 319,29-2086,Operations,40,11,36,48,134,Emerging,Description for job 319,Senior Role
+320,Marketing Manager 320,42-1343,HR,23,49,31,28,84,Declining,Description for job 320,Specialist
+321,Machine Learning Engineer 321,21-1690,HR,1,5,6,26,151,Emerging,Description for job 321,Senior Role
+322,Software Engineer 322,89-4387,Operations,63,48,13,12,144,Declining,Description for job 322,Senior Role
+323,Nurse 323,36-8198,Finance,32,10,21,21,87,Emerging,Description for job 323,Specialist
+324,Software Engineer 324,95-7137,Marketing,95,9,31,45,74,Emerging,Description for job 324,Specialist
+325,Accountant 325,70-5263,Sales,24,41,41,34,28,Declining,Description for job 325,Management
+326,Marketing Manager 326,65-7965,HR,33,25,17,29,93,Declining,Description for job 326,Specialist
+327,Machine Learning Engineer 327,38-2002,Operations,26,4,32,25,50,Emerging,Description for job 327,Senior Role
+328,Software Engineer 328,33-6688,Finance,17,27,31,30,169,Stable,Description for job 328,Management
+329,Sales Director 329,78-5520,Operations,42,40,13,40,42,Stable,Description for job 329,Specialist
+330,Customer Service Rep 330,88-3663,Marketing,25,4,7,43,121,Declining,Description for job 330,Senior Role
+331,Financial Analyst 331,30-3168,HR,75,17,33,48,89,Stable,Description for job 331,Management
+332,Truck Driver 332,47-8620,Marketing,6,2,25,44,164,Stable,Description for job 332,Management
+333,Customer Service Rep 333,56-7354,Marketing,76,38,30,14,9,Transforming,Description for job 333,Management
+334,Graphic Designer 334,86-4098,Sales,53,3,43,48,142,Emerging,Description for job 334,Management
+335,Graphic Designer 335,10-1034,Technology,9,49,38,32,119,Emerging,Description for job 335,Specialist
+336,Sales Director 336,12-4133,Technology,5,8,7,6,18,Emerging,Description for job 336,Senior Role
+337,AI Specialist 337,98-5571,HR,31,45,16,42,51,Stable,Description for job 337,Specialist
+338,Nurse 338,50-6331,Marketing,76,23,11,26,180,Stable,Description for job 338,Management
+339,Graphic Designer 339,57-8658,Sales,96,18,30,30,130,Declining,Description for job 339,Management
+340,AI Specialist 340,29-1688,Sales,77,49,12,7,24,Emerging,Description for job 340,Specialist
+341,Truck Driver 341,50-2508,HR,41,11,19,39,174,Declining,Description for job 341,Senior Role
+342,Financial Analyst 342,26-8654,Operations,16,44,22,33,1,Transforming,Description for job 342,Senior Role
+343,AI Specialist 343,84-4333,Finance,20,20,40,15,170,Declining,Description for job 343,Senior Role
+344,Graphic Designer 344,68-3909,Marketing,7,13,45,19,59,Stable,Description for job 344,Senior Role
+345,Sales Director 345,15-3001,Technology,95,24,21,49,55,Stable,Description for job 345,Specialist
+346,Machine Learning Engineer 346,48-3725,Technology,31,15,24,21,144,Transforming,Description for job 346,Senior Role
+347,Data Scientist 347,94-8874,Technology,34,9,33,36,111,Declining,Description for job 347,Specialist
+348,Truck Driver 348,10-2449,Marketing,95,19,43,36,14,Declining,Description for job 348,Management
+349,Marketing Manager 349,39-8912,Finance,86,48,1,40,54,Declining,Description for job 349,Senior Role
+350,Sales Director 350,34-8113,Marketing,47,1,28,16,98,Declining,Description for job 350,Senior Role
+351,Nurse 351,22-5519,HR,8,30,5,35,110,Emerging,Description for job 351,Management
+352,Nurse 352,84-8984,Technology,92,46,9,30,3,Emerging,Description for job 352,Management
+353,Graphic Designer 353,94-4441,Operations,74,40,12,7,20,Declining,Description for job 353,Senior Role
+354,Data Scientist 354,81-4774,Sales,17,25,6,42,97,Declining,Description for job 354,Senior Role
+355,Sales Director 355,87-2104,Sales,41,24,20,25,174,Declining,Description for job 355,Specialist
+356,Graphic Designer 356,93-7293,Marketing,86,28,46,2,58,Declining,Description for job 356,Management
+357,Graphic Designer 357,52-1563,Operations,88,28,39,38,193,Declining,Description for job 357,Management
+358,Marketing Manager 358,38-6928,Marketing,95,8,35,22,77,Transforming,Description for job 358,Management
+359,HR Specialist 359,86-4442,Marketing,79,4,21,16,163,Emerging,Description for job 359,Senior Role
+360,Graphic Designer 360,96-4495,Operations,52,49,9,46,195,Stable,Description for job 360,Senior Role
+361,Nurse 361,21-8001,Finance,45,26,25,5,26,Transforming,Description for job 361,Senior Role
+362,Truck Driver 362,90-2681,Marketing,8,29,46,40,195,Emerging,Description for job 362,Senior Role
+363,Software Engineer 363,77-1321,Operations,4,6,17,44,73,Stable,Description for job 363,Specialist
+364,Accountant 364,97-2766,Operations,64,6,47,50,74,Stable,Description for job 364,Specialist
+365,HR Specialist 365,41-8373,HR,82,3,2,20,68,Declining,Description for job 365,Management
+366,Data Scientist 366,97-8223,HR,86,3,16,39,182,Stable,Description for job 366,Management
+367,Financial Analyst 367,88-4907,Technology,54,8,10,8,67,Stable,Description for job 367,Management
+368,AI Specialist 368,65-5399,Finance,44,10,24,32,114,Stable,Description for job 368,Senior Role
+369,AI Specialist 369,25-2623,Sales,4,46,5,2,165,Transforming,Description for job 369,Senior Role
+370,Graphic Designer 370,67-3728,Operations,1,18,28,44,119,Stable,Description for job 370,Management
+371,Customer Service Rep 371,43-3455,Sales,40,30,21,14,91,Transforming,Description for job 371,Senior Role
+372,Customer Service Rep 372,17-5847,Finance,37,20,22,28,1,Declining,Description for job 372,Senior Role
+373,Financial Analyst 373,93-5402,Marketing,45,27,20,19,88,Emerging,Description for job 373,Specialist
+374,AI Specialist 374,68-9455,Marketing,76,34,33,17,23,Emerging,Description for job 374,Specialist
+375,Marketing Manager 375,38-4638,Operations,25,49,40,35,32,Declining,Description for job 375,Specialist
+376,Data Scientist 376,93-1271,Marketing,59,6,18,1,26,Stable,Description for job 376,Specialist
+377,Financial Analyst 377,35-8239,HR,45,33,16,49,180,Stable,Description for job 377,Specialist
+378,AI Specialist 378,71-8751,Finance,30,47,7,50,172,Stable,Description for job 378,Management
+379,Customer Service Rep 379,71-6977,Sales,13,8,46,17,156,Stable,Description for job 379,Specialist
+380,Nurse 380,84-4477,Technology,34,30,19,50,140,Emerging,Description for job 380,Specialist
+381,Nurse 381,61-3198,HR,7,22,28,5,11,Stable,Description for job 381,Management
+382,Data Scientist 382,14-2214,Finance,24,6,9,43,155,Emerging,Description for job 382,Senior Role
+383,Sales Director 383,77-2813,Marketing,66,33,31,15,4,Emerging,Description for job 383,Senior Role
+384,Software Engineer 384,34-3068,Operations,65,28,19,12,81,Emerging,Description for job 384,Senior Role
+385,Accountant 385,41-4569,Operations,71,3,1,39,108,Transforming,Description for job 385,Senior Role
+386,Data Scientist 386,31-4879,HR,67,6,7,37,60,Emerging,Description for job 386,Specialist
+387,Customer Service Rep 387,83-5144,Technology,62,14,24,34,99,Declining,Description for job 387,Specialist
+388,AI Specialist 388,10-6309,Sales,80,43,10,31,9,Declining,Description for job 388,Senior Role
+389,Software Engineer 389,13-7945,Operations,30,33,21,34,24,Emerging,Description for job 389,Management
+390,AI Specialist 390,27-4268,Marketing,61,19,44,35,26,Transforming,Description for job 390,Specialist
+391,Nurse 391,51-8945,Marketing,26,19,42,50,23,Declining,Description for job 391,Senior Role
+392,Accountant 392,77-3221,HR,23,1,3,29,77,Declining,Description for job 392,Management
+393,AI Specialist 393,10-9612,Sales,60,31,11,25,172,Emerging,Description for job 393,Senior Role
+394,Financial Analyst 394,21-3763,HR,25,47,23,12,93,Transforming,Description for job 394,Senior Role
+395,Machine Learning Engineer 395,87-5007,Finance,33,29,17,28,87,Emerging,Description for job 395,Specialist
+396,Software Engineer 396,63-8421,Finance,35,44,34,19,4,Emerging,Description for job 396,Specialist
+397,Machine Learning Engineer 397,80-1287,Technology,12,39,2,3,173,Transforming,Description for job 397,Specialist
+398,Truck Driver 398,19-7625,Marketing,52,18,3,25,38,Emerging,Description for job 398,Specialist
+399,Sales Director 399,37-2764,Operations,41,50,34,35,166,Stable,Description for job 399,Management
+400,Software Engineer 400,13-5399,Technology,94,4,15,17,194,Emerging,Description for job 400,Senior Role
+401,Machine Learning Engineer 401,83-1231,Operations,3,4,40,2,174,Transforming,Description for job 401,Specialist
+402,Accountant 402,35-5398,Sales,87,48,27,32,56,Transforming,Description for job 402,Specialist
+403,Truck Driver 403,24-4790,Operations,58,49,25,45,129,Transforming,Description for job 403,Senior Role
+404,Financial Analyst 404,54-7239,Sales,96,1,28,45,19,Declining,Description for job 404,Senior Role
+405,Financial Analyst 405,85-6127,Operations,44,32,26,21,71,Transforming,Description for job 405,Management
+406,AI Specialist 406,24-3967,Operations,64,44,7,1,82,Transforming,Description for job 406,Senior Role
+407,Nurse 407,63-9005,HR,51,4,11,29,111,Stable,Description for job 407,Management
+408,AI Specialist 408,46-6200,Operations,96,37,6,15,9,Emerging,Description for job 408,Specialist
+409,Nurse 409,49-7360,Technology,45,9,30,6,38,Transforming,Description for job 409,Specialist
+410,Software Engineer 410,64-2434,Sales,46,7,38,41,74,Transforming,Description for job 410,Senior Role
+411,AI Specialist 411,97-7143,Finance,52,2,43,4,6,Transforming,Description for job 411,Specialist
+412,AI Specialist 412,28-9274,Operations,27,36,25,27,18,Emerging,Description for job 412,Management
+413,Accountant 413,86-5390,Operations,55,42,38,16,168,Transforming,Description for job 413,Management
+414,Software Engineer 414,75-4662,Marketing,54,18,18,17,55,Transforming,Description for job 414,Management
+415,Machine Learning Engineer 415,56-2606,Marketing,22,18,22,31,14,Emerging,Description for job 415,Senior Role
+416,Graphic Designer 416,20-5169,Sales,55,34,25,11,156,Emerging,Description for job 416,Senior Role
+417,Nurse 417,64-9127,Technology,60,8,33,3,71,Emerging,Description for job 417,Specialist
+418,Marketing Manager 418,17-5633,HR,46,17,33,4,109,Declining,Description for job 418,Management
+419,HR Specialist 419,93-8266,Marketing,87,37,8,8,46,Emerging,Description for job 419,Management
+420,Financial Analyst 420,58-9603,HR,86,9,32,35,74,Stable,Description for job 420,Specialist
+421,HR Specialist 421,18-3574,Technology,12,25,29,20,147,Emerging,Description for job 421,Management
+422,Sales Director 422,10-1737,Sales,20,36,32,1,170,Transforming,Description for job 422,Management
+423,Software Engineer 423,25-7388,Sales,37,34,49,10,4,Transforming,Description for job 423,Specialist
+424,AI Specialist 424,11-9859,Technology,67,38,4,11,199,Stable,Description for job 424,Specialist
+425,Graphic Designer 425,70-6577,Operations,12,37,28,33,184,Stable,Description for job 425,Senior Role
+426,Truck Driver 426,70-1981,Sales,73,38,16,5,103,Declining,Description for job 426,Management
+427,Data Scientist 427,16-3220,HR,86,15,5,30,110,Emerging,Description for job 427,Management
+428,HR Specialist 428,85-7024,Technology,97,30,37,28,66,Stable,Description for job 428,Specialist
+429,Machine Learning Engineer 429,55-2630,Marketing,6,34,16,10,152,Transforming,Description for job 429,Senior Role
+430,Sales Director 430,53-9421,Marketing,55,42,3,39,100,Declining,Description for job 430,Senior Role
+431,Graphic Designer 431,10-1872,HR,90,38,39,16,127,Declining,Description for job 431,Management
+432,HR Specialist 432,34-2158,Operations,72,26,9,20,68,Stable,Description for job 432,Management
+433,Marketing Manager 433,58-3561,Finance,64,6,15,20,17,Stable,Description for job 433,Senior Role
+434,Financial Analyst 434,64-5643,Operations,25,2,14,10,195,Emerging,Description for job 434,Specialist
+435,Data Scientist 435,75-8815,Sales,4,39,39,46,100,Transforming,Description for job 435,Senior Role
+436,Graphic Designer 436,60-9831,Sales,45,25,10,4,25,Emerging,Description for job 436,Senior Role
+437,Customer Service Rep 437,87-7372,Operations,57,24,35,20,124,Declining,Description for job 437,Specialist
+438,Sales Director 438,83-5510,Operations,79,43,46,49,178,Transforming,Description for job 438,Specialist
+439,Machine Learning Engineer 439,14-3028,Finance,96,49,23,15,150,Emerging,Description for job 439,Senior Role
+440,Accountant 440,25-4979,HR,48,44,5,29,99,Stable,Description for job 440,Management
+441,Truck Driver 441,84-3619,Technology,54,8,38,28,191,Declining,Description for job 441,Senior Role
+442,Customer Service Rep 442,50-7641,Technology,32,36,34,23,155,Declining,Description for job 442,Senior Role
+443,Customer Service Rep 443,10-2399,Finance,36,7,36,11,27,Transforming,Description for job 443,Specialist
+444,Sales Director 444,14-7338,Finance,7,27,15,44,40,Declining,Description for job 444,Specialist
+445,Marketing Manager 445,93-3491,HR,68,43,48,43,189,Stable,Description for job 445,Specialist
+446,Software Engineer 446,77-4242,Technology,35,5,30,32,54,Emerging,Description for job 446,Management
+447,Software Engineer 447,69-7716,Sales,17,15,50,31,102,Stable,Description for job 447,Senior Role
+448,Customer Service Rep 448,71-5580,Sales,59,28,49,50,194,Stable,Description for job 448,Senior Role
+449,Data Scientist 449,64-1012,HR,39,49,32,17,184,Declining,Description for job 449,Management
+450,Graphic Designer 450,35-1863,Technology,9,43,17,20,85,Declining,Description for job 450,Specialist
+451,Sales Director 451,11-3953,Finance,49,48,43,2,113,Stable,Description for job 451,Specialist
+452,Accountant 452,75-2260,Technology,58,21,11,46,174,Transforming,Description for job 452,Management
+453,AI Specialist 453,58-4088,Finance,71,18,29,5,21,Transforming,Description for job 453,Specialist
+454,Accountant 454,22-3628,Technology,6,49,6,16,31,Transforming,Description for job 454,Management
+455,Graphic Designer 455,36-5980,Technology,50,1,9,18,11,Stable,Description for job 455,Specialist
+456,Data Scientist 456,79-3023,Operations,16,41,41,29,54,Declining,Description for job 456,Senior Role
+457,Accountant 457,39-7187,Finance,4,49,16,15,133,Emerging,Description for job 457,Management
+458,Nurse 458,74-2634,Marketing,76,17,43,28,195,Declining,Description for job 458,Senior Role
+459,Sales Director 459,92-7430,Technology,99,47,44,10,121,Transforming,Description for job 459,Management
+460,Machine Learning Engineer 460,19-5297,Finance,40,6,45,49,93,Transforming,Description for job 460,Specialist
+461,Marketing Manager 461,29-6762,Finance,64,8,22,47,117,Emerging,Description for job 461,Management
+462,Customer Service Rep 462,33-2512,Marketing,77,14,48,9,136,Transforming,Description for job 462,Management
+463,Machine Learning Engineer 463,46-5934,Marketing,53,9,28,26,34,Transforming,Description for job 463,Management
+464,Data Scientist 464,71-1302,Marketing,27,6,41,13,152,Emerging,Description for job 464,Specialist
+465,Data Scientist 465,90-8524,Technology,56,18,14,29,145,Emerging,Description for job 465,Specialist
+466,Accountant 466,26-5855,HR,96,22,33,27,184,Stable,Description for job 466,Senior Role
+467,Data Scientist 467,69-1139,Marketing,81,36,7,19,177,Emerging,Description for job 467,Senior Role
+468,Machine Learning Engineer 468,48-2230,Sales,58,31,49,1,81,Declining,Description for job 468,Management
+469,Machine Learning Engineer 469,50-9394,Marketing,32,15,41,11,15,Emerging,Description for job 469,Senior Role
+470,Customer Service Rep 470,19-2618,Operations,50,18,13,40,62,Transforming,Description for job 470,Management
+471,Marketing Manager 471,88-2533,Marketing,32,14,1,48,169,Stable,Description for job 471,Management
+472,Accountant 472,17-8615,Technology,4,41,4,34,104,Declining,Description for job 472,Senior Role
+473,Marketing Manager 473,99-4429,Operations,75,27,29,18,30,Stable,Description for job 473,Management
+474,Software Engineer 474,68-5893,Technology,83,32,43,19,19,Emerging,Description for job 474,Senior Role
+475,Truck Driver 475,76-6834,Finance,65,39,23,40,167,Transforming,Description for job 475,Management
+476,Nurse 476,98-1383,Sales,13,7,50,50,35,Stable,Description for job 476,Management
+477,Graphic Designer 477,50-2408,HR,68,11,13,47,84,Stable,Description for job 477,Senior Role
+478,Machine Learning Engineer 478,27-8860,HR,43,22,24,17,31,Emerging,Description for job 478,Management
+479,Graphic Designer 479,43-8078,Finance,94,18,45,28,38,Stable,Description for job 479,Management
+480,AI Specialist 480,31-5096,Marketing,84,13,2,22,25,Emerging,Description for job 480,Senior Role
+481,Marketing Manager 481,58-5212,HR,2,35,50,31,114,Transforming,Description for job 481,Management
+482,HR Specialist 482,20-3082,Operations,13,48,50,29,91,Stable,Description for job 482,Specialist
+483,HR Specialist 483,94-4244,Sales,12,7,27,7,17,Transforming,Description for job 483,Management
+484,Nurse 484,92-2513,Sales,82,8,41,3,73,Stable,Description for job 484,Management
+485,Accountant 485,52-6882,Marketing,50,13,16,4,126,Stable,Description for job 485,Management
+486,Graphic Designer 486,43-1754,Finance,8,11,45,18,39,Emerging,Description for job 486,Management
+487,Graphic Designer 487,99-5096,Marketing,55,29,9,5,13,Emerging,Description for job 487,Management
+488,Customer Service Rep 488,80-5137,Sales,9,33,47,28,162,Emerging,Description for job 488,Senior Role
+489,Truck Driver 489,32-2864,Marketing,88,31,27,26,136,Declining,Description for job 489,Specialist
+490,Truck Driver 490,61-2434,Technology,31,39,10,8,114,Declining,Description for job 490,Management
+491,Sales Director 491,15-2532,Marketing,15,28,1,8,33,Declining,Description for job 491,Specialist
+492,Marketing Manager 492,98-9986,HR,21,40,35,3,193,Transforming,Description for job 492,Specialist
+493,Accountant 493,72-8048,Finance,84,16,14,3,179,Transforming,Description for job 493,Management
+494,Truck Driver 494,90-1271,Sales,16,16,42,32,18,Stable,Description for job 494,Specialist
+495,Software Engineer 495,38-1716,Technology,24,25,38,21,90,Declining,Description for job 495,Management
+496,Marketing Manager 496,54-7250,Sales,35,17,4,16,107,Emerging,Description for job 496,Management
+497,Software Engineer 497,99-4770,Finance,69,6,10,13,167,Transforming,Description for job 497,Senior Role
+498,Software Engineer 498,48-5626,Marketing,15,47,44,49,196,Stable,Description for job 498,Specialist
+499,Graphic Designer 499,30-1126,Operations,37,18,48,21,66,Declining,Description for job 499,Management
+500,Accountant 500,24-2556,Sales,34,35,25,32,146,Transforming,Description for job 500,Senior Role
+501,Nurse 501,39-3457,Sales,58,3,12,14,52,Transforming,Description for job 501,Specialist
+502,Marketing Manager 502,60-2691,Operations,79,18,14,19,47,Transforming,Description for job 502,Specialist
+503,Machine Learning Engineer 503,19-3659,Marketing,42,24,43,12,84,Declining,Description for job 503,Senior Role
+504,HR Specialist 504,50-4145,Sales,80,41,44,40,48,Declining,Description for job 504,Specialist
+505,AI Specialist 505,24-7303,Marketing,68,4,45,37,72,Declining,Description for job 505,Specialist
+506,Nurse 506,64-9756,Sales,54,31,41,29,38,Transforming,Description for job 506,Management
+507,Machine Learning Engineer 507,45-7841,HR,61,46,22,32,139,Transforming,Description for job 507,Management
+508,Customer Service Rep 508,62-1529,Technology,43,28,7,13,17,Transforming,Description for job 508,Specialist
+509,Data Scientist 509,72-3076,Finance,43,8,12,10,86,Emerging,Description for job 509,Specialist
+510,Data Scientist 510,50-1375,Marketing,52,42,19,19,144,Emerging,Description for job 510,Specialist
+511,Graphic Designer 511,84-7382,Operations,65,37,48,32,116,Stable,Description for job 511,Specialist
+512,Nurse 512,94-3223,Marketing,15,50,27,31,194,Declining,Description for job 512,Senior Role
+513,Accountant 513,72-5764,HR,14,7,31,9,20,Emerging,Description for job 513,Senior Role
+514,Customer Service Rep 514,24-4370,Finance,26,48,2,8,165,Declining,Description for job 514,Management
+515,AI Specialist 515,13-2165,Finance,4,29,43,28,35,Declining,Description for job 515,Management
+516,Nurse 516,33-5556,Operations,73,44,36,20,15,Stable,Description for job 516,Management
+517,Accountant 517,14-8959,Marketing,24,4,34,31,142,Transforming,Description for job 517,Senior Role
+518,Graphic Designer 518,21-4197,Operations,10,13,21,47,106,Stable,Description for job 518,Specialist
+519,Accountant 519,27-7721,Marketing,27,24,33,24,147,Declining,Description for job 519,Senior Role
+520,Truck Driver 520,29-6009,Technology,29,32,5,8,47,Emerging,Description for job 520,Senior Role
+521,Software Engineer 521,15-3638,Operations,50,40,31,34,179,Emerging,Description for job 521,Senior Role
+522,Sales Director 522,44-9362,Finance,80,25,40,26,12,Declining,Description for job 522,Management
+523,AI Specialist 523,52-4601,Finance,82,38,5,42,38,Transforming,Description for job 523,Management
+524,Data Scientist 524,86-6551,Sales,33,44,25,43,109,Declining,Description for job 524,Specialist
+525,Software Engineer 525,24-1456,HR,44,10,37,37,136,Transforming,Description for job 525,Management
+526,Software Engineer 526,86-9206,Technology,63,14,18,45,79,Emerging,Description for job 526,Specialist
+527,Software Engineer 527,10-7166,Operations,55,37,49,12,59,Transforming,Description for job 527,Senior Role
+528,Truck Driver 528,91-3494,Marketing,52,43,15,5,170,Emerging,Description for job 528,Senior Role
+529,HR Specialist 529,69-3450,Sales,4,33,29,30,11,Stable,Description for job 529,Management
+530,Customer Service Rep 530,17-9990,HR,1,35,41,38,22,Stable,Description for job 530,Management
+531,Financial Analyst 531,65-6385,HR,7,36,13,45,32,Declining,Description for job 531,Specialist
+532,AI Specialist 532,83-7743,Operations,66,39,42,46,13,Declining,Description for job 532,Senior Role
+533,Truck Driver 533,22-9863,Technology,58,21,28,10,46,Declining,Description for job 533,Specialist
+534,Accountant 534,66-4782,Technology,26,37,15,14,59,Emerging,Description for job 534,Specialist
+535,Financial Analyst 535,66-9722,Marketing,71,2,34,49,23,Transforming,Description for job 535,Senior Role
+536,Accountant 536,39-9321,HR,43,5,25,37,127,Emerging,Description for job 536,Specialist
+537,Data Scientist 537,26-8772,HR,6,42,37,31,68,Emerging,Description for job 537,Specialist
+538,Software Engineer 538,76-3695,Sales,91,17,22,29,111,Transforming,Description for job 538,Management
+539,Software Engineer 539,54-1453,Operations,33,9,38,18,36,Declining,Description for job 539,Management
+540,Truck Driver 540,92-7798,Sales,84,48,46,39,44,Declining,Description for job 540,Specialist
+541,Financial Analyst 541,46-1891,Marketing,94,17,24,5,59,Emerging,Description for job 541,Management
+542,Nurse 542,65-8151,Finance,45,50,45,14,46,Emerging,Description for job 542,Specialist
+543,Machine Learning Engineer 543,58-4910,Finance,77,45,22,32,54,Emerging,Description for job 543,Specialist
+544,Graphic Designer 544,21-1770,Technology,99,36,33,36,139,Stable,Description for job 544,Specialist
+545,Financial Analyst 545,22-6566,Sales,56,9,46,1,137,Stable,Description for job 545,Senior Role
+546,Marketing Manager 546,53-3318,HR,95,42,14,38,152,Emerging,Description for job 546,Specialist
+547,Data Scientist 547,62-1353,HR,72,11,20,44,93,Declining,Description for job 547,Management
+548,Data Scientist 548,17-3600,Sales,46,23,9,39,114,Stable,Description for job 548,Specialist
+549,Customer Service Rep 549,53-2382,Technology,49,12,35,34,29,Transforming,Description for job 549,Specialist
+550,Truck Driver 550,96-3551,Finance,17,4,44,9,1,Transforming,Description for job 550,Management
+551,Financial Analyst 551,58-8685,Finance,15,9,1,39,100,Transforming,Description for job 551,Senior Role
+552,Marketing Manager 552,94-5224,Marketing,47,7,6,27,111,Transforming,Description for job 552,Senior Role
+553,AI Specialist 553,31-1124,Sales,49,32,34,8,182,Transforming,Description for job 553,Senior Role
+554,Marketing Manager 554,70-5273,Marketing,76,40,47,8,42,Stable,Description for job 554,Management
+555,Truck Driver 555,96-5243,Marketing,86,29,24,41,41,Transforming,Description for job 555,Management
+556,Machine Learning Engineer 556,86-4377,Operations,83,37,40,10,88,Declining,Description for job 556,Senior Role
+557,Machine Learning Engineer 557,43-6261,Technology,31,5,19,2,59,Emerging,Description for job 557,Management
+558,AI Specialist 558,17-4089,Technology,41,34,10,20,45,Stable,Description for job 558,Senior Role
+559,HR Specialist 559,53-2673,Operations,25,30,20,40,111,Stable,Description for job 559,Management
+560,AI Specialist 560,35-4010,Finance,7,26,8,24,72,Declining,Description for job 560,Specialist
+561,Sales Director 561,13-8037,Sales,18,50,20,31,180,Emerging,Description for job 561,Senior Role
+562,Financial Analyst 562,64-2505,HR,19,6,3,47,48,Emerging,Description for job 562,Management
+563,Machine Learning Engineer 563,25-3538,Operations,58,7,23,45,167,Transforming,Description for job 563,Specialist
+564,Accountant 564,50-5757,Sales,90,39,49,44,122,Declining,Description for job 564,Management
+565,Financial Analyst 565,89-4849,Technology,5,6,10,13,13,Emerging,Description for job 565,Senior Role
+566,HR Specialist 566,23-4537,Technology,69,27,28,19,21,Stable,Description for job 566,Management
+567,Financial Analyst 567,30-5265,Marketing,33,50,6,30,100,Stable,Description for job 567,Senior Role
+568,Marketing Manager 568,59-9922,HR,51,25,38,17,53,Emerging,Description for job 568,Management
+569,Financial Analyst 569,42-6687,Operations,39,43,41,14,25,Stable,Description for job 569,Specialist
+570,Accountant 570,17-5438,Marketing,94,43,18,12,122,Transforming,Description for job 570,Specialist
+571,HR Specialist 571,18-7859,Finance,63,37,44,40,32,Stable,Description for job 571,Senior Role
+572,Customer Service Rep 572,63-2670,Sales,69,11,49,24,193,Stable,Description for job 572,Specialist
+573,Sales Director 573,89-8337,Marketing,28,17,49,36,154,Stable,Description for job 573,Specialist
+574,Accountant 574,65-4299,Operations,39,14,46,45,197,Declining,Description for job 574,Specialist
+575,HR Specialist 575,93-2030,Technology,45,19,35,35,97,Transforming,Description for job 575,Senior Role
+576,Graphic Designer 576,94-2409,Operations,79,10,3,3,61,Emerging,Description for job 576,Specialist
+577,Software Engineer 577,45-1260,Technology,45,32,13,16,179,Stable,Description for job 577,Senior Role
+578,HR Specialist 578,58-5164,Operations,94,22,13,1,167,Transforming,Description for job 578,Specialist
+579,Customer Service Rep 579,39-6091,HR,15,10,16,30,86,Declining,Description for job 579,Specialist
+580,Financial Analyst 580,91-4408,Technology,52,21,49,14,164,Declining,Description for job 580,Specialist
+581,Sales Director 581,36-3930,Finance,36,35,6,12,173,Transforming,Description for job 581,Senior Role
+582,Graphic Designer 582,97-2656,Operations,97,21,48,41,160,Emerging,Description for job 582,Specialist
+583,Financial Analyst 583,18-2177,Marketing,93,23,39,2,183,Emerging,Description for job 583,Specialist
+584,Truck Driver 584,71-2502,HR,9,26,2,30,199,Stable,Description for job 584,Senior Role
+585,Truck Driver 585,49-8136,Marketing,65,50,43,25,87,Declining,Description for job 585,Management
+586,Accountant 586,98-8419,Technology,99,9,17,38,75,Stable,Description for job 586,Management
+587,Nurse 587,71-5156,Sales,8,13,11,26,55,Stable,Description for job 587,Specialist
+588,AI Specialist 588,32-2923,HR,49,46,9,10,193,Stable,Description for job 588,Senior Role
+589,Sales Director 589,77-5935,Finance,50,30,45,45,121,Declining,Description for job 589,Senior Role
+590,Accountant 590,76-2852,Marketing,17,6,26,28,52,Declining,Description for job 590,Senior Role
+591,Sales Director 591,74-2439,Technology,27,26,5,28,174,Emerging,Description for job 591,Management
+592,HR Specialist 592,69-9769,Sales,81,48,20,38,199,Stable,Description for job 592,Specialist
+593,Graphic Designer 593,71-8319,Sales,3,11,26,30,184,Declining,Description for job 593,Management
+594,Machine Learning Engineer 594,58-3130,Operations,91,31,10,35,79,Declining,Description for job 594,Management
+595,Graphic Designer 595,40-2173,Technology,65,34,38,30,81,Emerging,Description for job 595,Senior Role
+596,Financial Analyst 596,77-8142,Finance,66,35,36,50,43,Stable,Description for job 596,Specialist
+597,Customer Service Rep 597,45-1216,Operations,16,43,37,44,51,Declining,Description for job 597,Management
+598,Nurse 598,15-4511,HR,87,40,39,11,67,Emerging,Description for job 598,Management
+599,Data Scientist 599,29-1675,Operations,34,49,32,7,183,Transforming,Description for job 599,Management
+600,Nurse 600,21-3284,Marketing,65,29,44,36,85,Stable,Description for job 600,Management
+601,Customer Service Rep 601,97-4302,HR,98,35,38,30,104,Declining,Description for job 601,Management
+602,Financial Analyst 602,44-8351,Technology,26,26,17,28,143,Transforming,Description for job 602,Management
+603,HR Specialist 603,25-5506,HR,23,24,30,17,34,Stable,Description for job 603,Management
+604,Machine Learning Engineer 604,69-3848,HR,87,32,7,39,111,Emerging,Description for job 604,Management
+605,Software Engineer 605,10-8826,HR,28,46,46,41,79,Stable,Description for job 605,Specialist
+606,Truck Driver 606,73-9081,Technology,73,25,20,26,78,Stable,Description for job 606,Management
+607,Nurse 607,93-2307,Marketing,18,35,45,29,187,Transforming,Description for job 607,Management
+608,Truck Driver 608,50-3429,Marketing,30,26,6,36,149,Transforming,Description for job 608,Senior Role
+609,AI Specialist 609,12-3922,Technology,68,10,45,6,111,Transforming,Description for job 609,Management
+610,Graphic Designer 610,62-4438,HR,95,32,23,8,50,Declining,Description for job 610,Specialist
+611,Marketing Manager 611,50-8522,Marketing,96,32,16,32,172,Emerging,Description for job 611,Management
+612,HR Specialist 612,24-6850,Sales,74,23,42,10,14,Stable,Description for job 612,Specialist
+613,Truck Driver 613,62-7822,HR,18,34,30,19,131,Transforming,Description for job 613,Senior Role
+614,HR Specialist 614,96-2201,Operations,21,22,30,29,31,Transforming,Description for job 614,Senior Role
+615,Nurse 615,39-3351,Marketing,82,45,5,14,29,Emerging,Description for job 615,Management
+616,Accountant 616,27-3813,Operations,95,7,48,46,95,Stable,Description for job 616,Management
+617,Financial Analyst 617,99-5348,Operations,87,9,5,8,121,Transforming,Description for job 617,Management
+618,Machine Learning Engineer 618,36-6038,Operations,14,22,5,35,184,Declining,Description for job 618,Senior Role
+619,AI Specialist 619,61-3556,Operations,73,14,28,41,199,Transforming,Description for job 619,Management
+620,Financial Analyst 620,66-3420,Operations,36,20,49,42,103,Emerging,Description for job 620,Senior Role
+621,Customer Service Rep 621,50-2290,Operations,43,38,23,6,23,Stable,Description for job 621,Senior Role
+622,Sales Director 622,60-6788,HR,77,11,29,22,113,Transforming,Description for job 622,Specialist
+623,Marketing Manager 623,99-4207,Operations,15,5,12,31,167,Declining,Description for job 623,Management
+624,Graphic Designer 624,78-2415,Finance,93,3,9,47,88,Emerging,Description for job 624,Senior Role
+625,Marketing Manager 625,23-6057,Sales,67,4,35,33,188,Emerging,Description for job 625,Management
+626,Marketing Manager 626,61-9296,Finance,74,7,20,19,136,Declining,Description for job 626,Management
+627,Data Scientist 627,71-4955,Technology,76,28,20,2,182,Stable,Description for job 627,Management
+628,Software Engineer 628,69-4080,Operations,82,12,21,18,80,Stable,Description for job 628,Management
+629,Marketing Manager 629,26-2615,HR,22,24,8,48,1,Stable,Description for job 629,Senior Role
+630,Financial Analyst 630,22-6410,Operations,20,17,28,31,65,Stable,Description for job 630,Specialist
+631,Machine Learning Engineer 631,42-5118,Finance,20,5,45,18,110,Stable,Description for job 631,Specialist
+632,Marketing Manager 632,99-7756,Finance,57,49,37,30,87,Transforming,Description for job 632,Management
+633,Customer Service Rep 633,32-8925,HR,97,11,38,50,175,Declining,Description for job 633,Senior Role
+634,Sales Director 634,87-2873,Marketing,22,45,23,31,153,Stable,Description for job 634,Specialist
+635,Marketing Manager 635,82-3627,Technology,53,13,5,36,13,Emerging,Description for job 635,Management
+636,Software Engineer 636,24-4332,Marketing,29,31,37,33,64,Declining,Description for job 636,Senior Role
+637,Customer Service Rep 637,26-2499,Technology,28,43,21,27,15,Stable,Description for job 637,Senior Role
+638,HR Specialist 638,94-6732,Finance,1,47,6,8,113,Declining,Description for job 638,Specialist
+639,Sales Director 639,62-1828,HR,64,18,29,45,166,Stable,Description for job 639,Management
+640,Data Scientist 640,50-9522,Technology,91,31,46,25,171,Declining,Description for job 640,Senior Role
+641,AI Specialist 641,95-5069,Sales,13,42,5,29,144,Transforming,Description for job 641,Specialist
+642,Machine Learning Engineer 642,80-3179,Operations,2,33,5,43,83,Transforming,Description for job 642,Management
+643,Nurse 643,19-9952,Technology,71,9,6,11,198,Declining,Description for job 643,Senior Role
+644,Machine Learning Engineer 644,95-3802,Finance,82,39,9,36,30,Transforming,Description for job 644,Management
+645,Sales Director 645,10-1594,Finance,33,37,9,18,170,Transforming,Description for job 645,Senior Role
+646,Machine Learning Engineer 646,38-8599,Operations,82,42,47,20,37,Emerging,Description for job 646,Specialist
+647,Software Engineer 647,54-7759,HR,2,26,10,36,109,Emerging,Description for job 647,Senior Role
+648,Customer Service Rep 648,42-1176,HR,64,3,1,44,8,Transforming,Description for job 648,Management
+649,Truck Driver 649,70-4809,Sales,92,24,13,26,60,Declining,Description for job 649,Specialist
+650,Nurse 650,78-1058,Marketing,87,47,43,23,143,Emerging,Description for job 650,Management
+651,AI Specialist 651,81-4778,Sales,72,46,8,19,173,Emerging,Description for job 651,Senior Role
+652,AI Specialist 652,96-9038,Sales,47,33,10,26,93,Transforming,Description for job 652,Management
+653,Sales Director 653,71-9017,Technology,14,33,34,1,153,Stable,Description for job 653,Management
+654,Nurse 654,73-1281,Marketing,33,13,25,15,178,Declining,Description for job 654,Senior Role
+655,Sales Director 655,20-1724,Technology,67,47,21,14,50,Transforming,Description for job 655,Senior Role
+656,Software Engineer 656,81-2591,Operations,4,29,23,23,97,Stable,Description for job 656,Specialist
+657,Customer Service Rep 657,84-9305,Sales,62,48,24,37,117,Stable,Description for job 657,Specialist
+658,Data Scientist 658,81-2616,Sales,39,33,30,46,19,Transforming,Description for job 658,Senior Role
+659,AI Specialist 659,21-6555,Marketing,48,20,2,35,163,Declining,Description for job 659,Specialist
+660,Sales Director 660,91-6352,HR,18,41,20,45,196,Stable,Description for job 660,Management
+661,Customer Service Rep 661,60-5693,Operations,21,48,12,37,73,Declining,Description for job 661,Management
+662,Software Engineer 662,87-9104,Marketing,45,28,19,2,195,Transforming,Description for job 662,Specialist
+663,Sales Director 663,46-6537,Sales,20,17,29,42,1,Stable,Description for job 663,Specialist
+664,Accountant 664,21-3226,HR,65,28,18,35,70,Declining,Description for job 664,Specialist
+665,Financial Analyst 665,30-8363,Marketing,38,7,26,36,59,Transforming,Description for job 665,Senior Role
+666,AI Specialist 666,22-7476,Technology,13,34,30,30,36,Stable,Description for job 666,Specialist
+667,Marketing Manager 667,59-9664,HR,27,42,46,6,138,Emerging,Description for job 667,Specialist
+668,HR Specialist 668,43-4808,Finance,71,19,25,14,52,Stable,Description for job 668,Senior Role
+669,Sales Director 669,89-7585,Technology,39,37,3,21,7,Declining,Description for job 669,Senior Role
+670,Marketing Manager 670,93-9418,HR,41,9,19,16,175,Emerging,Description for job 670,Specialist
+671,HR Specialist 671,90-1020,Marketing,89,39,47,50,153,Declining,Description for job 671,Senior Role
+672,Graphic Designer 672,56-3349,Sales,90,12,22,11,124,Emerging,Description for job 672,Specialist
+673,Graphic Designer 673,95-4924,Technology,79,42,2,1,152,Declining,Description for job 673,Specialist
+674,Nurse 674,76-8612,Marketing,29,23,26,19,120,Declining,Description for job 674,Specialist
+675,HR Specialist 675,38-2423,Marketing,80,46,29,29,72,Transforming,Description for job 675,Specialist
+676,Nurse 676,91-5550,Finance,22,18,47,20,113,Stable,Description for job 676,Specialist
+677,Graphic Designer 677,17-8384,Marketing,20,28,37,32,177,Transforming,Description for job 677,Specialist
+678,AI Specialist 678,26-3664,Technology,92,23,38,33,18,Emerging,Description for job 678,Management
+679,Financial Analyst 679,77-6747,HR,13,47,11,13,137,Emerging,Description for job 679,Management
+680,AI Specialist 680,68-9116,Finance,18,21,44,30,112,Transforming,Description for job 680,Specialist
+681,Software Engineer 681,48-2546,Sales,61,43,19,33,46,Stable,Description for job 681,Management
+682,Data Scientist 682,37-9872,Operations,64,37,15,47,67,Emerging,Description for job 682,Senior Role
+683,Financial Analyst 683,43-6939,Marketing,100,36,45,21,150,Transforming,Description for job 683,Senior Role
+684,Marketing Manager 684,34-3882,Sales,56,33,11,18,117,Stable,Description for job 684,Specialist
+685,AI Specialist 685,20-2878,HR,17,42,12,17,18,Stable,Description for job 685,Management
+686,Data Scientist 686,35-7071,HR,51,39,14,48,123,Declining,Description for job 686,Specialist
+687,Truck Driver 687,97-4006,Operations,98,17,42,13,51,Emerging,Description for job 687,Specialist
+688,Truck Driver 688,46-1436,HR,60,42,47,49,167,Stable,Description for job 688,Senior Role
+689,Accountant 689,46-4557,HR,81,29,35,26,152,Stable,Description for job 689,Management
+690,Truck Driver 690,30-3344,Finance,20,48,39,20,45,Stable,Description for job 690,Management
+691,Accountant 691,18-1569,Finance,56,26,6,9,77,Stable,Description for job 691,Specialist
+692,Financial Analyst 692,88-8316,Sales,45,30,39,27,68,Transforming,Description for job 692,Senior Role
+693,Marketing Manager 693,80-1382,Sales,1,36,5,5,128,Declining,Description for job 693,Specialist
+694,Sales Director 694,65-5037,Finance,7,21,1,16,153,Emerging,Description for job 694,Management
+695,Marketing Manager 695,70-9241,Marketing,91,9,32,1,43,Transforming,Description for job 695,Specialist
+696,Nurse 696,74-2254,Marketing,2,44,45,41,69,Transforming,Description for job 696,Senior Role
+697,Machine Learning Engineer 697,77-6163,Sales,6,25,24,47,142,Emerging,Description for job 697,Specialist
+698,Financial Analyst 698,55-1897,Technology,58,50,45,27,121,Stable,Description for job 698,Senior Role
+699,Data Scientist 699,64-9298,Marketing,35,40,15,49,151,Declining,Description for job 699,Specialist
+700,Software Engineer 700,29-2592,Finance,51,32,33,42,15,Transforming,Description for job 700,Senior Role
+701,Financial Analyst 701,48-4372,Technology,61,44,14,41,147,Emerging,Description for job 701,Senior Role
+702,Marketing Manager 702,77-5166,Finance,71,40,16,17,154,Stable,Description for job 702,Management
+703,Financial Analyst 703,47-2281,HR,37,5,36,24,29,Declining,Description for job 703,Senior Role
+704,Accountant 704,70-2037,Operations,19,25,25,47,99,Transforming,Description for job 704,Management
+705,Software Engineer 705,92-5572,Finance,54,9,3,43,158,Declining,Description for job 705,Senior Role
+706,HR Specialist 706,23-1212,Marketing,9,46,12,15,61,Transforming,Description for job 706,Senior Role
+707,Graphic Designer 707,44-8197,Marketing,52,26,27,27,12,Emerging,Description for job 707,Management
+708,HR Specialist 708,65-7285,Sales,24,30,39,28,19,Declining,Description for job 708,Specialist
+709,Customer Service Rep 709,84-6173,HR,76,13,33,31,60,Transforming,Description for job 709,Senior Role
+710,Marketing Manager 710,92-2121,Sales,48,41,37,43,162,Transforming,Description for job 710,Specialist
+711,HR Specialist 711,58-2226,Marketing,22,43,40,33,128,Transforming,Description for job 711,Senior Role
+712,Financial Analyst 712,15-6243,Sales,38,18,20,44,26,Stable,Description for job 712,Senior Role
+713,Sales Director 713,41-8486,HR,61,38,30,12,61,Transforming,Description for job 713,Specialist
+714,AI Specialist 714,18-7759,Sales,54,23,19,50,147,Declining,Description for job 714,Specialist
+715,AI Specialist 715,67-6224,Operations,71,41,6,29,166,Declining,Description for job 715,Management
+716,Truck Driver 716,63-4120,Finance,62,27,20,34,14,Stable,Description for job 716,Senior Role
+717,Marketing Manager 717,93-3950,Finance,8,21,34,6,5,Stable,Description for job 717,Specialist
+718,Marketing Manager 718,65-1648,Sales,28,10,8,18,132,Declining,Description for job 718,Senior Role
+719,Marketing Manager 719,38-1845,Operations,18,31,23,42,165,Stable,Description for job 719,Senior Role
+720,Nurse 720,30-2566,Technology,28,44,45,4,125,Declining,Description for job 720,Specialist
+721,HR Specialist 721,81-9058,Marketing,61,21,46,44,161,Emerging,Description for job 721,Specialist
+722,Software Engineer 722,14-6463,Marketing,82,23,16,16,116,Emerging,Description for job 722,Management
+723,Machine Learning Engineer 723,37-7318,Technology,51,21,43,12,184,Emerging,Description for job 723,Management
+724,Marketing Manager 724,88-8939,Operations,46,27,49,20,119,Stable,Description for job 724,Management
+725,Sales Director 725,15-4707,HR,28,42,10,48,13,Transforming,Description for job 725,Management
+726,Accountant 726,48-8691,Operations,15,20,19,28,114,Transforming,Description for job 726,Senior Role
+727,Marketing Manager 727,56-9260,Technology,15,35,25,44,193,Stable,Description for job 727,Management
+728,Sales Director 728,92-1439,HR,32,45,15,22,145,Emerging,Description for job 728,Senior Role
+729,Graphic Designer 729,20-3574,Operations,52,6,25,42,73,Emerging,Description for job 729,Management
+730,Machine Learning Engineer 730,99-4556,Sales,94,44,25,49,83,Transforming,Description for job 730,Specialist
+731,HR Specialist 731,49-2929,Finance,13,1,31,13,62,Stable,Description for job 731,Senior Role
+732,Nurse 732,11-4173,Finance,36,26,10,31,12,Stable,Description for job 732,Senior Role
+733,Marketing Manager 733,50-1760,HR,51,28,18,41,177,Transforming,Description for job 733,Specialist
+734,Graphic Designer 734,49-7658,HR,14,16,28,23,76,Declining,Description for job 734,Specialist
+735,Graphic Designer 735,16-7033,Technology,41,31,3,16,137,Declining,Description for job 735,Specialist
+736,Marketing Manager 736,41-5790,Technology,15,27,49,38,46,Transforming,Description for job 736,Specialist
+737,Sales Director 737,62-2613,Marketing,68,24,1,50,66,Declining,Description for job 737,Management
+738,Financial Analyst 738,45-5244,HR,85,11,22,6,131,Stable,Description for job 738,Specialist
+739,Graphic Designer 739,81-6511,HR,14,3,17,16,71,Declining,Description for job 739,Management
+740,HR Specialist 740,89-7380,Sales,32,44,43,6,181,Emerging,Description for job 740,Senior Role
+741,Truck Driver 741,32-1136,Marketing,73,8,24,26,22,Stable,Description for job 741,Senior Role
+742,Software Engineer 742,80-1548,Marketing,1,41,27,44,190,Transforming,Description for job 742,Senior Role
+743,HR Specialist 743,44-3541,Sales,30,7,49,17,108,Transforming,Description for job 743,Specialist
+744,HR Specialist 744,79-1965,Technology,51,37,36,20,9,Emerging,Description for job 744,Senior Role
+745,Marketing Manager 745,82-5359,Technology,5,9,48,41,123,Declining,Description for job 745,Management
+746,Accountant 746,92-8538,Finance,28,31,25,26,100,Declining,Description for job 746,Specialist
+747,Graphic Designer 747,55-3590,Technology,21,10,47,42,46,Emerging,Description for job 747,Specialist
+748,AI Specialist 748,28-1089,Sales,54,15,31,23,90,Stable,Description for job 748,Management
+749,Accountant 749,99-9687,Operations,35,8,29,47,6,Emerging,Description for job 749,Specialist
+750,Data Scientist 750,18-3637,Finance,82,5,46,47,83,Transforming,Description for job 750,Senior Role
+751,Truck Driver 751,46-3035,Operations,28,41,44,48,172,Stable,Description for job 751,Specialist
+752,Nurse 752,36-4780,Finance,9,33,36,48,92,Transforming,Description for job 752,Specialist
+753,Software Engineer 753,82-8498,Operations,20,22,6,26,127,Declining,Description for job 753,Specialist
+754,AI Specialist 754,14-5404,Technology,37,43,13,23,132,Declining,Description for job 754,Management
+755,AI Specialist 755,53-3327,Sales,61,40,49,29,101,Declining,Description for job 755,Specialist
+756,Financial Analyst 756,86-8642,Sales,89,32,19,26,109,Transforming,Description for job 756,Management
+757,Marketing Manager 757,81-9719,Sales,20,29,8,14,78,Stable,Description for job 757,Management
+758,Marketing Manager 758,14-8516,Sales,1,6,12,17,86,Transforming,Description for job 758,Specialist
+759,Truck Driver 759,25-7327,Technology,91,42,13,46,105,Stable,Description for job 759,Management
+760,Customer Service Rep 760,26-2502,Finance,94,49,16,25,147,Emerging,Description for job 760,Specialist
+761,Machine Learning Engineer 761,82-9268,Marketing,69,30,25,2,129,Stable,Description for job 761,Management
+762,Software Engineer 762,42-2981,HR,30,4,29,48,27,Emerging,Description for job 762,Management
+763,HR Specialist 763,89-8851,Technology,11,30,18,5,97,Stable,Description for job 763,Management
+764,Customer Service Rep 764,15-6264,Sales,37,10,1,49,70,Stable,Description for job 764,Management
+765,Data Scientist 765,63-8946,HR,6,35,48,45,193,Transforming,Description for job 765,Management
+766,Financial Analyst 766,14-1631,Finance,84,6,41,21,141,Emerging,Description for job 766,Specialist
+767,Nurse 767,73-9767,Operations,65,40,49,21,113,Stable,Description for job 767,Management
+768,AI Specialist 768,69-1792,Sales,21,6,21,45,150,Stable,Description for job 768,Senior Role
+769,Graphic Designer 769,92-2908,Operations,45,30,5,21,94,Stable,Description for job 769,Management
+770,AI Specialist 770,25-2013,Sales,87,40,23,6,156,Declining,Description for job 770,Management
+771,Truck Driver 771,32-3851,Marketing,48,42,31,12,186,Transforming,Description for job 771,Management
+772,Graphic Designer 772,20-9121,Finance,75,42,1,7,27,Emerging,Description for job 772,Management
+773,Software Engineer 773,16-4879,Operations,13,27,30,31,28,Transforming,Description for job 773,Management
+774,Truck Driver 774,66-9533,Marketing,88,50,4,45,28,Stable,Description for job 774,Specialist
+775,Marketing Manager 775,67-7449,Marketing,86,18,23,10,4,Transforming,Description for job 775,Management
+776,Nurse 776,49-2503,Operations,47,37,49,30,17,Transforming,Description for job 776,Senior Role
+777,Software Engineer 777,40-1786,Finance,55,48,40,11,131,Declining,Description for job 777,Specialist
+778,Machine Learning Engineer 778,10-8523,Sales,22,21,1,21,106,Transforming,Description for job 778,Senior Role
+779,Graphic Designer 779,35-7393,HR,33,20,26,24,50,Transforming,Description for job 779,Senior Role
+780,Accountant 780,22-6415,Marketing,34,33,36,16,28,Stable,Description for job 780,Specialist
+781,AI Specialist 781,20-3899,Sales,62,43,15,47,160,Transforming,Description for job 781,Senior Role
+782,Sales Director 782,32-9868,HR,57,1,46,38,18,Declining,Description for job 782,Senior Role
+783,Software Engineer 783,65-3655,Operations,80,36,44,16,128,Emerging,Description for job 783,Specialist
+784,HR Specialist 784,16-1234,HR,4,30,26,28,181,Stable,Description for job 784,Specialist
+785,HR Specialist 785,36-2068,Operations,78,9,50,1,144,Declining,Description for job 785,Specialist
+786,Software Engineer 786,10-8096,Operations,46,4,8,42,30,Declining,Description for job 786,Senior Role
+787,Financial Analyst 787,44-8677,Operations,64,28,34,45,177,Transforming,Description for job 787,Specialist
+788,Truck Driver 788,96-5862,Operations,83,49,16,38,23,Declining,Description for job 788,Specialist
+789,Nurse 789,45-2087,Operations,64,23,36,23,169,Transforming,Description for job 789,Senior Role
+790,Truck Driver 790,12-9269,Marketing,55,32,30,35,98,Transforming,Description for job 790,Senior Role
+791,Sales Director 791,25-4959,Operations,87,4,43,19,158,Emerging,Description for job 791,Specialist
+792,Machine Learning Engineer 792,11-1158,HR,92,6,29,43,174,Declining,Description for job 792,Management
+793,Machine Learning Engineer 793,53-7407,HR,86,12,28,50,21,Declining,Description for job 793,Specialist
+794,Nurse 794,82-8946,Operations,74,29,28,21,87,Transforming,Description for job 794,Specialist
+795,Data Scientist 795,23-2479,Sales,75,7,40,24,49,Stable,Description for job 795,Senior Role
+796,Marketing Manager 796,94-4907,Sales,64,10,19,1,15,Transforming,Description for job 796,Specialist
+797,Nurse 797,38-4239,Operations,9,3,10,22,110,Declining,Description for job 797,Management
+798,Machine Learning Engineer 798,82-6604,Marketing,97,32,17,42,175,Transforming,Description for job 798,Specialist
+799,Software Engineer 799,77-5924,Finance,81,45,27,31,61,Declining,Description for job 799,Management
+800,Machine Learning Engineer 800,90-7144,HR,9,19,15,18,41,Transforming,Description for job 800,Management
+801,AI Specialist 801,41-9066,Operations,55,37,18,4,85,Stable,Description for job 801,Senior Role
+802,Nurse 802,92-4342,Operations,61,5,20,10,161,Transforming,Description for job 802,Specialist
+803,AI Specialist 803,16-5066,Technology,59,27,21,45,6,Stable,Description for job 803,Management
+804,Software Engineer 804,35-7048,Finance,49,3,33,25,36,Stable,Description for job 804,Specialist
+805,Nurse 805,56-5699,Marketing,36,4,2,45,51,Stable,Description for job 805,Specialist
+806,Graphic Designer 806,91-8571,Finance,40,18,14,13,108,Emerging,Description for job 806,Specialist
+807,Nurse 807,81-8642,Finance,26,12,31,26,80,Transforming,Description for job 807,Management
+808,Marketing Manager 808,66-7361,Marketing,91,37,16,25,70,Stable,Description for job 808,Management
+809,Accountant 809,38-2502,Operations,95,47,33,12,178,Declining,Description for job 809,Specialist
+810,AI Specialist 810,59-3088,Sales,33,23,20,31,79,Emerging,Description for job 810,Senior Role
+811,Graphic Designer 811,33-8325,Marketing,75,37,1,14,30,Stable,Description for job 811,Senior Role
+812,Financial Analyst 812,60-3553,Technology,39,50,45,22,11,Declining,Description for job 812,Senior Role
+813,Customer Service Rep 813,15-9833,Finance,18,36,31,29,42,Transforming,Description for job 813,Specialist
+814,Graphic Designer 814,18-1078,Marketing,59,28,22,34,40,Declining,Description for job 814,Management
+815,Graphic Designer 815,92-6951,Marketing,36,21,3,8,162,Emerging,Description for job 815,Specialist
+816,HR Specialist 816,29-7326,Sales,80,49,25,8,193,Emerging,Description for job 816,Senior Role
+817,AI Specialist 817,87-4698,Sales,50,21,38,43,81,Transforming,Description for job 817,Management
+818,Software Engineer 818,88-8379,Sales,15,1,43,33,126,Declining,Description for job 818,Management
+819,Software Engineer 819,60-3040,Sales,13,5,31,23,8,Stable,Description for job 819,Specialist
+820,Customer Service Rep 820,64-1391,Finance,33,13,19,9,181,Transforming,Description for job 820,Management
+821,Machine Learning Engineer 821,29-1510,HR,93,24,46,45,102,Emerging,Description for job 821,Specialist
+822,Sales Director 822,33-4447,Sales,65,17,40,43,52,Stable,Description for job 822,Specialist
+823,Machine Learning Engineer 823,94-7916,Operations,67,13,50,50,62,Stable,Description for job 823,Management
+824,Graphic Designer 824,27-3495,Operations,9,2,28,25,175,Stable,Description for job 824,Specialist
+825,Customer Service Rep 825,40-4116,Finance,58,37,12,29,193,Stable,Description for job 825,Management
+826,Customer Service Rep 826,21-8526,HR,53,31,29,33,77,Declining,Description for job 826,Senior Role
+827,Financial Analyst 827,55-1838,HR,7,48,11,46,139,Transforming,Description for job 827,Specialist
+828,Sales Director 828,71-1744,HR,32,33,28,15,23,Stable,Description for job 828,Senior Role
+829,Financial Analyst 829,52-6829,Finance,65,2,39,34,10,Declining,Description for job 829,Specialist
+830,Truck Driver 830,66-6250,Technology,1,31,32,27,55,Declining,Description for job 830,Management
+831,Sales Director 831,88-3350,Sales,8,48,39,39,54,Declining,Description for job 831,Management
+832,HR Specialist 832,18-7859,Technology,38,1,39,31,7,Transforming,Description for job 832,Senior Role
+833,Truck Driver 833,44-9499,Marketing,74,25,21,43,86,Emerging,Description for job 833,Senior Role
+834,Software Engineer 834,35-1334,Operations,4,21,11,26,86,Emerging,Description for job 834,Management
+835,Accountant 835,93-6274,HR,67,33,5,37,99,Stable,Description for job 835,Management
+836,Machine Learning Engineer 836,14-9035,Sales,20,21,35,10,165,Transforming,Description for job 836,Specialist
+837,Sales Director 837,35-3389,Finance,91,25,36,39,54,Declining,Description for job 837,Specialist
+838,Marketing Manager 838,93-3404,Finance,88,27,49,25,184,Transforming,Description for job 838,Specialist
+839,Truck Driver 839,49-2751,HR,55,6,12,3,174,Stable,Description for job 839,Specialist
+840,Customer Service Rep 840,40-8137,Finance,73,20,8,3,103,Transforming,Description for job 840,Specialist
+841,Financial Analyst 841,34-7176,Finance,81,36,40,41,167,Emerging,Description for job 841,Management
+842,Sales Director 842,73-1232,Sales,76,50,5,25,13,Declining,Description for job 842,Senior Role
+843,AI Specialist 843,68-5895,Technology,61,15,27,19,160,Transforming,Description for job 843,Senior Role
+844,Marketing Manager 844,68-7266,Marketing,38,41,48,46,73,Emerging,Description for job 844,Senior Role
+845,Graphic Designer 845,17-5718,Marketing,9,49,49,16,13,Declining,Description for job 845,Management
+846,Customer Service Rep 846,75-3819,HR,71,45,12,48,48,Transforming,Description for job 846,Management
+847,HR Specialist 847,78-9643,Technology,36,23,14,39,195,Transforming,Description for job 847,Management
+848,AI Specialist 848,73-1012,Finance,71,3,23,45,5,Declining,Description for job 848,Management
+849,Sales Director 849,99-3105,Operations,10,40,10,37,146,Emerging,Description for job 849,Management
+850,Software Engineer 850,77-8324,Sales,41,2,49,24,126,Transforming,Description for job 850,Management
+851,Nurse 851,39-8503,Technology,88,16,19,44,73,Transforming,Description for job 851,Specialist
+852,Financial Analyst 852,30-9295,Sales,84,18,8,31,35,Declining,Description for job 852,Senior Role
+853,Graphic Designer 853,53-5142,Operations,77,3,48,36,97,Stable,Description for job 853,Management
+854,Marketing Manager 854,75-6018,Technology,76,35,35,46,117,Stable,Description for job 854,Management
+855,Data Scientist 855,18-3277,HR,79,48,28,15,48,Emerging,Description for job 855,Management
+856,AI Specialist 856,78-1919,Marketing,86,22,33,28,38,Emerging,Description for job 856,Management
+857,Accountant 857,86-9920,Technology,46,38,38,44,74,Stable,Description for job 857,Senior Role
+858,Graphic Designer 858,84-8657,Sales,83,25,45,47,88,Stable,Description for job 858,Senior Role
+859,Truck Driver 859,72-6349,Marketing,23,26,23,45,63,Emerging,Description for job 859,Senior Role
+860,Nurse 860,89-4263,Technology,94,1,43,10,70,Emerging,Description for job 860,Senior Role
+861,Machine Learning Engineer 861,75-9575,Marketing,27,24,29,35,13,Emerging,Description for job 861,Management
+862,Accountant 862,83-8532,Marketing,28,29,10,40,114,Emerging,Description for job 862,Management
+863,Graphic Designer 863,77-7152,Marketing,79,23,7,43,146,Emerging,Description for job 863,Management
+864,HR Specialist 864,71-9571,Finance,10,9,30,43,2,Emerging,Description for job 864,Senior Role
+865,Nurse 865,72-3522,HR,96,15,21,10,42,Transforming,Description for job 865,Senior Role
+866,Sales Director 866,69-3710,Sales,86,49,23,42,172,Transforming,Description for job 866,Management
+867,AI Specialist 867,87-2382,Operations,97,36,41,47,72,Emerging,Description for job 867,Specialist
+868,HR Specialist 868,32-8787,Sales,22,24,32,6,182,Transforming,Description for job 868,Specialist
+869,Data Scientist 869,58-8036,Operations,62,29,49,44,30,Declining,Description for job 869,Specialist
+870,HR Specialist 870,66-4691,Sales,8,21,4,9,68,Stable,Description for job 870,Senior Role
+871,Financial Analyst 871,43-4508,HR,32,13,5,48,137,Stable,Description for job 871,Specialist
+872,HR Specialist 872,25-1458,Marketing,14,49,14,11,183,Emerging,Description for job 872,Senior Role
+873,Truck Driver 873,51-1766,Operations,29,7,5,12,146,Emerging,Description for job 873,Specialist
+874,Software Engineer 874,11-6149,HR,8,35,29,16,130,Stable,Description for job 874,Specialist
+875,Accountant 875,94-9274,HR,84,28,50,15,97,Stable,Description for job 875,Specialist
+876,Data Scientist 876,21-7132,Sales,98,8,36,26,116,Stable,Description for job 876,Senior Role
+877,Customer Service Rep 877,57-8619,Sales,39,18,34,27,138,Declining,Description for job 877,Management
+878,HR Specialist 878,99-4514,HR,19,39,14,5,184,Transforming,Description for job 878,Management
+879,Accountant 879,38-3877,HR,79,26,24,47,175,Transforming,Description for job 879,Senior Role
+880,Nurse 880,40-3012,Finance,80,24,33,29,158,Transforming,Description for job 880,Senior Role
+881,Software Engineer 881,40-8029,Operations,72,2,29,27,93,Stable,Description for job 881,Specialist
+882,HR Specialist 882,56-9901,Technology,71,47,47,29,40,Emerging,Description for job 882,Management
+883,Sales Director 883,30-6228,Marketing,93,5,46,5,87,Emerging,Description for job 883,Senior Role
+884,Software Engineer 884,66-7005,Finance,73,14,3,50,82,Stable,Description for job 884,Management
+885,Graphic Designer 885,38-6234,Technology,22,20,41,12,88,Emerging,Description for job 885,Management
+886,Graphic Designer 886,15-8434,Finance,97,9,21,48,178,Declining,Description for job 886,Specialist
+887,HR Specialist 887,44-6489,Operations,63,30,34,43,77,Transforming,Description for job 887,Specialist
+888,Customer Service Rep 888,46-2530,Operations,23,17,9,1,178,Declining,Description for job 888,Specialist
+889,Machine Learning Engineer 889,53-6243,Technology,84,11,32,33,169,Declining,Description for job 889,Management
+890,Sales Director 890,41-8791,Operations,96,7,31,46,105,Transforming,Description for job 890,Management
+891,Financial Analyst 891,61-7783,Finance,75,15,49,38,117,Transforming,Description for job 891,Specialist
+892,Marketing Manager 892,74-8836,Finance,12,25,19,5,31,Declining,Description for job 892,Specialist
+893,Nurse 893,23-4914,HR,93,12,16,31,106,Emerging,Description for job 893,Management
+894,Marketing Manager 894,92-2199,Technology,38,16,44,47,106,Declining,Description for job 894,Management
+895,Nurse 895,50-2820,Operations,54,26,29,9,68,Transforming,Description for job 895,Management
+896,Truck Driver 896,86-8280,Sales,10,34,9,7,187,Emerging,Description for job 896,Specialist
+897,Data Scientist 897,19-7125,Technology,24,21,1,3,117,Stable,Description for job 897,Management
+898,Nurse 898,91-7926,Marketing,1,31,20,37,85,Stable,Description for job 898,Management
+899,Machine Learning Engineer 899,17-4179,Finance,30,19,22,34,22,Stable,Description for job 899,Senior Role
+900,Financial Analyst 900,56-4380,Sales,79,28,11,11,5,Transforming,Description for job 900,Management
+901,Graphic Designer 901,95-2971,Marketing,97,31,43,43,34,Stable,Description for job 901,Senior Role
+902,HR Specialist 902,48-2043,Sales,61,48,8,12,153,Stable,Description for job 902,Specialist
+903,Accountant 903,95-9734,Marketing,36,6,39,5,136,Stable,Description for job 903,Management
+904,Financial Analyst 904,79-1578,Finance,68,34,15,34,85,Declining,Description for job 904,Management
+905,Graphic Designer 905,58-6541,Finance,84,2,10,37,188,Declining,Description for job 905,Specialist
+906,AI Specialist 906,82-5277,Technology,68,12,5,17,126,Stable,Description for job 906,Management
+907,Software Engineer 907,12-6303,Finance,5,45,19,7,98,Emerging,Description for job 907,Management
+908,Data Scientist 908,51-5525,HR,20,26,18,32,153,Emerging,Description for job 908,Specialist
+909,Nurse 909,89-9345,HR,61,18,49,9,121,Stable,Description for job 909,Specialist
+910,Financial Analyst 910,25-6540,HR,79,36,39,7,198,Declining,Description for job 910,Management
+911,Nurse 911,34-8777,Sales,68,25,25,7,59,Declining,Description for job 911,Management
+912,Financial Analyst 912,77-3768,Sales,32,8,20,6,191,Emerging,Description for job 912,Specialist
+913,AI Specialist 913,56-1159,Technology,79,27,27,38,50,Declining,Description for job 913,Management
+914,Customer Service Rep 914,64-7869,Technology,47,50,21,10,1,Transforming,Description for job 914,Management
+915,Truck Driver 915,68-6813,Sales,96,27,5,44,134,Declining,Description for job 915,Specialist
+916,Marketing Manager 916,35-8982,Marketing,37,39,13,3,148,Emerging,Description for job 916,Specialist
+917,Financial Analyst 917,69-5116,Finance,55,6,1,44,156,Transforming,Description for job 917,Management
+918,Marketing Manager 918,75-6688,Finance,43,38,23,3,26,Transforming,Description for job 918,Management
+919,Marketing Manager 919,40-8683,Finance,36,45,42,14,82,Emerging,Description for job 919,Management
+920,HR Specialist 920,31-7290,Operations,80,2,13,43,66,Emerging,Description for job 920,Management
+921,Data Scientist 921,50-8336,Operations,69,14,30,39,61,Transforming,Description for job 921,Specialist
+922,Sales Director 922,62-1065,Finance,64,31,21,2,106,Stable,Description for job 922,Specialist
+923,Data Scientist 923,84-2339,Finance,34,1,43,33,162,Transforming,Description for job 923,Management
+924,Accountant 924,78-7327,Marketing,64,45,20,43,10,Transforming,Description for job 924,Management
+925,Truck Driver 925,66-8624,Sales,74,49,29,3,153,Stable,Description for job 925,Management
+926,Accountant 926,11-8455,Operations,74,32,40,4,104,Emerging,Description for job 926,Senior Role
+927,AI Specialist 927,64-6280,Operations,1,13,17,18,31,Emerging,Description for job 927,Senior Role
+928,Data Scientist 928,64-5731,Technology,75,15,45,7,3,Transforming,Description for job 928,Specialist
+929,Data Scientist 929,68-3312,Sales,17,4,21,21,151,Declining,Description for job 929,Specialist
+930,HR Specialist 930,18-1674,Technology,92,34,26,40,20,Declining,Description for job 930,Specialist
+931,Financial Analyst 931,87-3606,HR,29,23,20,3,106,Transforming,Description for job 931,Management
+932,Truck Driver 932,98-2805,HR,91,16,13,15,197,Transforming,Description for job 932,Specialist
+933,Machine Learning Engineer 933,33-2107,Sales,92,40,13,18,111,Emerging,Description for job 933,Management
+934,Nurse 934,18-7526,Technology,57,25,38,43,53,Stable,Description for job 934,Senior Role
+935,Financial Analyst 935,19-7728,Marketing,87,37,35,17,42,Declining,Description for job 935,Senior Role
+936,Marketing Manager 936,86-2332,Sales,43,7,3,49,6,Declining,Description for job 936,Senior Role
+937,Financial Analyst 937,35-9970,Sales,77,11,7,18,82,Transforming,Description for job 937,Management
+938,Nurse 938,84-8346,Technology,13,14,38,18,58,Emerging,Description for job 938,Management
+939,Accountant 939,93-8873,Technology,56,25,50,35,54,Declining,Description for job 939,Specialist
+940,Truck Driver 940,38-4200,Operations,31,24,24,28,118,Transforming,Description for job 940,Senior Role
+941,Nurse 941,78-6129,Finance,40,26,24,44,199,Stable,Description for job 941,Senior Role
+942,Marketing Manager 942,31-9192,Sales,83,29,11,7,53,Emerging,Description for job 942,Management
+943,Financial Analyst 943,35-2276,Technology,20,44,36,48,141,Stable,Description for job 943,Senior Role
+944,Graphic Designer 944,67-3352,HR,10,7,44,17,15,Transforming,Description for job 944,Senior Role
+945,Data Scientist 945,75-9987,Finance,72,41,5,44,145,Stable,Description for job 945,Specialist
+946,Graphic Designer 946,46-1582,HR,25,9,27,23,99,Transforming,Description for job 946,Management
+947,Truck Driver 947,78-8145,Operations,26,50,8,8,11,Transforming,Description for job 947,Senior Role
+948,Software Engineer 948,90-2559,Marketing,50,34,26,38,180,Transforming,Description for job 948,Senior Role
+949,Customer Service Rep 949,84-2758,Marketing,52,48,41,23,99,Transforming,Description for job 949,Specialist
+950,Financial Analyst 950,22-4470,Finance,18,34,22,7,37,Declining,Description for job 950,Specialist
+951,Financial Analyst 951,96-1861,Finance,11,4,1,5,131,Declining,Description for job 951,Senior Role
+952,Customer Service Rep 952,31-5007,Operations,30,46,45,39,186,Emerging,Description for job 952,Management
+953,HR Specialist 953,95-9960,Finance,13,24,39,24,186,Transforming,Description for job 953,Specialist
+954,Accountant 954,69-3484,Technology,45,32,19,15,161,Transforming,Description for job 954,Senior Role
+955,HR Specialist 955,70-8234,Finance,87,23,17,28,96,Declining,Description for job 955,Senior Role
+956,Marketing Manager 956,71-3839,Technology,80,18,14,37,131,Declining,Description for job 956,Management
+957,Accountant 957,39-4901,Operations,53,47,45,4,25,Stable,Description for job 957,Senior Role
+958,Marketing Manager 958,94-7963,Sales,87,7,44,36,57,Emerging,Description for job 958,Specialist
+959,Graphic Designer 959,45-5422,HR,30,15,24,36,63,Declining,Description for job 959,Senior Role
+960,Customer Service Rep 960,61-9849,Marketing,13,45,15,47,8,Emerging,Description for job 960,Senior Role
+961,Data Scientist 961,79-9608,Technology,54,27,50,36,163,Emerging,Description for job 961,Specialist
+962,Accountant 962,64-7357,Operations,13,38,41,22,165,Declining,Description for job 962,Specialist
+963,Marketing Manager 963,91-6736,HR,5,8,6,6,10,Emerging,Description for job 963,Specialist
+964,Software Engineer 964,99-4148,Finance,99,47,26,32,95,Emerging,Description for job 964,Specialist
+965,AI Specialist 965,74-6124,Finance,83,40,11,14,183,Stable,Description for job 965,Management
+966,Sales Director 966,21-3573,Sales,54,40,21,20,43,Transforming,Description for job 966,Specialist
+967,Customer Service Rep 967,65-6991,Sales,49,17,9,35,94,Transforming,Description for job 967,Senior Role
+968,Customer Service Rep 968,62-7598,Operations,98,19,23,50,188,Declining,Description for job 968,Senior Role
+969,Marketing Manager 969,22-8293,Sales,86,28,27,19,159,Stable,Description for job 969,Senior Role
+970,Financial Analyst 970,57-1282,Finance,7,17,17,31,107,Declining,Description for job 970,Senior Role
+971,Machine Learning Engineer 971,94-5968,Operations,53,38,20,27,20,Declining,Description for job 971,Senior Role
+972,Financial Analyst 972,18-3863,HR,43,10,26,10,88,Transforming,Description for job 972,Specialist
+973,Software Engineer 973,19-5044,Finance,95,21,4,15,35,Stable,Description for job 973,Specialist
+974,AI Specialist 974,34-4750,Operations,74,35,6,19,160,Transforming,Description for job 974,Senior Role
+975,Machine Learning Engineer 975,13-6571,Sales,80,9,3,26,116,Emerging,Description for job 975,Senior Role
+976,Financial Analyst 976,70-8803,Finance,63,35,34,22,123,Stable,Description for job 976,Senior Role
+977,Customer Service Rep 977,49-3338,Technology,61,37,36,10,4,Stable,Description for job 977,Management
+978,Accountant 978,82-8157,Sales,68,38,31,45,141,Emerging,Description for job 978,Specialist
+979,Data Scientist 979,56-7519,Sales,14,8,44,36,185,Declining,Description for job 979,Management
+980,Sales Director 980,79-8962,HR,24,9,1,15,108,Transforming,Description for job 980,Management
+981,HR Specialist 981,38-4968,Marketing,87,38,23,40,15,Transforming,Description for job 981,Management
+982,Data Scientist 982,24-2384,Finance,77,7,19,45,154,Stable,Description for job 982,Specialist
+983,Machine Learning Engineer 983,37-2594,Marketing,11,45,13,27,176,Transforming,Description for job 983,Senior Role
+984,Accountant 984,14-5453,Technology,86,35,2,31,137,Declining,Description for job 984,Specialist
+985,Truck Driver 985,27-3380,Operations,1,38,15,13,132,Stable,Description for job 985,Senior Role
+986,HR Specialist 986,38-4943,Finance,35,8,15,29,22,Declining,Description for job 986,Senior Role
+987,Truck Driver 987,12-6831,Operations,5,16,22,36,173,Declining,Description for job 987,Senior Role
+988,Software Engineer 988,43-8987,HR,22,27,42,40,6,Emerging,Description for job 988,Specialist
+989,Customer Service Rep 989,31-6166,Operations,93,17,12,27,93,Transforming,Description for job 989,Specialist
+990,HR Specialist 990,47-7394,Finance,5,50,35,4,27,Transforming,Description for job 990,Specialist
+991,Truck Driver 991,52-4741,Sales,41,14,17,49,138,Declining,Description for job 991,Management
+992,Sales Director 992,89-1471,HR,80,1,38,16,181,Declining,Description for job 992,Management
+993,Graphic Designer 993,50-8972,Finance,23,26,24,47,146,Declining,Description for job 993,Specialist
+994,Accountant 994,53-4105,Marketing,3,8,11,47,129,Declining,Description for job 994,Management
+995,Customer Service Rep 995,82-2296,Operations,23,13,7,50,186,Transforming,Description for job 995,Specialist
+996,Accountant 996,38-7546,Finance,56,49,21,22,125,Stable,Description for job 996,Senior Role
+997,Sales Director 997,59-6092,Technology,79,16,22,7,85,Transforming,Description for job 997,Senior Role
+998,Truck Driver 998,35-1642,HR,39,7,34,48,49,Declining,Description for job 998,Senior Role
+999,Software Engineer 999,13-3680,HR,38,24,41,40,60,Transforming,Description for job 999,Specialist
+1000,Accountant 1000,32-4002,Technology,22,37,26,22,94,Transforming,Description for job 1000,Senior Role
+1001,Graphic Designer 1001,34-3162,Finance,6,18,9,44,50,Declining,Description for job 1001,Specialist
+1002,Graphic Designer 1002,39-4087,Marketing,10,40,16,27,62,Declining,Description for job 1002,Management
+1003,Financial Analyst 1003,32-5570,Marketing,24,1,6,7,69,Declining,Description for job 1003,Senior Role
+1004,Nurse 1004,36-2813,Sales,94,4,35,23,83,Emerging,Description for job 1004,Management
+1005,Software Engineer 1005,93-3348,Sales,6,11,2,27,7,Declining,Description for job 1005,Specialist
+1006,HR Specialist 1006,73-6883,Finance,63,26,36,7,199,Declining,Description for job 1006,Management
+1007,Sales Director 1007,38-5179,Technology,20,32,23,38,59,Stable,Description for job 1007,Specialist
+1008,Software Engineer 1008,79-5435,HR,25,19,31,39,55,Declining,Description for job 1008,Specialist
+1009,Financial Analyst 1009,45-6626,HR,12,1,35,14,96,Declining,Description for job 1009,Senior Role
+1010,Accountant 1010,81-7975,HR,25,35,15,34,41,Emerging,Description for job 1010,Management
+1011,Software Engineer 1011,45-6279,Operations,37,25,24,28,47,Stable,Description for job 1011,Management
+1012,Graphic Designer 1012,75-7281,Sales,4,5,42,44,119,Transforming,Description for job 1012,Management
+1013,Data Scientist 1013,46-2973,Operations,30,15,41,48,92,Declining,Description for job 1013,Management
+1014,Nurse 1014,22-7768,Marketing,6,22,17,34,114,Stable,Description for job 1014,Senior Role
+1015,Marketing Manager 1015,36-9408,Finance,44,31,48,44,199,Declining,Description for job 1015,Specialist
+1016,Customer Service Rep 1016,16-9589,Marketing,27,12,30,40,49,Stable,Description for job 1016,Senior Role
+1017,Graphic Designer 1017,25-3593,Marketing,26,44,49,21,196,Emerging,Description for job 1017,Specialist
+1018,Accountant 1018,14-6284,HR,3,39,12,39,165,Transforming,Description for job 1018,Senior Role
+1019,Customer Service Rep 1019,69-4427,Sales,71,17,42,25,103,Transforming,Description for job 1019,Senior Role
+1020,Accountant 1020,31-3632,Marketing,11,47,24,30,53,Stable,Description for job 1020,Specialist
+1021,Machine Learning Engineer 1021,42-3397,Finance,42,43,18,25,121,Transforming,Description for job 1021,Specialist
+1022,Software Engineer 1022,50-2053,Operations,99,15,29,10,105,Declining,Description for job 1022,Management
+1023,Financial Analyst 1023,67-8547,HR,3,43,42,38,106,Declining,Description for job 1023,Senior Role
+1024,Truck Driver 1024,14-2968,Sales,88,29,19,35,99,Transforming,Description for job 1024,Senior Role
+1025,Truck Driver 1025,81-6396,HR,60,36,48,14,102,Emerging,Description for job 1025,Management
+1026,Customer Service Rep 1026,49-2240,HR,23,47,6,45,194,Stable,Description for job 1026,Management
+1027,Sales Director 1027,39-9681,Operations,46,23,40,36,106,Transforming,Description for job 1027,Senior Role
+1028,Sales Director 1028,51-8670,Sales,38,30,40,13,198,Stable,Description for job 1028,Specialist
+1029,Data Scientist 1029,25-3983,Operations,2,18,3,11,40,Declining,Description for job 1029,Specialist
+1030,Marketing Manager 1030,59-7838,Sales,68,11,1,21,24,Declining,Description for job 1030,Senior Role
+1031,Nurse 1031,51-6858,Operations,36,50,39,47,199,Emerging,Description for job 1031,Management
+1032,Nurse 1032,80-2798,HR,72,26,45,25,35,Stable,Description for job 1032,Specialist
+1033,Customer Service Rep 1033,55-8415,Sales,80,39,18,4,133,Declining,Description for job 1033,Specialist
+1034,Nurse 1034,71-1439,Operations,33,5,26,24,111,Emerging,Description for job 1034,Management
+1035,Data Scientist 1035,96-7918,Sales,52,20,13,35,90,Transforming,Description for job 1035,Senior Role
+1036,HR Specialist 1036,68-1415,Finance,2,12,23,18,3,Stable,Description for job 1036,Senior Role
+1037,Truck Driver 1037,45-7201,Sales,61,34,25,3,187,Declining,Description for job 1037,Management
+1038,HR Specialist 1038,66-8693,Marketing,85,49,4,18,25,Stable,Description for job 1038,Senior Role
+1039,Truck Driver 1039,92-9758,Finance,35,34,11,13,172,Emerging,Description for job 1039,Management
+1040,Data Scientist 1040,63-3184,HR,10,20,46,14,107,Declining,Description for job 1040,Senior Role
+1041,Customer Service Rep 1041,84-9125,Sales,67,48,34,21,127,Emerging,Description for job 1041,Management
+1042,Customer Service Rep 1042,57-6372,Marketing,3,7,12,17,42,Stable,Description for job 1042,Senior Role
+1043,AI Specialist 1043,11-7695,Sales,97,24,5,2,167,Declining,Description for job 1043,Senior Role
+1044,AI Specialist 1044,72-6757,Operations,13,49,6,5,139,Emerging,Description for job 1044,Management
+1045,Data Scientist 1045,69-9950,Finance,28,16,37,5,142,Emerging,Description for job 1045,Management
+1046,Financial Analyst 1046,76-9984,Sales,6,11,11,38,128,Emerging,Description for job 1046,Specialist
+1047,Sales Director 1047,55-5931,HR,57,1,36,28,90,Declining,Description for job 1047,Management
+1048,Data Scientist 1048,11-3494,HR,65,41,34,7,15,Declining,Description for job 1048,Senior Role
+1049,Accountant 1049,63-4227,Technology,78,47,29,28,44,Stable,Description for job 1049,Management
+1050,Accountant 1050,75-3279,Technology,71,46,41,27,67,Transforming,Description for job 1050,Management
+1051,Financial Analyst 1051,64-4228,Finance,19,38,8,38,61,Stable,Description for job 1051,Management
+1052,AI Specialist 1052,14-4440,HR,90,2,49,45,8,Declining,Description for job 1052,Specialist
+1053,Graphic Designer 1053,79-3348,Marketing,48,16,43,38,145,Stable,Description for job 1053,Management
+1054,Truck Driver 1054,53-8688,Finance,93,47,23,1,167,Declining,Description for job 1054,Specialist
+1055,Financial Analyst 1055,67-4539,Sales,11,20,11,49,136,Transforming,Description for job 1055,Management
+1056,Data Scientist 1056,57-8985,HR,91,12,19,24,73,Stable,Description for job 1056,Senior Role
+1057,Data Scientist 1057,24-7682,Finance,22,9,5,7,194,Transforming,Description for job 1057,Senior Role
+1058,Financial Analyst 1058,37-2532,Technology,53,14,44,19,69,Stable,Description for job 1058,Specialist
+1059,Nurse 1059,35-7728,Sales,44,39,7,26,109,Transforming,Description for job 1059,Management
+1060,Financial Analyst 1060,95-8625,Sales,11,4,42,20,108,Stable,Description for job 1060,Specialist
+1061,Software Engineer 1061,74-2634,Marketing,71,31,3,5,67,Emerging,Description for job 1061,Management
+1062,Truck Driver 1062,63-8543,HR,23,6,4,30,188,Transforming,Description for job 1062,Specialist
+1063,Marketing Manager 1063,31-7514,HR,20,33,40,27,187,Declining,Description for job 1063,Management
+1064,Graphic Designer 1064,30-8335,HR,94,28,14,35,133,Transforming,Description for job 1064,Specialist
+1065,Customer Service Rep 1065,74-1472,Finance,64,40,29,49,145,Stable,Description for job 1065,Management
+1066,Sales Director 1066,13-1518,Sales,1,50,13,46,104,Stable,Description for job 1066,Management
+1067,Nurse 1067,91-7157,Marketing,92,13,24,38,175,Stable,Description for job 1067,Management
+1068,AI Specialist 1068,35-9674,Marketing,30,48,10,11,12,Declining,Description for job 1068,Management
+1069,Customer Service Rep 1069,34-8521,Sales,4,34,25,20,62,Stable,Description for job 1069,Management
+1070,Accountant 1070,51-2380,Marketing,7,31,38,47,176,Declining,Description for job 1070,Management
+1071,Customer Service Rep 1071,97-1672,Finance,7,49,9,1,116,Transforming,Description for job 1071,Senior Role
+1072,Machine Learning Engineer 1072,57-8747,HR,50,3,30,31,109,Emerging,Description for job 1072,Management
+1073,Graphic Designer 1073,55-9405,Finance,30,8,4,10,7,Stable,Description for job 1073,Management
+1074,Machine Learning Engineer 1074,85-4626,Technology,71,7,37,18,186,Transforming,Description for job 1074,Specialist
+1075,Accountant 1075,60-9660,HR,88,16,6,2,99,Declining,Description for job 1075,Specialist
+1076,Truck Driver 1076,58-3776,Marketing,81,45,17,13,127,Declining,Description for job 1076,Specialist
+1077,Truck Driver 1077,41-4378,Technology,71,10,15,20,81,Stable,Description for job 1077,Management
+1078,Financial Analyst 1078,56-5191,Marketing,13,23,1,23,47,Declining,Description for job 1078,Specialist
+1079,Truck Driver 1079,91-8012,Sales,83,43,34,43,35,Emerging,Description for job 1079,Management
+1080,Nurse 1080,85-5775,HR,53,31,44,12,22,Emerging,Description for job 1080,Specialist
+1081,Accountant 1081,40-6182,Finance,98,31,29,33,193,Emerging,Description for job 1081,Senior Role
+1082,HR Specialist 1082,74-5120,Operations,78,5,39,9,57,Declining,Description for job 1082,Management
+1083,HR Specialist 1083,97-2412,HR,59,32,13,33,176,Stable,Description for job 1083,Senior Role
+1084,Marketing Manager 1084,59-1453,Finance,22,6,24,23,141,Emerging,Description for job 1084,Specialist
+1085,Marketing Manager 1085,65-6527,Sales,47,20,47,20,171,Declining,Description for job 1085,Senior Role
+1086,AI Specialist 1086,99-3188,Operations,80,16,32,50,133,Transforming,Description for job 1086,Management
+1087,Nurse 1087,40-3989,Operations,89,48,6,4,153,Declining,Description for job 1087,Specialist
+1088,AI Specialist 1088,13-8212,Marketing,91,35,3,28,133,Declining,Description for job 1088,Senior Role
+1089,HR Specialist 1089,17-8069,HR,39,41,14,39,116,Emerging,Description for job 1089,Management
+1090,Marketing Manager 1090,45-7022,Technology,54,22,2,48,153,Stable,Description for job 1090,Senior Role
+1091,AI Specialist 1091,32-1632,HR,3,42,42,19,32,Emerging,Description for job 1091,Management
+1092,Truck Driver 1092,17-6211,HR,31,21,42,8,129,Stable,Description for job 1092,Specialist
+1093,Sales Director 1093,74-9164,HR,52,40,23,35,42,Declining,Description for job 1093,Specialist
+1094,Financial Analyst 1094,79-8590,Operations,79,14,35,6,26,Stable,Description for job 1094,Senior Role
+1095,Financial Analyst 1095,94-9878,Marketing,20,16,17,22,127,Emerging,Description for job 1095,Management
+1096,Machine Learning Engineer 1096,29-6712,Finance,79,29,35,9,60,Declining,Description for job 1096,Management
+1097,Truck Driver 1097,96-6504,Marketing,18,33,50,33,182,Transforming,Description for job 1097,Senior Role
+1098,Graphic Designer 1098,95-4054,Finance,83,28,32,33,193,Transforming,Description for job 1098,Specialist
+1099,Nurse 1099,50-1578,Finance,65,50,36,5,26,Stable,Description for job 1099,Senior Role
+1100,Truck Driver 1100,89-1246,HR,99,25,48,2,169,Stable,Description for job 1100,Management
+1101,Graphic Designer 1101,84-5245,HR,96,22,41,40,146,Stable,Description for job 1101,Specialist
+1102,AI Specialist 1102,60-4203,HR,81,49,45,41,198,Transforming,Description for job 1102,Specialist
+1103,Software Engineer 1103,58-1880,Technology,80,9,47,1,160,Emerging,Description for job 1103,Senior Role
+1104,Data Scientist 1104,37-3415,Operations,90,20,21,8,16,Declining,Description for job 1104,Senior Role
+1105,Accountant 1105,59-4749,Technology,31,45,49,44,59,Transforming,Description for job 1105,Management
+1106,Graphic Designer 1106,34-3343,Sales,42,43,39,50,106,Emerging,Description for job 1106,Management
+1107,Machine Learning Engineer 1107,76-7780,Finance,75,17,48,36,199,Transforming,Description for job 1107,Management
+1108,Nurse 1108,82-6369,Technology,66,24,37,6,29,Stable,Description for job 1108,Senior Role
+1109,Accountant 1109,69-4004,Technology,96,21,10,42,91,Declining,Description for job 1109,Specialist
+1110,Marketing Manager 1110,34-1775,Technology,58,18,25,25,70,Stable,Description for job 1110,Specialist
+1111,Customer Service Rep 1111,96-5308,HR,34,26,1,48,73,Emerging,Description for job 1111,Senior Role
+1112,Customer Service Rep 1112,17-8242,Operations,52,26,5,33,27,Transforming,Description for job 1112,Management
+1113,Truck Driver 1113,48-1386,Sales,76,29,10,9,5,Emerging,Description for job 1113,Specialist
+1114,HR Specialist 1114,55-2074,Marketing,79,3,23,8,87,Stable,Description for job 1114,Senior Role
+1115,Machine Learning Engineer 1115,33-5204,Technology,14,22,45,30,31,Declining,Description for job 1115,Management
+1116,Customer Service Rep 1116,39-5517,HR,3,22,47,32,77,Stable,Description for job 1116,Management
+1117,Data Scientist 1117,43-1828,Marketing,53,50,19,8,170,Declining,Description for job 1117,Senior Role
+1118,AI Specialist 1118,53-7196,Sales,5,26,38,48,86,Declining,Description for job 1118,Specialist
+1119,Machine Learning Engineer 1119,75-1923,HR,17,27,23,38,132,Declining,Description for job 1119,Senior Role
+1120,Software Engineer 1120,79-9517,Finance,96,30,41,39,154,Declining,Description for job 1120,Specialist
+1121,Truck Driver 1121,52-9601,Finance,90,19,7,32,113,Stable,Description for job 1121,Management
+1122,Marketing Manager 1122,87-2868,Operations,68,29,13,39,68,Declining,Description for job 1122,Specialist
+1123,HR Specialist 1123,22-9156,HR,58,36,27,36,122,Transforming,Description for job 1123,Specialist
+1124,Financial Analyst 1124,47-1939,Marketing,89,34,20,21,63,Declining,Description for job 1124,Management
+1125,Marketing Manager 1125,93-8790,Operations,88,40,49,6,162,Stable,Description for job 1125,Management
+1126,Sales Director 1126,38-1862,HR,83,38,35,1,128,Declining,Description for job 1126,Senior Role
+1127,Graphic Designer 1127,57-3486,Operations,52,40,47,37,120,Declining,Description for job 1127,Senior Role
+1128,Sales Director 1128,66-2196,Finance,1,26,7,8,82,Transforming,Description for job 1128,Senior Role
+1129,Data Scientist 1129,65-2399,Technology,100,41,31,42,30,Stable,Description for job 1129,Specialist
+1130,Machine Learning Engineer 1130,76-7644,Technology,58,50,27,35,51,Declining,Description for job 1130,Senior Role
+1131,Graphic Designer 1131,59-8568,Technology,75,41,40,12,121,Declining,Description for job 1131,Management
+1132,AI Specialist 1132,13-4623,Operations,58,14,39,38,82,Declining,Description for job 1132,Specialist
+1133,Customer Service Rep 1133,84-3345,Operations,29,38,41,46,189,Emerging,Description for job 1133,Specialist
+1134,Marketing Manager 1134,58-7012,Marketing,9,16,38,48,102,Emerging,Description for job 1134,Specialist
+1135,Marketing Manager 1135,88-5997,Sales,4,40,37,3,69,Emerging,Description for job 1135,Senior Role
+1136,Customer Service Rep 1136,15-1333,Technology,38,4,43,41,124,Stable,Description for job 1136,Specialist
+1137,AI Specialist 1137,85-9552,Sales,5,26,21,42,173,Declining,Description for job 1137,Management
+1138,HR Specialist 1138,98-9555,Operations,20,21,47,27,143,Declining,Description for job 1138,Specialist
+1139,Accountant 1139,57-7566,Sales,7,6,49,21,40,Emerging,Description for job 1139,Senior Role
+1140,Graphic Designer 1140,14-7593,Technology,9,4,6,39,191,Declining,Description for job 1140,Management
+1141,Sales Director 1141,80-2974,HR,17,40,35,4,151,Transforming,Description for job 1141,Senior Role
+1142,HR Specialist 1142,79-7201,HR,11,22,34,30,7,Emerging,Description for job 1142,Specialist
+1143,Accountant 1143,63-4724,Marketing,38,5,43,26,41,Declining,Description for job 1143,Senior Role
+1144,Accountant 1144,93-8484,HR,70,13,2,15,113,Emerging,Description for job 1144,Management
+1145,Customer Service Rep 1145,48-4254,Operations,56,2,31,24,120,Stable,Description for job 1145,Specialist
+1146,Customer Service Rep 1146,49-2622,Technology,1,13,42,25,23,Declining,Description for job 1146,Specialist
+1147,AI Specialist 1147,52-2697,Marketing,83,45,42,33,60,Transforming,Description for job 1147,Management
+1148,Sales Director 1148,85-3953,Marketing,20,10,22,14,195,Stable,Description for job 1148,Specialist
+1149,Customer Service Rep 1149,57-7715,Operations,85,11,26,22,185,Stable,Description for job 1149,Specialist
+1150,Data Scientist 1150,88-8752,Finance,26,2,31,2,41,Emerging,Description for job 1150,Management
+1151,Customer Service Rep 1151,18-5885,Technology,38,3,24,46,112,Emerging,Description for job 1151,Senior Role
+1152,AI Specialist 1152,27-7724,Marketing,3,7,39,38,19,Stable,Description for job 1152,Specialist
+1153,Customer Service Rep 1153,33-2146,Sales,90,33,35,10,169,Declining,Description for job 1153,Management
+1154,Accountant 1154,36-7154,Finance,62,6,7,9,133,Stable,Description for job 1154,Specialist
+1155,Sales Director 1155,27-5865,Sales,78,4,19,42,123,Declining,Description for job 1155,Management
+1156,Data Scientist 1156,92-6807,Sales,6,18,29,21,87,Declining,Description for job 1156,Senior Role
+1157,HR Specialist 1157,52-3334,Technology,2,1,44,46,38,Declining,Description for job 1157,Specialist
+1158,Customer Service Rep 1158,91-8375,Sales,46,35,10,10,38,Transforming,Description for job 1158,Specialist
+1159,HR Specialist 1159,13-1651,Operations,79,1,24,44,112,Emerging,Description for job 1159,Management
+1160,Graphic Designer 1160,78-1066,HR,98,26,10,33,65,Transforming,Description for job 1160,Management
+1161,Software Engineer 1161,38-4119,Operations,6,40,21,30,146,Emerging,Description for job 1161,Senior Role
+1162,Data Scientist 1162,34-4155,Sales,81,40,11,44,123,Transforming,Description for job 1162,Senior Role
+1163,Graphic Designer 1163,59-5077,HR,48,20,21,8,7,Stable,Description for job 1163,Management
+1164,Sales Director 1164,18-6742,Operations,10,15,4,36,25,Stable,Description for job 1164,Senior Role
+1165,Nurse 1165,10-8773,Marketing,37,32,16,46,27,Declining,Description for job 1165,Management
+1166,AI Specialist 1166,77-6010,Operations,62,42,27,15,4,Transforming,Description for job 1166,Specialist
+1167,Machine Learning Engineer 1167,84-5098,Technology,20,39,28,47,146,Transforming,Description for job 1167,Specialist
+1168,Machine Learning Engineer 1168,67-5009,Sales,6,49,42,11,23,Declining,Description for job 1168,Specialist
+1169,Software Engineer 1169,56-6207,HR,81,8,24,41,3,Transforming,Description for job 1169,Specialist
+1170,Sales Director 1170,63-3357,Finance,42,44,10,35,131,Declining,Description for job 1170,Senior Role
+1171,Truck Driver 1171,20-2879,HR,58,26,40,35,157,Emerging,Description for job 1171,Senior Role
+1172,Accountant 1172,81-4809,Finance,33,31,48,47,180,Transforming,Description for job 1172,Senior Role
+1173,Software Engineer 1173,36-5404,Finance,90,23,31,49,58,Transforming,Description for job 1173,Senior Role
+1174,Data Scientist 1174,21-1129,Finance,43,5,10,32,74,Transforming,Description for job 1174,Senior Role
+1175,Customer Service Rep 1175,80-3223,HR,44,34,9,17,108,Stable,Description for job 1175,Management
+1176,Software Engineer 1176,37-2313,HR,10,26,11,11,139,Stable,Description for job 1176,Specialist
+1177,AI Specialist 1177,96-2680,Technology,65,10,7,24,138,Declining,Description for job 1177,Management
+1178,Marketing Manager 1178,75-9129,Sales,77,4,9,30,143,Transforming,Description for job 1178,Senior Role
+1179,HR Specialist 1179,30-5170,HR,39,36,48,33,123,Stable,Description for job 1179,Specialist
+1180,Financial Analyst 1180,54-1989,Sales,11,43,29,42,38,Transforming,Description for job 1180,Management
+1181,Graphic Designer 1181,65-7164,Technology,41,33,16,35,100,Declining,Description for job 1181,Management
+1182,Customer Service Rep 1182,72-3843,HR,33,29,36,45,78,Stable,Description for job 1182,Senior Role
+1183,Financial Analyst 1183,63-3843,Finance,56,19,5,21,181,Emerging,Description for job 1183,Senior Role
+1184,Customer Service Rep 1184,95-3818,Sales,20,24,8,26,187,Emerging,Description for job 1184,Specialist
+1185,Sales Director 1185,72-9253,Technology,48,13,44,36,143,Stable,Description for job 1185,Management
+1186,HR Specialist 1186,92-2856,Finance,65,10,48,29,101,Emerging,Description for job 1186,Specialist
+1187,Software Engineer 1187,93-2973,HR,99,38,35,12,66,Transforming,Description for job 1187,Management
+1188,Software Engineer 1188,69-8855,HR,10,9,38,23,164,Declining,Description for job 1188,Senior Role
+1189,Customer Service Rep 1189,18-9779,HR,9,37,50,5,146,Transforming,Description for job 1189,Senior Role
+1190,Software Engineer 1190,37-8706,Technology,31,3,41,16,128,Transforming,Description for job 1190,Management
+1191,Marketing Manager 1191,33-5126,Sales,29,3,44,34,79,Declining,Description for job 1191,Senior Role
+1192,Marketing Manager 1192,99-6451,Sales,23,47,45,44,31,Declining,Description for job 1192,Senior Role
+1193,Graphic Designer 1193,94-6807,Finance,56,24,48,11,97,Declining,Description for job 1193,Senior Role
+1194,Graphic Designer 1194,29-4163,Technology,16,12,27,37,118,Stable,Description for job 1194,Management
+1195,Customer Service Rep 1195,38-7183,Finance,24,22,43,31,153,Declining,Description for job 1195,Management
+1196,Machine Learning Engineer 1196,48-6217,HR,48,27,46,47,57,Transforming,Description for job 1196,Management
+1197,Software Engineer 1197,29-4976,Finance,95,17,3,43,185,Declining,Description for job 1197,Specialist
+1198,AI Specialist 1198,52-1016,Finance,86,27,12,13,183,Transforming,Description for job 1198,Management
+1199,Data Scientist 1199,45-5766,Marketing,96,47,39,25,132,Stable,Description for job 1199,Specialist
+1200,Customer Service Rep 1200,52-8609,Operations,55,33,6,15,143,Stable,Description for job 1200,Management
+1201,Sales Director 1201,66-2025,Sales,83,4,23,3,170,Transforming,Description for job 1201,Senior Role
+1202,Machine Learning Engineer 1202,66-4716,Marketing,29,38,39,11,161,Declining,Description for job 1202,Specialist
+1203,Customer Service Rep 1203,34-7027,Sales,33,37,2,17,53,Stable,Description for job 1203,Specialist
+1204,Marketing Manager 1204,90-5032,Technology,80,19,48,19,86,Emerging,Description for job 1204,Management
+1205,Marketing Manager 1205,21-5101,Technology,65,4,43,46,110,Transforming,Description for job 1205,Management
+1206,Nurse 1206,55-4962,Operations,25,31,22,17,5,Stable,Description for job 1206,Management
+1207,Software Engineer 1207,34-3097,Finance,56,46,41,17,132,Transforming,Description for job 1207,Senior Role
+1208,Sales Director 1208,19-2741,Technology,33,1,25,17,86,Stable,Description for job 1208,Management
+1209,Software Engineer 1209,88-1159,HR,55,30,36,40,197,Stable,Description for job 1209,Management
+1210,Data Scientist 1210,97-1917,Finance,23,23,6,18,189,Emerging,Description for job 1210,Senior Role
+1211,HR Specialist 1211,49-6799,Technology,48,31,40,39,147,Emerging,Description for job 1211,Senior Role
+1212,Financial Analyst 1212,67-9622,HR,63,4,9,10,170,Stable,Description for job 1212,Specialist
+1213,Nurse 1213,22-2037,Sales,34,46,41,45,4,Stable,Description for job 1213,Management
+1214,AI Specialist 1214,96-8848,Finance,23,14,1,49,82,Stable,Description for job 1214,Senior Role
+1215,Software Engineer 1215,54-5940,Operations,71,10,42,3,12,Emerging,Description for job 1215,Management
+1216,Sales Director 1216,41-5332,Technology,20,21,45,15,100,Transforming,Description for job 1216,Senior Role
+1217,Nurse 1217,12-6184,Finance,79,40,18,43,74,Stable,Description for job 1217,Senior Role
+1218,Truck Driver 1218,48-1424,Finance,57,21,28,4,119,Emerging,Description for job 1218,Management
+1219,Marketing Manager 1219,56-9357,Finance,38,12,24,18,163,Declining,Description for job 1219,Specialist
+1220,Marketing Manager 1220,68-7664,Finance,83,20,32,15,21,Transforming,Description for job 1220,Management
+1221,HR Specialist 1221,62-8865,Sales,61,22,5,16,42,Transforming,Description for job 1221,Senior Role
+1222,Sales Director 1222,34-1205,Technology,41,39,4,38,121,Declining,Description for job 1222,Specialist
+1223,Customer Service Rep 1223,41-9780,Finance,6,25,37,46,103,Transforming,Description for job 1223,Specialist
+1224,Data Scientist 1224,92-3445,Finance,76,33,23,16,160,Emerging,Description for job 1224,Management
+1225,Graphic Designer 1225,71-9455,Technology,92,22,31,20,195,Declining,Description for job 1225,Senior Role
+1226,Machine Learning Engineer 1226,20-8399,Marketing,18,18,45,46,124,Stable,Description for job 1226,Management
+1227,Marketing Manager 1227,82-5511,Operations,41,48,27,17,8,Declining,Description for job 1227,Specialist
+1228,HR Specialist 1228,88-5873,Technology,5,46,6,14,63,Stable,Description for job 1228,Specialist
+1229,Financial Analyst 1229,59-8362,Sales,77,31,20,13,35,Transforming,Description for job 1229,Management
+1230,Nurse 1230,80-9587,Finance,18,12,8,41,114,Declining,Description for job 1230,Management
+1231,AI Specialist 1231,80-4634,Operations,12,24,15,37,103,Emerging,Description for job 1231,Specialist
+1232,Machine Learning Engineer 1232,36-7779,Sales,12,44,48,26,25,Declining,Description for job 1232,Senior Role
+1233,Graphic Designer 1233,33-6116,Finance,8,1,42,23,52,Stable,Description for job 1233,Management
+1234,Accountant 1234,46-5764,Finance,5,3,50,4,41,Stable,Description for job 1234,Specialist
+1235,Data Scientist 1235,98-8710,Finance,88,29,29,23,132,Emerging,Description for job 1235,Specialist
+1236,Accountant 1236,61-2140,Sales,76,21,43,14,10,Stable,Description for job 1236,Specialist
+1237,Accountant 1237,40-6194,Technology,86,25,43,17,99,Stable,Description for job 1237,Specialist
+1238,AI Specialist 1238,76-8117,Marketing,9,9,26,24,186,Transforming,Description for job 1238,Specialist
+1239,Truck Driver 1239,68-9506,Finance,29,10,30,5,148,Declining,Description for job 1239,Management
+1240,Sales Director 1240,11-5881,HR,74,21,18,37,71,Emerging,Description for job 1240,Specialist
+1241,Data Scientist 1241,68-8370,Operations,64,49,36,30,53,Declining,Description for job 1241,Senior Role
+1242,AI Specialist 1242,36-8296,Technology,23,14,32,30,45,Transforming,Description for job 1242,Senior Role
+1243,Machine Learning Engineer 1243,71-8946,Marketing,80,9,15,23,192,Emerging,Description for job 1243,Specialist
+1244,Customer Service Rep 1244,27-7319,HR,12,25,17,4,151,Transforming,Description for job 1244,Senior Role
+1245,HR Specialist 1245,46-1066,Technology,85,46,7,6,119,Stable,Description for job 1245,Management
+1246,Nurse 1246,31-1066,Sales,9,50,16,12,6,Transforming,Description for job 1246,Management
+1247,Software Engineer 1247,28-9482,Marketing,34,43,26,31,57,Emerging,Description for job 1247,Senior Role
+1248,Marketing Manager 1248,86-6755,Sales,96,50,17,4,182,Transforming,Description for job 1248,Senior Role
+1249,AI Specialist 1249,74-4756,Operations,68,19,32,9,26,Declining,Description for job 1249,Senior Role
+1250,HR Specialist 1250,14-9896,Operations,59,30,29,35,24,Emerging,Description for job 1250,Management
+1251,Sales Director 1251,30-7833,Technology,88,26,2,23,173,Emerging,Description for job 1251,Specialist
+1252,Machine Learning Engineer 1252,94-5412,Sales,58,38,44,37,146,Stable,Description for job 1252,Management
+1253,HR Specialist 1253,51-7426,Operations,61,3,12,31,29,Emerging,Description for job 1253,Management
+1254,Financial Analyst 1254,64-6819,Sales,91,29,45,49,177,Declining,Description for job 1254,Senior Role
+1255,Truck Driver 1255,38-4802,Operations,30,20,21,39,48,Emerging,Description for job 1255,Senior Role
+1256,Accountant 1256,68-6071,Operations,34,34,41,13,146,Emerging,Description for job 1256,Specialist
+1257,Graphic Designer 1257,48-3095,Technology,49,9,21,26,1,Declining,Description for job 1257,Specialist
+1258,Software Engineer 1258,49-5909,Operations,2,16,33,43,170,Declining,Description for job 1258,Management
+1259,Nurse 1259,90-4987,Finance,65,39,50,1,182,Emerging,Description for job 1259,Management
+1260,Financial Analyst 1260,85-2480,Marketing,46,39,39,28,199,Transforming,Description for job 1260,Senior Role
+1261,Graphic Designer 1261,61-8800,Operations,60,13,39,18,110,Emerging,Description for job 1261,Specialist
+1262,AI Specialist 1262,90-9248,Sales,100,38,28,9,114,Emerging,Description for job 1262,Specialist
+1263,Accountant 1263,96-4999,Operations,68,7,50,30,113,Transforming,Description for job 1263,Management
+1264,Customer Service Rep 1264,67-3939,Marketing,27,1,35,31,115,Stable,Description for job 1264,Senior Role
+1265,Machine Learning Engineer 1265,18-7994,Marketing,94,17,45,29,49,Emerging,Description for job 1265,Management
+1266,Graphic Designer 1266,37-3440,HR,73,5,24,42,68,Stable,Description for job 1266,Senior Role
+1267,Financial Analyst 1267,65-4219,Technology,98,41,19,13,69,Stable,Description for job 1267,Specialist
+1268,Data Scientist 1268,99-4850,Marketing,21,36,17,39,45,Transforming,Description for job 1268,Management
+1269,Software Engineer 1269,39-2011,HR,46,2,10,9,45,Emerging,Description for job 1269,Specialist
+1270,Sales Director 1270,73-6652,HR,42,39,26,50,43,Emerging,Description for job 1270,Management
+1271,Graphic Designer 1271,96-3429,Sales,43,47,18,20,64,Emerging,Description for job 1271,Senior Role
+1272,Nurse 1272,87-7680,HR,100,21,1,28,175,Stable,Description for job 1272,Management
+1273,Accountant 1273,86-2960,Technology,23,17,16,15,133,Declining,Description for job 1273,Senior Role
+1274,Graphic Designer 1274,31-2139,Technology,2,16,9,23,74,Emerging,Description for job 1274,Senior Role
+1275,Software Engineer 1275,67-7590,Operations,95,37,34,1,36,Transforming,Description for job 1275,Senior Role
+1276,Marketing Manager 1276,47-6354,Operations,55,22,1,4,51,Transforming,Description for job 1276,Specialist
+1277,Marketing Manager 1277,32-6166,Sales,39,7,50,39,68,Stable,Description for job 1277,Senior Role
+1278,Accountant 1278,38-2585,Operations,18,16,4,9,51,Transforming,Description for job 1278,Senior Role
+1279,Customer Service Rep 1279,14-3085,Technology,9,22,33,5,147,Declining,Description for job 1279,Management
+1280,Sales Director 1280,71-4135,Technology,36,33,20,40,26,Transforming,Description for job 1280,Senior Role
+1281,Graphic Designer 1281,49-6875,Operations,62,4,47,39,17,Stable,Description for job 1281,Specialist
+1282,Truck Driver 1282,91-8387,Operations,80,7,17,36,114,Declining,Description for job 1282,Senior Role
+1283,HR Specialist 1283,16-2605,Marketing,84,24,36,22,138,Declining,Description for job 1283,Management
+1284,Software Engineer 1284,43-4837,Sales,91,2,48,42,149,Emerging,Description for job 1284,Specialist
+1285,Data Scientist 1285,27-7972,Marketing,12,38,33,49,125,Transforming,Description for job 1285,Management
+1286,Nurse 1286,66-3776,Operations,4,26,29,39,132,Stable,Description for job 1286,Management
+1287,Data Scientist 1287,98-3631,Operations,38,12,10,50,116,Stable,Description for job 1287,Management
+1288,Sales Director 1288,61-8506,HR,100,42,46,43,187,Transforming,Description for job 1288,Management
+1289,Accountant 1289,96-7230,Technology,68,9,7,28,198,Transforming,Description for job 1289,Management
+1290,Machine Learning Engineer 1290,13-5319,Finance,26,30,38,6,29,Stable,Description for job 1290,Specialist
+1291,Customer Service Rep 1291,61-8318,Finance,2,25,39,44,172,Stable,Description for job 1291,Senior Role
+1292,Software Engineer 1292,70-1361,Operations,4,2,42,46,189,Transforming,Description for job 1292,Management
+1293,Financial Analyst 1293,97-5676,Finance,40,25,21,32,200,Emerging,Description for job 1293,Specialist
+1294,Financial Analyst 1294,29-4697,Finance,59,12,23,11,171,Declining,Description for job 1294,Specialist
+1295,Customer Service Rep 1295,82-9112,Marketing,4,6,20,5,27,Stable,Description for job 1295,Senior Role
+1296,Marketing Manager 1296,30-7718,HR,25,21,14,4,14,Transforming,Description for job 1296,Specialist
+1297,Accountant 1297,59-3292,Sales,70,7,16,3,148,Emerging,Description for job 1297,Specialist
+1298,Accountant 1298,32-5661,Technology,29,20,48,21,37,Transforming,Description for job 1298,Management
+1299,Financial Analyst 1299,64-1737,Operations,100,35,34,7,42,Transforming,Description for job 1299,Senior Role
+1300,AI Specialist 1300,17-7883,HR,54,31,43,16,195,Stable,Description for job 1300,Management
+1301,Marketing Manager 1301,94-7002,Technology,14,20,15,27,139,Declining,Description for job 1301,Specialist
+1302,Truck Driver 1302,86-6710,Technology,7,43,49,29,177,Emerging,Description for job 1302,Specialist
+1303,Data Scientist 1303,18-7792,Finance,9,27,44,37,29,Stable,Description for job 1303,Senior Role
+1304,Machine Learning Engineer 1304,15-8785,Finance,83,45,14,7,90,Stable,Description for job 1304,Management
+1305,Nurse 1305,29-2572,HR,97,49,46,19,12,Emerging,Description for job 1305,Management
+1306,Graphic Designer 1306,58-3956,Marketing,34,49,38,19,113,Transforming,Description for job 1306,Management
+1307,Software Engineer 1307,65-2177,Sales,82,15,35,20,172,Transforming,Description for job 1307,Senior Role
+1308,Software Engineer 1308,23-2691,Sales,66,29,49,29,55,Declining,Description for job 1308,Specialist
+1309,Sales Director 1309,93-4448,Technology,11,29,32,7,133,Transforming,Description for job 1309,Specialist
+1310,Software Engineer 1310,42-9357,Technology,36,23,32,22,11,Transforming,Description for job 1310,Senior Role
+1311,Data Scientist 1311,24-4188,Technology,73,11,38,13,85,Declining,Description for job 1311,Management
+1312,Machine Learning Engineer 1312,10-2206,Sales,97,23,48,6,193,Stable,Description for job 1312,Senior Role
+1313,Sales Director 1313,40-9464,HR,17,1,25,35,89,Stable,Description for job 1313,Management
+1314,Truck Driver 1314,87-9934,HR,12,26,34,33,107,Declining,Description for job 1314,Management
+1315,Graphic Designer 1315,99-1818,Marketing,38,6,30,47,126,Declining,Description for job 1315,Specialist
+1316,Accountant 1316,79-7455,Marketing,6,3,41,7,38,Declining,Description for job 1316,Management
+1317,Data Scientist 1317,18-2237,Finance,81,36,21,8,150,Emerging,Description for job 1317,Senior Role
+1318,Financial Analyst 1318,68-5426,Operations,87,5,15,26,57,Declining,Description for job 1318,Management
+1319,Software Engineer 1319,12-1577,Operations,77,12,9,5,109,Transforming,Description for job 1319,Management
+1320,Financial Analyst 1320,47-7472,HR,90,42,22,9,119,Emerging,Description for job 1320,Specialist
+1321,Financial Analyst 1321,60-2192,Sales,40,22,35,11,152,Transforming,Description for job 1321,Senior Role
+1322,Truck Driver 1322,18-8182,HR,75,23,35,38,78,Transforming,Description for job 1322,Specialist
+1323,HR Specialist 1323,13-5462,Sales,19,42,2,37,8,Transforming,Description for job 1323,Specialist
+1324,Sales Director 1324,98-7874,Marketing,44,4,35,29,56,Transforming,Description for job 1324,Management
+1325,Financial Analyst 1325,89-4156,Finance,42,41,38,8,111,Emerging,Description for job 1325,Specialist
+1326,Accountant 1326,56-3140,HR,92,5,14,16,153,Declining,Description for job 1326,Specialist
+1327,Marketing Manager 1327,67-3941,Marketing,99,17,34,5,176,Declining,Description for job 1327,Senior Role
+1328,Nurse 1328,11-9809,Finance,15,28,42,24,119,Emerging,Description for job 1328,Management
+1329,HR Specialist 1329,46-2644,HR,18,32,4,20,131,Emerging,Description for job 1329,Specialist
+1330,Marketing Manager 1330,46-9394,Marketing,46,9,19,28,190,Emerging,Description for job 1330,Senior Role
+1331,Marketing Manager 1331,39-9709,Operations,66,25,20,44,44,Transforming,Description for job 1331,Management
+1332,Software Engineer 1332,53-4887,HR,8,40,50,22,69,Declining,Description for job 1332,Senior Role
+1333,Graphic Designer 1333,36-7904,Operations,54,30,7,41,150,Stable,Description for job 1333,Specialist
+1334,AI Specialist 1334,45-3598,Operations,36,29,21,37,105,Transforming,Description for job 1334,Management
+1335,Truck Driver 1335,76-6095,Sales,68,5,29,11,177,Declining,Description for job 1335,Management
+1336,Accountant 1336,60-7076,Technology,13,22,46,23,19,Declining,Description for job 1336,Specialist
+1337,Customer Service Rep 1337,28-9179,Operations,42,30,9,7,58,Transforming,Description for job 1337,Senior Role
+1338,HR Specialist 1338,52-1718,Sales,87,16,39,15,114,Transforming,Description for job 1338,Senior Role
+1339,Accountant 1339,11-4139,Technology,26,7,10,21,195,Emerging,Description for job 1339,Specialist
+1340,Machine Learning Engineer 1340,46-6288,Marketing,82,29,43,32,91,Declining,Description for job 1340,Senior Role
+1341,Nurse 1341,19-7415,Sales,15,18,21,13,188,Transforming,Description for job 1341,Specialist
+1342,Customer Service Rep 1342,46-7685,Technology,29,21,23,11,156,Declining,Description for job 1342,Specialist
+1343,Machine Learning Engineer 1343,22-7435,Finance,22,32,20,21,155,Stable,Description for job 1343,Management
+1344,AI Specialist 1344,25-5284,Operations,40,1,13,46,71,Emerging,Description for job 1344,Management
+1345,Truck Driver 1345,65-3893,Sales,80,28,14,30,193,Emerging,Description for job 1345,Management
+1346,Machine Learning Engineer 1346,27-3083,Technology,19,30,35,12,24,Emerging,Description for job 1346,Specialist
+1347,Financial Analyst 1347,76-5273,Marketing,12,5,4,35,100,Stable,Description for job 1347,Management
+1348,HR Specialist 1348,98-8634,HR,88,4,29,36,7,Declining,Description for job 1348,Senior Role
+1349,Machine Learning Engineer 1349,28-6527,Finance,92,40,13,41,165,Transforming,Description for job 1349,Management
+1350,Software Engineer 1350,88-1754,Operations,30,21,2,47,57,Transforming,Description for job 1350,Management
+1351,Machine Learning Engineer 1351,32-4837,Marketing,49,44,21,45,155,Stable,Description for job 1351,Senior Role
+1352,HR Specialist 1352,80-6907,Finance,41,3,7,24,5,Emerging,Description for job 1352,Senior Role
+1353,Machine Learning Engineer 1353,28-7486,Marketing,78,46,24,46,113,Declining,Description for job 1353,Management
+1354,Financial Analyst 1354,10-4146,Finance,67,40,7,39,98,Transforming,Description for job 1354,Management
+1355,HR Specialist 1355,63-9960,Operations,86,26,28,10,76,Emerging,Description for job 1355,Senior Role
+1356,AI Specialist 1356,93-9903,Operations,86,38,8,34,42,Stable,Description for job 1356,Senior Role
+1357,Machine Learning Engineer 1357,72-4979,Finance,89,23,14,16,87,Stable,Description for job 1357,Management
+1358,Truck Driver 1358,47-7456,Marketing,63,12,43,8,185,Emerging,Description for job 1358,Specialist
+1359,Graphic Designer 1359,95-7065,Finance,79,44,44,15,47,Declining,Description for job 1359,Specialist
+1360,Marketing Manager 1360,51-3214,Finance,51,1,3,48,101,Stable,Description for job 1360,Senior Role
+1361,Data Scientist 1361,24-7387,Operations,41,23,5,10,23,Transforming,Description for job 1361,Specialist
+1362,Marketing Manager 1362,51-6574,Finance,36,29,28,37,119,Transforming,Description for job 1362,Management
+1363,Sales Director 1363,34-5411,HR,54,29,41,14,59,Declining,Description for job 1363,Senior Role
+1364,Customer Service Rep 1364,35-8668,Technology,15,16,17,24,53,Emerging,Description for job 1364,Senior Role
+1365,Sales Director 1365,10-5392,Operations,4,18,12,33,52,Declining,Description for job 1365,Management
+1366,HR Specialist 1366,17-2981,Technology,53,10,35,26,188,Transforming,Description for job 1366,Senior Role
+1367,Marketing Manager 1367,77-5740,HR,73,50,31,46,172,Stable,Description for job 1367,Management
+1368,Sales Director 1368,24-5607,Marketing,100,42,11,48,137,Stable,Description for job 1368,Management
+1369,Marketing Manager 1369,35-2706,HR,27,3,11,31,4,Emerging,Description for job 1369,Senior Role
+1370,Accountant 1370,91-7889,Finance,67,2,46,16,200,Emerging,Description for job 1370,Management
+1371,Nurse 1371,71-9544,Finance,93,16,8,4,126,Declining,Description for job 1371,Specialist
+1372,Marketing Manager 1372,37-6301,Sales,94,19,22,37,55,Emerging,Description for job 1372,Specialist
+1373,Sales Director 1373,56-3552,Operations,74,21,16,38,30,Stable,Description for job 1373,Senior Role
+1374,HR Specialist 1374,49-3702,HR,64,4,34,16,45,Transforming,Description for job 1374,Management
+1375,Customer Service Rep 1375,49-6390,Finance,69,41,45,16,120,Declining,Description for job 1375,Management
+1376,Sales Director 1376,55-9761,HR,43,42,34,16,190,Declining,Description for job 1376,Specialist
+1377,AI Specialist 1377,61-7708,Sales,11,15,4,18,53,Emerging,Description for job 1377,Specialist
+1378,AI Specialist 1378,79-5954,Sales,16,37,46,37,122,Stable,Description for job 1378,Specialist
+1379,Sales Director 1379,33-8487,Marketing,20,3,45,13,133,Transforming,Description for job 1379,Senior Role
+1380,Sales Director 1380,80-8155,Operations,66,10,10,20,92,Stable,Description for job 1380,Senior Role
+1381,Accountant 1381,45-6097,Sales,27,6,7,2,1,Declining,Description for job 1381,Senior Role
+1382,HR Specialist 1382,26-9902,Technology,7,44,10,18,145,Stable,Description for job 1382,Management
+1383,Financial Analyst 1383,68-6991,HR,38,33,32,9,186,Emerging,Description for job 1383,Specialist
+1384,Sales Director 1384,67-9688,Technology,97,10,7,40,84,Emerging,Description for job 1384,Senior Role
+1385,Marketing Manager 1385,10-5115,Technology,65,17,5,12,86,Declining,Description for job 1385,Management
+1386,Accountant 1386,82-2233,Operations,56,36,39,4,30,Stable,Description for job 1386,Senior Role
+1387,Data Scientist 1387,14-1795,Technology,92,9,38,5,28,Emerging,Description for job 1387,Management
+1388,Graphic Designer 1388,34-4366,Sales,76,15,48,5,122,Declining,Description for job 1388,Specialist
+1389,Software Engineer 1389,31-1598,Marketing,89,5,12,49,70,Transforming,Description for job 1389,Management
+1390,Machine Learning Engineer 1390,12-1570,Marketing,26,46,40,19,180,Transforming,Description for job 1390,Specialist
+1391,Graphic Designer 1391,41-5009,Finance,13,1,46,17,97,Stable,Description for job 1391,Management
+1392,Customer Service Rep 1392,71-1618,HR,24,6,41,33,180,Declining,Description for job 1392,Management
+1393,Sales Director 1393,15-3793,Technology,23,26,44,49,115,Emerging,Description for job 1393,Specialist
+1394,Accountant 1394,93-5811,Technology,46,49,13,14,95,Emerging,Description for job 1394,Management
+1395,Software Engineer 1395,29-2691,Sales,3,22,40,22,190,Declining,Description for job 1395,Specialist
+1396,Graphic Designer 1396,91-7400,Finance,69,41,3,42,194,Stable,Description for job 1396,Management
+1397,Financial Analyst 1397,87-6685,HR,44,44,5,2,196,Emerging,Description for job 1397,Management
+1398,Customer Service Rep 1398,72-2302,HR,42,34,5,45,114,Declining,Description for job 1398,Senior Role
+1399,Sales Director 1399,56-5118,Sales,94,18,34,23,69,Emerging,Description for job 1399,Management
+1400,Nurse 1400,75-6249,HR,3,27,33,41,183,Emerging,Description for job 1400,Management
+1401,Sales Director 1401,68-7597,Operations,76,32,14,21,167,Emerging,Description for job 1401,Senior Role
+1402,Graphic Designer 1402,74-2658,Marketing,44,4,11,8,116,Declining,Description for job 1402,Management
+1403,AI Specialist 1403,86-3100,Sales,60,12,27,19,90,Transforming,Description for job 1403,Specialist
+1404,Nurse 1404,16-3843,Operations,79,9,19,32,68,Stable,Description for job 1404,Specialist
+1405,Marketing Manager 1405,40-3843,Sales,100,18,1,41,131,Stable,Description for job 1405,Specialist
+1406,Machine Learning Engineer 1406,89-9727,HR,84,43,20,2,111,Transforming,Description for job 1406,Specialist
+1407,HR Specialist 1407,20-4606,Operations,4,3,13,12,93,Stable,Description for job 1407,Management
+1408,Customer Service Rep 1408,10-7977,Technology,91,35,26,34,177,Stable,Description for job 1408,Management
+1409,Graphic Designer 1409,21-5353,Technology,97,44,48,42,166,Emerging,Description for job 1409,Senior Role
+1410,Financial Analyst 1410,20-2148,Sales,28,41,29,2,123,Stable,Description for job 1410,Management
+1411,AI Specialist 1411,80-8368,Sales,69,48,47,7,147,Declining,Description for job 1411,Senior Role
+1412,Data Scientist 1412,73-8482,Marketing,37,34,17,4,99,Emerging,Description for job 1412,Management
+1413,Software Engineer 1413,96-9268,Marketing,45,32,13,37,65,Stable,Description for job 1413,Management
+1414,Graphic Designer 1414,78-8583,Operations,4,14,8,24,69,Emerging,Description for job 1414,Management
+1415,Graphic Designer 1415,56-6505,Operations,39,14,19,47,126,Declining,Description for job 1415,Senior Role
+1416,Machine Learning Engineer 1416,20-6628,Finance,96,49,3,29,90,Emerging,Description for job 1416,Specialist
+1417,Machine Learning Engineer 1417,74-3373,Technology,98,34,20,44,100,Emerging,Description for job 1417,Management
+1418,Sales Director 1418,28-1030,Marketing,92,28,31,29,112,Stable,Description for job 1418,Senior Role
+1419,AI Specialist 1419,44-1590,Sales,57,22,6,7,175,Transforming,Description for job 1419,Management
+1420,AI Specialist 1420,41-4554,Operations,11,49,14,40,34,Emerging,Description for job 1420,Senior Role
+1421,HR Specialist 1421,18-1848,Technology,79,33,8,7,132,Declining,Description for job 1421,Senior Role
+1422,Financial Analyst 1422,55-2067,HR,42,20,12,39,97,Declining,Description for job 1422,Management
+1423,Sales Director 1423,29-8791,Sales,73,27,30,1,37,Transforming,Description for job 1423,Specialist
+1424,Truck Driver 1424,74-6670,Technology,86,39,26,40,100,Transforming,Description for job 1424,Specialist
+1425,Machine Learning Engineer 1425,34-4943,Technology,53,9,35,50,25,Stable,Description for job 1425,Specialist
+1426,Sales Director 1426,83-7768,Technology,99,47,28,15,175,Emerging,Description for job 1426,Specialist
+1427,Sales Director 1427,90-8389,Sales,93,35,46,9,95,Emerging,Description for job 1427,Specialist
+1428,AI Specialist 1428,77-3819,Operations,49,45,23,39,89,Emerging,Description for job 1428,Management
+1429,Customer Service Rep 1429,72-8905,Operations,24,29,38,50,21,Transforming,Description for job 1429,Specialist
+1430,Accountant 1430,65-9802,Finance,75,3,14,5,141,Emerging,Description for job 1430,Specialist
+1431,AI Specialist 1431,63-8676,Operations,87,34,7,1,61,Stable,Description for job 1431,Management
+1432,Nurse 1432,48-6043,Sales,87,26,10,24,31,Declining,Description for job 1432,Senior Role
+1433,Data Scientist 1433,74-5379,Operations,11,38,13,2,67,Emerging,Description for job 1433,Senior Role
+1434,AI Specialist 1434,20-6327,Finance,54,49,40,20,22,Transforming,Description for job 1434,Senior Role
+1435,Financial Analyst 1435,96-3474,HR,32,48,43,25,138,Transforming,Description for job 1435,Management
+1436,AI Specialist 1436,30-3542,Sales,15,27,22,8,169,Emerging,Description for job 1436,Senior Role
+1437,Financial Analyst 1437,53-4126,Sales,12,24,43,19,42,Emerging,Description for job 1437,Management
+1438,Financial Analyst 1438,45-6002,Operations,97,21,37,32,156,Emerging,Description for job 1438,Specialist
+1439,Customer Service Rep 1439,88-4175,Finance,32,25,32,24,150,Declining,Description for job 1439,Management
+1440,Truck Driver 1440,93-3815,HR,35,3,5,45,193,Declining,Description for job 1440,Senior Role
+1441,Financial Analyst 1441,69-6764,Sales,74,22,6,8,197,Declining,Description for job 1441,Senior Role
+1442,Customer Service Rep 1442,75-4496,Marketing,1,12,37,14,58,Declining,Description for job 1442,Management
+1443,Accountant 1443,40-1259,Technology,89,18,46,19,46,Stable,Description for job 1443,Senior Role
+1444,Data Scientist 1444,57-2089,Marketing,89,17,25,41,129,Declining,Description for job 1444,Management
+1445,AI Specialist 1445,33-6654,Finance,58,47,3,22,191,Transforming,Description for job 1445,Specialist
+1446,Graphic Designer 1446,23-1809,Marketing,21,31,36,34,152,Emerging,Description for job 1446,Senior Role
+1447,Sales Director 1447,65-5539,Technology,3,13,4,13,138,Transforming,Description for job 1447,Specialist
+1448,Machine Learning Engineer 1448,18-5360,Marketing,16,19,2,5,128,Stable,Description for job 1448,Senior Role
+1449,Marketing Manager 1449,66-7455,Sales,88,28,46,26,160,Emerging,Description for job 1449,Senior Role
+1450,Software Engineer 1450,24-6882,Sales,25,6,25,40,23,Transforming,Description for job 1450,Specialist
+1451,Graphic Designer 1451,75-8535,Operations,64,6,16,3,56,Transforming,Description for job 1451,Management
+1452,Data Scientist 1452,40-5032,Finance,32,5,14,34,19,Transforming,Description for job 1452,Senior Role
+1453,AI Specialist 1453,81-7978,Finance,44,3,50,48,153,Emerging,Description for job 1453,Specialist
+1454,Financial Analyst 1454,38-7155,Finance,20,46,33,9,32,Transforming,Description for job 1454,Management
+1455,Financial Analyst 1455,92-6265,HR,89,50,2,45,23,Declining,Description for job 1455,Management
+1456,Sales Director 1456,48-7771,HR,96,50,13,29,70,Declining,Description for job 1456,Specialist
+1457,Marketing Manager 1457,32-9995,Finance,64,17,34,13,188,Emerging,Description for job 1457,Management
+1458,Software Engineer 1458,37-8163,Finance,17,35,39,12,80,Transforming,Description for job 1458,Specialist
+1459,Customer Service Rep 1459,38-3858,Technology,62,48,18,7,154,Emerging,Description for job 1459,Management
+1460,HR Specialist 1460,39-3908,Sales,90,14,39,28,134,Emerging,Description for job 1460,Specialist
+1461,Graphic Designer 1461,52-5484,Sales,85,34,42,31,60,Emerging,Description for job 1461,Management
+1462,Graphic Designer 1462,35-5560,Marketing,16,48,42,45,51,Declining,Description for job 1462,Management
+1463,HR Specialist 1463,59-7871,Finance,100,36,30,16,185,Stable,Description for job 1463,Specialist
+1464,AI Specialist 1464,12-4689,HR,96,16,21,21,152,Transforming,Description for job 1464,Specialist
+1465,Software Engineer 1465,30-2139,Operations,88,24,32,42,172,Transforming,Description for job 1465,Senior Role
+1466,Customer Service Rep 1466,97-3072,Operations,81,27,22,49,17,Declining,Description for job 1466,Management
+1467,Truck Driver 1467,23-4972,Operations,94,30,16,25,39,Declining,Description for job 1467,Senior Role
+1468,HR Specialist 1468,83-7260,Operations,36,28,14,19,112,Transforming,Description for job 1468,Specialist
+1469,AI Specialist 1469,36-6871,HR,40,30,42,42,122,Stable,Description for job 1469,Specialist
+1470,Nurse 1470,12-9114,Sales,22,3,8,10,176,Stable,Description for job 1470,Specialist
+1471,Accountant 1471,31-3810,Finance,83,34,37,9,180,Stable,Description for job 1471,Specialist
+1472,Software Engineer 1472,47-6747,HR,40,35,16,29,124,Transforming,Description for job 1472,Senior Role
+1473,Customer Service Rep 1473,23-4419,HR,86,8,33,25,200,Declining,Description for job 1473,Senior Role
+1474,Machine Learning Engineer 1474,63-5146,Finance,1,39,22,20,75,Emerging,Description for job 1474,Senior Role
+1475,HR Specialist 1475,56-6516,Technology,74,34,42,44,123,Transforming,Description for job 1475,Specialist
+1476,Accountant 1476,43-7333,Marketing,55,28,16,43,158,Emerging,Description for job 1476,Specialist
+1477,Nurse 1477,42-3258,Operations,96,27,15,39,165,Stable,Description for job 1477,Specialist
+1478,Nurse 1478,41-4519,HR,89,6,47,34,14,Stable,Description for job 1478,Management
+1479,Nurse 1479,18-1741,Marketing,34,44,23,33,109,Emerging,Description for job 1479,Senior Role
+1480,Financial Analyst 1480,40-6864,Operations,85,31,35,4,194,Transforming,Description for job 1480,Senior Role
+1481,Machine Learning Engineer 1481,88-1280,Operations,92,46,23,32,179,Transforming,Description for job 1481,Senior Role
+1482,Data Scientist 1482,10-8550,Marketing,85,39,40,16,163,Transforming,Description for job 1482,Management
+1483,Nurse 1483,81-8211,Marketing,92,27,12,14,52,Declining,Description for job 1483,Management
+1484,Truck Driver 1484,38-7629,Marketing,81,22,34,27,115,Emerging,Description for job 1484,Specialist
+1485,Nurse 1485,51-4592,HR,22,3,27,11,156,Declining,Description for job 1485,Senior Role
+1486,Sales Director 1486,77-6716,Sales,81,7,49,1,119,Stable,Description for job 1486,Specialist
+1487,AI Specialist 1487,55-7156,Marketing,15,9,46,4,42,Stable,Description for job 1487,Management
+1488,Sales Director 1488,42-2396,Marketing,77,7,49,24,132,Emerging,Description for job 1488,Management
+1489,Sales Director 1489,87-4376,Marketing,15,21,41,41,82,Emerging,Description for job 1489,Management
+1490,Software Engineer 1490,88-2793,Marketing,12,46,41,22,17,Transforming,Description for job 1490,Specialist
+1491,Software Engineer 1491,94-6298,Operations,60,11,17,47,105,Emerging,Description for job 1491,Management
+1492,Nurse 1492,44-4368,Finance,70,36,31,35,79,Stable,Description for job 1492,Senior Role
+1493,Machine Learning Engineer 1493,49-6795,Technology,78,50,36,45,89,Emerging,Description for job 1493,Specialist
+1494,Financial Analyst 1494,62-1766,Operations,64,7,36,41,51,Declining,Description for job 1494,Specialist
+1495,Nurse 1495,68-3310,Technology,12,1,28,21,23,Stable,Description for job 1495,Senior Role
+1496,Data Scientist 1496,87-3256,Finance,28,22,15,31,105,Stable,Description for job 1496,Specialist
+1497,AI Specialist 1497,39-9907,Finance,69,12,1,10,122,Stable,Description for job 1497,Senior Role
+1498,Software Engineer 1498,78-5542,Technology,71,38,27,33,28,Declining,Description for job 1498,Management
+1499,Customer Service Rep 1499,36-3508,Technology,37,40,48,40,17,Emerging,Description for job 1499,Senior Role
+1500,Truck Driver 1500,39-1974,Finance,21,20,41,4,68,Stable,Description for job 1500,Management

@@ -1,0 +1,51 @@
+WorkModeKey,Remote_Work_Ratio_Pct,Primary_Mode,Collaboration_Tools_Used,In_Office_Days_Per_Week,Flexible_Hours_Policy,Global_Team_Coordination,WFH_Productivity_Index,WFH_Stipend_USD,Travel_Requirement_Pct,Hot_Desking_Policy,Policy_Description
+1,0.93,Hybrid,"Slack, Zoom, Teams (Simulated)",0,False,False,0.93,954,0.31,False,Policy description 1
+2,0.78,Hybrid,"Slack, Zoom, Teams (Simulated)",3,True,True,1.09,505,0.5,True,Policy description 2
+3,0.19,Hybrid,"Slack, Zoom, Teams (Simulated)",1,False,False,0.77,875,0.18,True,Policy description 3
+4,0.64,Fully Remote,"Slack, Zoom, Teams (Simulated)",4,False,False,1.17,536,0.18,True,Policy description 4
+5,0.67,On-site,"Slack, Zoom, Teams (Simulated)",1,True,False,0.89,454,0.1,True,Policy description 5
+6,0.92,Hybrid,"Slack, Zoom, Teams (Simulated)",4,False,True,0.71,479,0.08,False,Policy description 6
+7,0.3,On-site,"Slack, Zoom, Teams (Simulated)",1,True,True,1.29,134,0.39,False,Policy description 7
+8,0.93,On-site,"Slack, Zoom, Teams (Simulated)",2,False,False,0.8,48,0.13,False,Policy description 8
+9,0.89,Fully Remote,"Slack, Zoom, Teams (Simulated)",3,True,False,0.7,968,0.28,False,Policy description 9
+10,0.49,Hybrid,"Slack, Zoom, Teams (Simulated)",2,False,True,1.11,232,0.07,True,Policy description 10
+11,0.22,On-site,"Slack, Zoom, Teams (Simulated)",1,False,False,0.83,892,0.11,True,Policy description 11
+12,0.91,On-site,"Slack, Zoom, Teams (Simulated)",0,False,True,0.94,946,0.46,True,Policy description 12
+13,0.25,On-site,"Slack, Zoom, Teams (Simulated)",1,True,True,1.19,755,0.45,False,Policy description 13
+14,0.47,Fully Remote,"Slack, Zoom, Teams (Simulated)",0,True,False,1.17,736,0.27,True,Policy description 14
+15,0.35,Fully Remote,"Slack, Zoom, Teams (Simulated)",1,True,False,1.12,457,0.15,True,Policy description 15
+16,0.69,Fully Remote,"Slack, Zoom, Teams (Simulated)",1,True,True,0.95,51,0.43,False,Policy description 16
+17,0.21,On-site,"Slack, Zoom, Teams (Simulated)",4,True,False,0.95,124,0.35,True,Policy description 17
+18,0.36,On-site,"Slack, Zoom, Teams (Simulated)",2,True,True,0.77,404,0.18,True,Policy description 18
+19,0.21,Hybrid,"Slack, Zoom, Teams (Simulated)",0,True,False,1.28,160,0.22,False,Policy description 19
+20,0.15,Fully Remote,"Slack, Zoom, Teams (Simulated)",1,True,True,1.23,941,0.27,False,Policy description 20
+21,0.82,Fully Remote,"Slack, Zoom, Teams (Simulated)",0,False,True,1.02,228,0.03,False,Policy description 21
+22,0.14,Fully Remote,"Slack, Zoom, Teams (Simulated)",4,False,False,1.16,582,0.15,False,Policy description 22
+23,0.16,On-site,"Slack, Zoom, Teams (Simulated)",4,False,True,0.86,94,0.24,True,Policy description 23
+24,0.35,Hybrid,"Slack, Zoom, Teams (Simulated)",2,True,False,0.97,509,0.28,False,Policy description 24
+25,0.29,On-site,"Slack, Zoom, Teams (Simulated)",2,False,False,1.19,599,0.29,False,Policy description 25
+26,0.08,Hybrid,"Slack, Zoom, Teams (Simulated)",0,False,True,0.74,113,0.19,True,Policy description 26
+27,0.59,Fully Remote,"Slack, Zoom, Teams (Simulated)",1,True,False,0.98,831,0.27,True,Policy description 27
+28,0.98,On-site,"Slack, Zoom, Teams (Simulated)",2,True,False,0.77,671,0.25,True,Policy description 28
+29,0.25,Hybrid,"Slack, Zoom, Teams (Simulated)",3,True,False,1.11,329,0.08,False,Policy description 29
+30,0.75,Hybrid,"Slack, Zoom, Teams (Simulated)",1,True,False,0.97,232,0.36,False,Policy description 30
+31,0.16,On-site,"Slack, Zoom, Teams (Simulated)",0,True,True,0.91,901,0.46,False,Policy description 31
+32,0.96,Fully Remote,"Slack, Zoom, Teams (Simulated)",4,False,False,0.82,593,0.12,True,Policy description 32
+33,0.44,Hybrid,"Slack, Zoom, Teams (Simulated)",0,True,False,0.96,299,0.02,False,Policy description 33
+34,0.17,Hybrid,"Slack, Zoom, Teams (Simulated)",1,True,False,0.84,356,0.2,False,Policy description 34
+35,0.13,Fully Remote,"Slack, Zoom, Teams (Simulated)",1,False,False,0.92,518,0.42,True,Policy description 35
+36,0.66,On-site,"Slack, Zoom, Teams (Simulated)",1,True,False,0.76,555,0.2,False,Policy description 36
+37,0.41,Hybrid,"Slack, Zoom, Teams (Simulated)",0,False,True,1.11,708,0.35,False,Policy description 37
+38,0.26,Fully Remote,"Slack, Zoom, Teams (Simulated)",2,False,True,1.07,219,0.44,False,Policy description 38
+39,0.73,Fully Remote,"Slack, Zoom, Teams (Simulated)",3,True,False,0.76,522,0.29,True,Policy description 39
+40,0.35,Hybrid,"Slack, Zoom, Teams (Simulated)",2,False,True,0.95,736,0.29,False,Policy description 40
+41,0.74,Fully Remote,"Slack, Zoom, Teams (Simulated)",0,True,True,0.97,656,0.17,False,Policy description 41
+42,0.13,Hybrid,"Slack, Zoom, Teams (Simulated)",4,True,False,1.21,636,0.39,False,Policy description 42
+43,0.33,On-site,"Slack, Zoom, Teams (Simulated)",3,True,False,1.12,191,0.19,True,Policy description 43
+44,0.32,Fully Remote,"Slack, Zoom, Teams (Simulated)",4,True,False,1.28,715,0.46,False,Policy description 44
+45,0.98,Fully Remote,"Slack, Zoom, Teams (Simulated)",3,True,False,1.26,333,0.38,False,Policy description 45
+46,0.43,Fully Remote,"Slack, Zoom, Teams (Simulated)",1,True,True,1.24,386,0.15,True,Policy description 46
+47,0.89,On-site,"Slack, Zoom, Teams (Simulated)",3,False,True,1.05,909,0.44,True,Policy description 47
+48,0.97,On-site,"Slack, Zoom, Teams (Simulated)",4,False,True,1.12,916,0.29,True,Policy description 48
+49,0.75,On-site,"Slack, Zoom, Teams (Simulated)",3,True,False,0.8,820,0.18,False,Policy description 49
+50,0.66,On-site,"Slack, Zoom, Teams (Simulated)",3,True,False,1.15,746,0.21,False,Policy description 50

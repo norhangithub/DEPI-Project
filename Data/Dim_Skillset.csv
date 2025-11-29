@@ -1,0 +1,501 @@
+SkillsetKey,Top_Required_Skill_1,Top_Required_Skill_2,Top_Required_Skill_3,Top_Emerging_Skill_1,Top_Emerging_Skill_2,Top_Emerging_Skill_3,Top_Obsolete_Skill_1,Top_Obsolete_Skill_2,Top_Obsolete_Skill_3,Skill_Gap_Index,AI_Skill_Requirement_Level
+1,Python,AWS,Communication,SQL,Salesforce,TensorFlow,Communication,PyTorch,Salesforce,8.8,Low
+2,AWS,TensorFlow,AWS,GCP,SQL,Adobe Photoshop,Excel,Python,GCP,6.5,Low
+3,SQL,Java,Salesforce,AWS,Excel,Python,Azure,Azure,GCP,5.8,Low
+4,Adobe Photoshop,C++,Python,Adobe Photoshop,Project Management,R,Excel,Azure,C++,9.3,Very High
+5,AWS,Java,Python,GCP,Azure,Project Management,Salesforce,TensorFlow,Tableau,9.4,High
+6,Adobe Photoshop,PyTorch,Communication,Communication,C++,Marketing,Tableau,Java,TensorFlow,1.9,Low
+7,Python,Tableau,C++,Marketing,GCP,R,Java,Marketing,Communication,1.0,Very High
+8,AWS,Adobe Photoshop,AWS,Python,C++,Java,Excel,Python,Adobe Photoshop,2.7,High
+9,PyTorch,Tableau,SQL,Marketing,Excel,Salesforce,Azure,GCP,Communication,4.3,Medium
+10,SQL,R,R,Adobe Photoshop,Marketing,Salesforce,TensorFlow,Marketing,Excel,8.1,High
+11,Communication,PyTorch,TensorFlow,C++,C++,Salesforce,R,Salesforce,R,1.6,Very High
+12,Azure,Communication,Java,GCP,C++,Excel,PyTorch,Marketing,AWS,5.0,Medium
+13,Python,C++,Marketing,Adobe Photoshop,Azure,TensorFlow,R,Adobe Photoshop,TensorFlow,6.0,Medium
+14,SQL,Communication,GCP,Tableau,Python,Communication,SQL,C++,Azure,1.6,Low
+15,GCP,SQL,Salesforce,Salesforce,Tableau,Power BI,Adobe Photoshop,Communication,Azure,5.7,Very High
+16,Adobe Photoshop,Tableau,Python,GCP,Communication,GCP,PyTorch,SQL,Salesforce,5.9,Low
+17,Communication,GCP,Communication,AWS,Java,Salesforce,TensorFlow,Communication,Salesforce,3.8,Medium
+18,Python,Excel,Power BI,R,C++,Marketing,GCP,SQL,Azure,2.2,Very High
+19,C++,Azure,Communication,GCP,C++,TensorFlow,Power BI,C++,Communication,3.2,Very High
+20,Project Management,Salesforce,Power BI,Excel,Power BI,Communication,R,Salesforce,Power BI,5.8,High
+21,Python,AWS,Java,Java,PyTorch,Power BI,Project Management,Python,AWS,8.0,Very High
+22,Project Management,GCP,Java,Azure,Project Management,Tableau,R,Tableau,GCP,8.3,Very High
+23,Communication,Tableau,Power BI,Communication,Azure,GCP,Java,Excel,GCP,2.3,Low
+24,SQL,Tableau,Tableau,GCP,Power BI,GCP,Excel,Azure,Java,2.1,Medium
+25,Project Management,Tableau,Salesforce,Tableau,GCP,TensorFlow,Excel,Communication,C++,7.4,Medium
+26,PyTorch,Marketing,Communication,R,Power BI,Java,Power BI,Communication,C++,9.1,High
+27,Azure,GCP,Java,GCP,Tableau,Python,Adobe Photoshop,Communication,Excel,6.7,Very High
+28,Tableau,SQL,Adobe Photoshop,Marketing,Project Management,Java,PyTorch,Marketing,TensorFlow,1.4,High
+29,Azure,AWS,R,Power BI,TensorFlow,PyTorch,C++,Python,Tableau,6.4,High
+30,R,C++,Salesforce,Excel,AWS,Marketing,Power BI,Adobe Photoshop,Salesforce,9.8,Medium
+31,SQL,Azure,R,AWS,SQL,Salesforce,GCP,R,GCP,5.5,Very High
+32,GCP,Power BI,Azure,Excel,Azure,Adobe Photoshop,Azure,PyTorch,Adobe Photoshop,8.2,Low
+33,PyTorch,C++,Adobe Photoshop,PyTorch,Project Management,GCP,Salesforce,Power BI,Azure,9.7,High
+34,C++,TensorFlow,Project Management,Salesforce,Excel,AWS,TensorFlow,Marketing,Project Management,7.8,Very High
+35,TensorFlow,Python,Adobe Photoshop,Java,Salesforce,Java,Salesforce,Excel,SQL,1.4,High
+36,AWS,Tableau,Tableau,Communication,TensorFlow,Tableau,GCP,Marketing,Java,5.6,Medium
+37,C++,Azure,AWS,PyTorch,Python,AWS,SQL,C++,C++,1.5,High
+38,Java,Adobe Photoshop,GCP,Python,Salesforce,Communication,R,PyTorch,R,8.6,Low
+39,SQL,GCP,PyTorch,Java,Power BI,C++,Marketing,R,Java,7.9,Low
+40,TensorFlow,Project Management,Java,GCP,PyTorch,Excel,R,Tableau,Adobe Photoshop,7.6,Very High
+41,Marketing,PyTorch,AWS,Java,Project Management,Tableau,Tableau,Project Management,Python,6.0,Low
+42,Java,Communication,Excel,Azure,Tableau,Salesforce,Excel,Azure,SQL,5.0,Medium
+43,Excel,Python,Python,GCP,Adobe Photoshop,Marketing,Salesforce,C++,Excel,2.7,Very High
+44,Azure,Communication,Tableau,Excel,Excel,Excel,Salesforce,Python,PyTorch,4.3,Low
+45,Power BI,Adobe Photoshop,Excel,Azure,Python,R,Adobe Photoshop,Power BI,Marketing,9.2,Low
+46,Azure,Adobe Photoshop,GCP,GCP,R,Java,Tableau,Excel,AWS,5.2,Low
+47,Excel,SQL,Java,Tableau,Python,Adobe Photoshop,Python,Power BI,R,5.0,Very High
+48,Adobe Photoshop,Java,Project Management,C++,R,Excel,Python,SQL,Tableau,5.1,Very High
+49,Python,AWS,Tableau,PyTorch,Java,Tableau,Communication,Marketing,SQL,3.6,Low
+50,Adobe Photoshop,Power BI,PyTorch,Java,PyTorch,Marketing,Communication,Salesforce,Azure,4.6,High
+51,Azure,Power BI,SQL,Adobe Photoshop,GCP,Salesforce,Excel,Tableau,Azure,6.6,Low
+52,Marketing,PyTorch,Communication,R,Salesforce,SQL,Java,Java,Azure,5.5,Very High
+53,TensorFlow,Excel,R,Excel,R,R,Azure,TensorFlow,Java,9.7,Very High
+54,R,Tableau,Marketing,Excel,TensorFlow,Python,TensorFlow,SQL,Adobe Photoshop,8.9,Low
+55,Communication,Project Management,Marketing,Salesforce,Adobe Photoshop,Marketing,Tableau,AWS,Excel,8.9,Very High
+56,Marketing,AWS,Azure,Communication,GCP,Java,Marketing,C++,Power BI,2.2,High
+57,R,Adobe Photoshop,Tableau,R,R,TensorFlow,Excel,Azure,SQL,1.0,Low
+58,PyTorch,Excel,Python,SQL,PyTorch,R,Adobe Photoshop,GCP,Tableau,5.3,High
+59,Power BI,Java,Excel,Azure,C++,Power BI,GCP,Excel,GCP,9.6,Very High
+60,Python,SQL,Excel,C++,Adobe Photoshop,Salesforce,Azure,Python,Java,2.3,High
+61,Python,Marketing,Marketing,TensorFlow,AWS,Java,Excel,R,Python,3.0,High
+62,GCP,Salesforce,Excel,Communication,TensorFlow,Azure,PyTorch,Java,Power BI,2.9,High
+63,TensorFlow,Project Management,C++,Power BI,SQL,Salesforce,GCP,Communication,AWS,1.2,Very High
+64,Project Management,GCP,Java,Power BI,PyTorch,Communication,Marketing,PyTorch,Project Management,2.0,Very High
+65,Salesforce,Java,Marketing,PyTorch,Communication,Tableau,Python,TensorFlow,Python,6.8,Medium
+66,GCP,Azure,Power BI,Java,Azure,Python,TensorFlow,GCP,R,2.0,Medium
+67,AWS,Adobe Photoshop,Python,Excel,AWS,Salesforce,Project Management,Marketing,Java,9.1,Very High
+68,Java,SQL,Power BI,SQL,SQL,R,Adobe Photoshop,TensorFlow,R,2.7,High
+69,C++,Power BI,Python,AWS,GCP,PyTorch,Salesforce,R,SQL,5.2,Very High
+70,Salesforce,Adobe Photoshop,Power BI,Project Management,Marketing,Communication,Azure,GCP,C++,1.4,Medium
+71,AWS,R,Java,TensorFlow,Adobe Photoshop,Python,Project Management,Excel,Adobe Photoshop,5.1,Low
+72,SQL,PyTorch,Power BI,C++,AWS,GCP,TensorFlow,TensorFlow,Salesforce,8.8,Low
+73,Salesforce,R,PyTorch,PyTorch,Adobe Photoshop,TensorFlow,PyTorch,Adobe Photoshop,GCP,6.5,Medium
+74,R,Tableau,R,TensorFlow,Python,C++,Marketing,Power BI,PyTorch,4.9,High
+75,Azure,PyTorch,Azure,Communication,Communication,GCP,Adobe Photoshop,Tableau,TensorFlow,3.4,Very High
+76,Python,Communication,C++,PyTorch,Salesforce,C++,C++,Adobe Photoshop,Adobe Photoshop,7.4,Medium
+77,Tableau,Java,R,Adobe Photoshop,Project Management,Communication,Salesforce,R,SQL,4.4,Medium
+78,C++,Java,PyTorch,Marketing,TensorFlow,Azure,SQL,PyTorch,Salesforce,3.0,Medium
+79,Power BI,Python,Project Management,Azure,Communication,TensorFlow,AWS,Marketing,PyTorch,1.2,High
+80,SQL,AWS,Java,PyTorch,Project Management,Tableau,SQL,Communication,AWS,9.9,High
+81,GCP,Salesforce,Marketing,Marketing,SQL,Java,Azure,Excel,Adobe Photoshop,6.8,Low
+82,Tableau,TensorFlow,Project Management,Tableau,Marketing,Python,SQL,AWS,R,2.1,High
+83,Marketing,SQL,Tableau,Marketing,C++,AWS,Java,AWS,Salesforce,1.6,Medium
+84,Tableau,AWS,TensorFlow,R,GCP,Python,Tableau,Adobe Photoshop,Java,7.1,Medium
+85,Project Management,Excel,Java,Tableau,R,Salesforce,Adobe Photoshop,GCP,Adobe Photoshop,7.1,High
+86,TensorFlow,SQL,Java,R,Communication,TensorFlow,C++,R,Python,5.6,Very High
+87,Salesforce,Excel,Tableau,Excel,Salesforce,Communication,Excel,Marketing,PyTorch,5.7,Very High
+88,SQL,TensorFlow,AWS,Adobe Photoshop,Azure,R,Adobe Photoshop,Excel,TensorFlow,2.7,High
+89,TensorFlow,Adobe Photoshop,SQL,Marketing,R,SQL,R,C++,Salesforce,8.1,Medium
+90,AWS,Communication,Communication,Project Management,Power BI,Python,Power BI,Communication,Python,8.9,Low
+91,Communication,Marketing,Marketing,Java,Power BI,C++,Azure,Azure,Java,1.1,Low
+92,PyTorch,Python,Power BI,Java,Project Management,SQL,Excel,Marketing,Excel,10.0,Medium
+93,C++,Java,Project Management,Power BI,Azure,Marketing,GCP,Communication,Marketing,8.3,Very High
+94,Azure,Power BI,C++,Salesforce,C++,TensorFlow,AWS,Java,Project Management,2.9,Medium
+95,R,Python,Project Management,Azure,Salesforce,Excel,Adobe Photoshop,GCP,GCP,6.0,High
+96,R,Excel,Excel,TensorFlow,SQL,Salesforce,AWS,Azure,C++,6.2,Medium
+97,Tableau,GCP,TensorFlow,Marketing,Power BI,Marketing,TensorFlow,Python,Power BI,8.1,Low
+98,TensorFlow,R,C++,Excel,Communication,SQL,Marketing,Tableau,Python,6.0,Very High
+99,Salesforce,Excel,Salesforce,Azure,Excel,SQL,Azure,Java,PyTorch,7.2,Low
+100,Java,C++,SQL,AWS,Java,AWS,GCP,Adobe Photoshop,Tableau,1.1,Very High
+101,SQL,Salesforce,Java,Adobe Photoshop,Adobe Photoshop,Excel,C++,GCP,SQL,8.8,High
+102,AWS,Project Management,Excel,Python,Project Management,Marketing,SQL,Excel,Java,4.6,High
+103,Adobe Photoshop,Communication,Python,R,Project Management,Project Management,GCP,SQL,Java,3.8,Very High
+104,Adobe Photoshop,Azure,Marketing,Salesforce,R,GCP,Azure,Tableau,Azure,2.2,Medium
+105,SQL,R,Project Management,PyTorch,Power BI,Project Management,C++,Salesforce,TensorFlow,9.2,Medium
+106,Java,Java,Java,Tableau,Marketing,Marketing,Project Management,Excel,Communication,7.9,Low
+107,Salesforce,Tableau,SQL,C++,TensorFlow,R,Communication,Azure,Adobe Photoshop,9.3,Very High
+108,Salesforce,TensorFlow,Salesforce,GCP,Marketing,Salesforce,Tableau,Excel,Excel,1.5,Medium
+109,SQL,AWS,GCP,Python,Project Management,PyTorch,Communication,Excel,Marketing,4.5,Very High
+110,SQL,Power BI,Adobe Photoshop,Communication,Python,TensorFlow,Adobe Photoshop,C++,R,6.5,Low
+111,Adobe Photoshop,SQL,Salesforce,Project Management,AWS,Adobe Photoshop,Communication,Power BI,GCP,8.4,Medium
+112,Salesforce,Communication,TensorFlow,GCP,C++,Marketing,SQL,C++,C++,4.0,Very High
+113,TensorFlow,C++,Tableau,Adobe Photoshop,Salesforce,Marketing,Excel,GCP,PyTorch,7.3,Very High
+114,Power BI,Communication,Java,AWS,Excel,Azure,Power BI,Python,Marketing,3.8,Medium
+115,Excel,Java,Power BI,SQL,Tableau,Tableau,Adobe Photoshop,Azure,AWS,7.0,High
+116,Tableau,Azure,Communication,Salesforce,Salesforce,R,Salesforce,Salesforce,Power BI,2.3,Medium
+117,R,Power BI,Tableau,PyTorch,AWS,R,PyTorch,GCP,R,8.2,Low
+118,Adobe Photoshop,Tableau,Project Management,Azure,Java,TensorFlow,PyTorch,C++,SQL,2.6,Very High
+119,TensorFlow,AWS,Azure,GCP,Python,Communication,Azure,Project Management,AWS,6.5,Medium
+120,PyTorch,Python,Adobe Photoshop,Tableau,SQL,Python,C++,R,Power BI,8.3,Medium
+121,Excel,Communication,Tableau,AWS,Java,Tableau,Marketing,Python,Project Management,5.2,High
+122,Tableau,Salesforce,Python,Adobe Photoshop,Azure,SQL,Adobe Photoshop,R,Python,1.6,Medium
+123,GCP,R,Salesforce,R,Excel,TensorFlow,Python,R,Power BI,6.2,Low
+124,SQL,Project Management,TensorFlow,Adobe Photoshop,Excel,Excel,TensorFlow,GCP,Excel,5.7,Low
+125,Communication,Python,Power BI,Salesforce,PyTorch,GCP,Excel,C++,Communication,6.5,Low
+126,AWS,Communication,Java,AWS,Adobe Photoshop,Salesforce,Java,GCP,Power BI,5.7,High
+127,Adobe Photoshop,Project Management,PyTorch,Excel,TensorFlow,Marketing,GCP,TensorFlow,AWS,6.5,Medium
+128,Excel,TensorFlow,Java,PyTorch,Salesforce,Communication,Python,Python,GCP,2.6,Medium
+129,Azure,Adobe Photoshop,Tableau,C++,GCP,SQL,Project Management,R,Marketing,8.5,Low
+130,Power BI,C++,AWS,GCP,Power BI,Power BI,GCP,Salesforce,C++,8.7,Low
+131,GCP,PyTorch,GCP,AWS,SQL,Salesforce,Adobe Photoshop,Java,TensorFlow,9.3,Very High
+132,Marketing,Java,Tableau,C++,Adobe Photoshop,Marketing,Salesforce,PyTorch,GCP,9.4,High
+133,Adobe Photoshop,Power BI,Azure,C++,R,Java,Java,Marketing,Adobe Photoshop,3.3,Medium
+134,AWS,Python,C++,Azure,R,Adobe Photoshop,Project Management,R,Excel,3.4,Medium
+135,TensorFlow,R,Adobe Photoshop,Azure,Salesforce,Python,Java,TensorFlow,Communication,3.7,Low
+136,C++,Tableau,TensorFlow,AWS,Java,Tableau,TensorFlow,Marketing,Adobe Photoshop,1.4,High
+137,R,AWS,Communication,Communication,SQL,GCP,Marketing,GCP,AWS,4.6,Low
+138,Adobe Photoshop,Project Management,R,Power BI,Project Management,Java,Marketing,AWS,PyTorch,6.7,High
+139,Adobe Photoshop,R,Marketing,Communication,AWS,Salesforce,Azure,AWS,Tableau,9.1,Medium
+140,TensorFlow,Adobe Photoshop,Tableau,PyTorch,R,Excel,GCP,Python,Azure,8.4,Very High
+141,SQL,Excel,C++,Salesforce,C++,Power BI,PyTorch,Tableau,TensorFlow,1.3,Medium
+142,Tableau,PyTorch,TensorFlow,AWS,Excel,Adobe Photoshop,C++,GCP,PyTorch,7.4,Low
+143,GCP,AWS,Power BI,Adobe Photoshop,Azure,SQL,SQL,C++,Excel,1.7,Medium
+144,C++,R,Excel,Excel,Salesforce,AWS,Project Management,GCP,GCP,9.4,Very High
+145,GCP,Salesforce,Azure,Azure,Project Management,Salesforce,Project Management,Azure,Tableau,2.6,High
+146,Python,R,Communication,Adobe Photoshop,Marketing,Tableau,Communication,GCP,Python,3.4,High
+147,GCP,Communication,Tableau,Communication,SQL,Marketing,Python,Project Management,Power BI,1.5,Very High
+148,Communication,Communication,Tableau,PyTorch,SQL,Azure,SQL,C++,Excel,2.4,Very High
+149,Marketing,TensorFlow,Salesforce,C++,Communication,Tableau,PyTorch,Communication,Adobe Photoshop,7.7,Low
+150,TensorFlow,PyTorch,Excel,Azure,C++,SQL,C++,Salesforce,Marketing,6.9,Medium
+151,AWS,Excel,C++,SQL,Tableau,PyTorch,Project Management,Marketing,Salesforce,4.9,Low
+152,Project Management,Azure,Adobe Photoshop,Azure,GCP,Communication,Project Management,Python,R,5.3,Very High
+153,Python,PyTorch,Project Management,Azure,TensorFlow,PyTorch,AWS,Power BI,Tableau,1.0,High
+154,SQL,Azure,Adobe Photoshop,Salesforce,AWS,Power BI,PyTorch,Python,Excel,7.3,High
+155,R,Adobe Photoshop,AWS,Python,Tableau,Azure,Salesforce,Excel,GCP,7.1,Low
+156,Java,AWS,Salesforce,Tableau,Communication,Project Management,SQL,R,C++,8.4,Low
+157,Azure,AWS,TensorFlow,Salesforce,Adobe Photoshop,TensorFlow,R,AWS,Excel,8.4,Medium
+158,Tableau,TensorFlow,AWS,Python,Salesforce,Excel,Project Management,Excel,Adobe Photoshop,6.1,Medium
+159,AWS,C++,Marketing,SQL,C++,Python,Adobe Photoshop,Marketing,R,6.8,High
+160,TensorFlow,GCP,Communication,Java,R,Salesforce,TensorFlow,Salesforce,Tableau,5.6,Low
+161,Power BI,Python,Python,Salesforce,SQL,Salesforce,R,Adobe Photoshop,Power BI,1.8,Medium
+162,Project Management,C++,Tableau,PyTorch,GCP,GCP,Marketing,Azure,Power BI,8.1,Very High
+163,R,GCP,Power BI,AWS,Azure,PyTorch,Java,Excel,Communication,3.2,Medium
+164,Azure,Project Management,R,Azure,Python,PyTorch,TensorFlow,C++,Python,9.6,Medium
+165,AWS,C++,SQL,C++,R,Azure,R,Excel,Java,9.4,High
+166,SQL,GCP,Adobe Photoshop,Adobe Photoshop,Java,Excel,Marketing,PyTorch,Tableau,1.5,High
+167,PyTorch,Project Management,GCP,AWS,Communication,Adobe Photoshop,Excel,SQL,Adobe Photoshop,8.9,High
+168,Salesforce,Power BI,SQL,Power BI,AWS,Adobe Photoshop,Project Management,AWS,Communication,1.8,High
+169,Azure,Communication,Adobe Photoshop,GCP,Java,Python,Tableau,GCP,PyTorch,9.4,High
+170,Power BI,Communication,AWS,R,Java,AWS,C++,TensorFlow,Java,7.7,Very High
+171,GCP,SQL,Power BI,Azure,Excel,Azure,AWS,Communication,TensorFlow,6.2,Low
+172,Python,SQL,TensorFlow,Azure,Azure,Power BI,Project Management,Salesforce,Power BI,8.9,High
+173,Java,Adobe Photoshop,Communication,AWS,Power BI,AWS,Power BI,Communication,SQL,6.5,Very High
+174,Project Management,TensorFlow,GCP,Project Management,Azure,Azure,Excel,AWS,Marketing,4.7,High
+175,R,Tableau,Power BI,Adobe Photoshop,Adobe Photoshop,Project Management,C++,GCP,PyTorch,9.7,High
+176,Python,Java,Marketing,C++,GCP,Adobe Photoshop,C++,Power BI,Excel,7.3,High
+177,PyTorch,TensorFlow,Tableau,Salesforce,GCP,Marketing,Java,GCP,Python,3.9,Very High
+178,Marketing,AWS,R,Tableau,TensorFlow,Python,Project Management,Power BI,GCP,2.8,Very High
+179,Java,R,Python,Marketing,Azure,Adobe Photoshop,GCP,PyTorch,Excel,4.3,Very High
+180,Communication,Tableau,Azure,PyTorch,Excel,Communication,Marketing,R,C++,5.7,Medium
+181,R,Python,Azure,Tableau,Communication,Communication,C++,PyTorch,Salesforce,6.6,Medium
+182,Power BI,Azure,SQL,AWS,Salesforce,Adobe Photoshop,Tableau,GCP,R,7.0,Very High
+183,GCP,Power BI,Excel,Python,TensorFlow,Tableau,R,Salesforce,Excel,4.2,Medium
+184,Excel,Communication,Azure,Excel,Azure,GCP,Marketing,Salesforce,R,5.4,Low
+185,Azure,Communication,Azure,Project Management,Adobe Photoshop,Marketing,C++,Marketing,R,4.3,Very High
+186,Project Management,Communication,Azure,Excel,PyTorch,Tableau,TensorFlow,SQL,PyTorch,3.5,Low
+187,Adobe Photoshop,Project Management,AWS,Excel,AWS,R,Tableau,Python,PyTorch,8.7,Low
+188,Python,Marketing,Adobe Photoshop,C++,PyTorch,TensorFlow,Project Management,Python,Java,7.5,Medium
+189,Azure,Python,PyTorch,Adobe Photoshop,PyTorch,R,Python,PyTorch,Adobe Photoshop,6.6,High
+190,C++,Azure,Adobe Photoshop,Communication,AWS,Tableau,C++,SQL,AWS,5.5,Medium
+191,Salesforce,AWS,Azure,Tableau,Java,AWS,C++,SQL,Power BI,7.2,High
+192,R,PyTorch,PyTorch,Salesforce,PyTorch,Communication,Excel,Power BI,PyTorch,5.2,Low
+193,Power BI,TensorFlow,Excel,AWS,R,Python,Excel,GCP,Python,4.2,Medium
+194,Java,Excel,Python,Azure,PyTorch,Python,Tableau,Tableau,Communication,5.6,Medium
+195,Adobe Photoshop,TensorFlow,Java,Power BI,Marketing,TensorFlow,AWS,Communication,Azure,2.9,High
+196,C++,TensorFlow,Tableau,Java,Java,Excel,Project Management,AWS,R,3.3,Medium
+197,Marketing,GCP,GCP,TensorFlow,TensorFlow,AWS,Excel,R,C++,2.1,Very High
+198,Salesforce,Azure,PyTorch,Adobe Photoshop,Marketing,Communication,Power BI,Azure,Project Management,1.5,Very High
+199,Azure,Java,PyTorch,Azure,Project Management,Java,GCP,Excel,AWS,6.2,Very High
+200,Excel,Adobe Photoshop,C++,AWS,Power BI,R,C++,Java,Salesforce,8.8,Medium
+201,C++,PyTorch,TensorFlow,Project Management,Excel,Adobe Photoshop,Azure,Project Management,Salesforce,2.1,Medium
+202,Azure,SQL,C++,Azure,Azure,TensorFlow,Project Management,Python,GCP,9.0,Low
+203,AWS,TensorFlow,AWS,Excel,Communication,PyTorch,R,Project Management,Azure,6.6,Low
+204,SQL,Project Management,Power BI,PyTorch,GCP,Marketing,Project Management,SQL,R,1.3,Very High
+205,Java,Tableau,R,TensorFlow,Adobe Photoshop,R,Excel,Java,Excel,1.7,Medium
+206,Python,Adobe Photoshop,Tableau,Python,Communication,Adobe Photoshop,SQL,Adobe Photoshop,C++,9.9,High
+207,PyTorch,Excel,TensorFlow,PyTorch,Python,Marketing,Java,Adobe Photoshop,Adobe Photoshop,6.4,Medium
+208,TensorFlow,Excel,GCP,Java,C++,Python,Adobe Photoshop,AWS,Python,7.2,Very High
+209,GCP,TensorFlow,Project Management,Power BI,PyTorch,TensorFlow,Python,Power BI,Project Management,1.2,Very High
+210,Azure,TensorFlow,Project Management,R,Adobe Photoshop,R,PyTorch,Excel,SQL,5.6,High
+211,R,PyTorch,TensorFlow,Power BI,Project Management,Salesforce,Azure,C++,AWS,3.0,High
+212,AWS,GCP,Excel,Azure,AWS,Power BI,Power BI,Marketing,PyTorch,5.8,High
+213,GCP,PyTorch,Java,Excel,Adobe Photoshop,Project Management,Java,Excel,Java,3.0,Very High
+214,C++,GCP,PyTorch,C++,Azure,AWS,Tableau,Azure,C++,9.6,High
+215,SQL,R,Excel,Excel,Communication,Power BI,R,C++,Java,8.8,Low
+216,Adobe Photoshop,PyTorch,Java,PyTorch,Marketing,AWS,Python,R,Communication,1.9,Very High
+217,Power BI,TensorFlow,Salesforce,Excel,Marketing,Salesforce,Adobe Photoshop,AWS,Excel,6.8,High
+218,Adobe Photoshop,Java,Azure,Power BI,Marketing,Java,Java,Python,Adobe Photoshop,9.5,Low
+219,Azure,Salesforce,GCP,TensorFlow,GCP,Python,Salesforce,Communication,Marketing,9.7,Medium
+220,Adobe Photoshop,Salesforce,Power BI,AWS,Marketing,Python,PyTorch,SQL,Marketing,9.9,Very High
+221,Tableau,Salesforce,R,TensorFlow,Tableau,GCP,Tableau,Project Management,Project Management,7.1,Medium
+222,Excel,Java,Marketing,Communication,TensorFlow,R,AWS,R,Tableau,6.8,Low
+223,TensorFlow,Azure,Project Management,Java,Java,PyTorch,Adobe Photoshop,Project Management,AWS,9.9,Medium
+224,Salesforce,Communication,AWS,Python,C++,TensorFlow,Python,Adobe Photoshop,Java,5.3,Medium
+225,TensorFlow,Excel,AWS,SQL,Excel,C++,TensorFlow,Java,Tableau,2.2,Medium
+226,Java,GCP,Java,GCP,SQL,Adobe Photoshop,AWS,Python,Tableau,4.1,Low
+227,Azure,TensorFlow,Project Management,Java,SQL,R,Marketing,Project Management,SQL,4.4,Medium
+228,GCP,Communication,Excel,Project Management,Python,Python,SQL,Salesforce,SQL,5.4,Low
+229,Project Management,Salesforce,Communication,GCP,R,Java,Adobe Photoshop,R,GCP,7.1,Medium
+230,Azure,Python,Project Management,Project Management,Salesforce,Excel,Project Management,AWS,Communication,2.7,Low
+231,Communication,TensorFlow,Communication,PyTorch,R,Excel,Java,SQL,Java,7.7,Low
+232,AWS,GCP,Communication,Python,Salesforce,Python,Adobe Photoshop,AWS,Project Management,3.8,Very High
+233,Power BI,C++,PyTorch,Java,Adobe Photoshop,SQL,Adobe Photoshop,AWS,PyTorch,2.8,High
+234,R,Python,Java,PyTorch,C++,C++,PyTorch,Salesforce,PyTorch,4.0,Medium
+235,GCP,Adobe Photoshop,AWS,Python,C++,Adobe Photoshop,Power BI,Marketing,SQL,8.1,High
+236,Power BI,Azure,Azure,GCP,GCP,Java,GCP,Azure,SQL,1.8,Low
+237,TensorFlow,Excel,PyTorch,Adobe Photoshop,SQL,Salesforce,Power BI,Adobe Photoshop,GCP,1.0,Low
+238,Communication,TensorFlow,TensorFlow,Project Management,Salesforce,GCP,Project Management,SQL,PyTorch,3.5,Low
+239,Python,SQL,Power BI,Marketing,Excel,Salesforce,Power BI,Excel,AWS,1.2,Low
+240,AWS,GCP,Salesforce,SQL,Project Management,Azure,SQL,R,SQL,7.3,Medium
+241,Excel,C++,R,Marketing,Power BI,PyTorch,Azure,SQL,Project Management,1.9,Medium
+242,TensorFlow,Salesforce,TensorFlow,Python,Communication,PyTorch,Python,Excel,Excel,2.8,Low
+243,Excel,AWS,Communication,PyTorch,Salesforce,Java,Marketing,Java,TensorFlow,4.9,High
+244,GCP,AWS,Excel,Azure,Communication,AWS,Project Management,Salesforce,Excel,8.9,Medium
+245,TensorFlow,Marketing,Tableau,Java,Communication,Communication,TensorFlow,Marketing,Power BI,3.4,Low
+246,Communication,Java,Salesforce,Adobe Photoshop,TensorFlow,AWS,Tableau,GCP,C++,8.4,Very High
+247,Azure,Python,AWS,SQL,PyTorch,Adobe Photoshop,Communication,R,SQL,8.2,Very High
+248,Communication,Marketing,PyTorch,Project Management,Communication,Excel,Project Management,Java,R,3.9,Low
+249,TensorFlow,Project Management,Power BI,Project Management,SQL,Excel,Project Management,Power BI,SQL,10.0,Very High
+250,Java,Adobe Photoshop,AWS,Python,Java,Tableau,Java,TensorFlow,Project Management,2.4,Medium
+251,Salesforce,Tableau,Excel,Python,Project Management,Adobe Photoshop,Java,TensorFlow,TensorFlow,8.8,Very High
+252,Tableau,C++,Python,Azure,Power BI,R,R,TensorFlow,Salesforce,9.1,High
+253,Project Management,Azure,SQL,C++,Project Management,Project Management,TensorFlow,AWS,PyTorch,6.4,Low
+254,Project Management,Tableau,Communication,Salesforce,Project Management,Java,C++,AWS,Python,5.0,Very High
+255,GCP,Tableau,Project Management,Marketing,GCP,Marketing,Tableau,Tableau,Python,6.9,High
+256,Marketing,TensorFlow,AWS,Adobe Photoshop,Java,C++,Power BI,Marketing,TensorFlow,3.9,Medium
+257,PyTorch,GCP,TensorFlow,AWS,Azure,Marketing,Tableau,SQL,Adobe Photoshop,4.8,High
+258,Communication,Java,C++,Power BI,SQL,Marketing,Python,Salesforce,Project Management,4.8,Very High
+259,Communication,Python,Communication,Azure,Project Management,AWS,Marketing,Java,Tableau,7.8,High
+260,Excel,TensorFlow,Marketing,GCP,PyTorch,R,PyTorch,Salesforce,Azure,9.8,High
+261,AWS,Java,Communication,Project Management,Python,Marketing,AWS,AWS,GCP,6.2,Medium
+262,Project Management,Excel,Azure,TensorFlow,TensorFlow,PyTorch,Python,PyTorch,Marketing,3.6,High
+263,Azure,Salesforce,R,Power BI,Communication,Project Management,Marketing,Azure,AWS,3.2,Very High
+264,Python,Azure,SQL,TensorFlow,Communication,GCP,Marketing,AWS,GCP,6.1,Medium
+265,SQL,Java,Salesforce,Project Management,Tableau,Power BI,Salesforce,TensorFlow,Excel,7.5,Low
+266,Project Management,Adobe Photoshop,PyTorch,Python,Salesforce,Adobe Photoshop,Java,GCP,Excel,8.5,Low
+267,TensorFlow,Marketing,Adobe Photoshop,Adobe Photoshop,TensorFlow,SQL,Salesforce,TensorFlow,Excel,6.0,Low
+268,Tableau,Azure,R,C++,Adobe Photoshop,SQL,Salesforce,Project Management,Communication,1.4,Very High
+269,GCP,Power BI,Excel,TensorFlow,Python,Java,TensorFlow,SQL,C++,7.1,Medium
+270,Azure,Communication,Salesforce,Salesforce,Azure,Excel,Adobe Photoshop,Azure,Tableau,6.6,Low
+271,Salesforce,Communication,TensorFlow,Tableau,Tableau,Power BI,Adobe Photoshop,Project Management,R,5.9,High
+272,GCP,Azure,Project Management,SQL,R,Power BI,Tableau,GCP,Salesforce,4.7,Low
+273,Azure,R,GCP,Adobe Photoshop,SQL,Java,GCP,Marketing,Adobe Photoshop,8.7,Very High
+274,C++,C++,Marketing,GCP,Power BI,PyTorch,Tableau,Adobe Photoshop,GCP,7.8,High
+275,C++,Java,AWS,Salesforce,Project Management,SQL,Project Management,Tableau,Power BI,9.4,Medium
+276,Tableau,Marketing,Power BI,Marketing,Marketing,Adobe Photoshop,PyTorch,Adobe Photoshop,Power BI,3.4,Very High
+277,Excel,GCP,GCP,SQL,Excel,Project Management,Power BI,Communication,Communication,7.6,High
+278,Adobe Photoshop,Tableau,Salesforce,SQL,PyTorch,TensorFlow,R,Marketing,Adobe Photoshop,4.4,Low
+279,Azure,Project Management,Java,PyTorch,Tableau,C++,Tableau,C++,Java,8.5,Very High
+280,Power BI,Power BI,Project Management,C++,Tableau,TensorFlow,Power BI,Salesforce,Salesforce,8.6,High
+281,AWS,C++,Java,Marketing,Azure,Communication,Java,Azure,TensorFlow,1.8,Very High
+282,PyTorch,AWS,Marketing,Excel,TensorFlow,C++,Python,Java,PyTorch,9.6,Low
+283,Tableau,Marketing,Project Management,Excel,TensorFlow,C++,Java,R,Communication,3.6,Medium
+284,PyTorch,GCP,Tableau,Python,SQL,Tableau,Excel,Communication,Power BI,5.2,High
+285,R,AWS,Adobe Photoshop,PyTorch,Power BI,SQL,R,R,C++,6.6,High
+286,R,Excel,Tableau,C++,GCP,Salesforce,GCP,Tableau,Adobe Photoshop,3.4,Very High
+287,GCP,GCP,Project Management,Azure,SQL,AWS,PyTorch,Python,Tableau,5.2,Low
+288,SQL,R,GCP,SQL,GCP,Communication,Azure,SQL,GCP,4.1,Low
+289,C++,Salesforce,R,SQL,Excel,Azure,PyTorch,C++,TensorFlow,1.0,High
+290,GCP,Power BI,Java,Communication,Excel,Tableau,PyTorch,C++,R,7.7,Low
+291,Communication,Communication,Adobe Photoshop,Salesforce,C++,Power BI,Java,PyTorch,TensorFlow,2.1,Medium
+292,Marketing,Power BI,C++,Marketing,Python,Adobe Photoshop,Communication,C++,TensorFlow,6.7,High
+293,Power BI,SQL,SQL,Salesforce,SQL,AWS,Power BI,Adobe Photoshop,Marketing,6.3,Medium
+294,R,Adobe Photoshop,Communication,AWS,Java,C++,Marketing,Java,Salesforce,3.3,Low
+295,AWS,Python,GCP,AWS,C++,AWS,Salesforce,PyTorch,Java,1.4,High
+296,Project Management,TensorFlow,Salesforce,Power BI,Marketing,TensorFlow,Project Management,Azure,R,4.8,Medium
+297,C++,Azure,C++,Tableau,GCP,SQL,Tableau,AWS,GCP,9.8,Low
+298,Salesforce,SQL,Salesforce,Salesforce,R,AWS,Tableau,Python,PyTorch,8.6,Very High
+299,TensorFlow,SQL,Tableau,Project Management,Adobe Photoshop,Project Management,PyTorch,Marketing,SQL,1.1,Medium
+300,Excel,Excel,Azure,Excel,PyTorch,Project Management,Azure,Java,TensorFlow,5.6,Medium
+301,AWS,R,Power BI,Communication,Project Management,Salesforce,Excel,R,Tableau,7.5,Low
+302,Tableau,Salesforce,Salesforce,TensorFlow,Excel,Marketing,Java,Excel,AWS,8.9,Low
+303,Project Management,Python,Power BI,Excel,TensorFlow,R,C++,GCP,SQL,8.2,Medium
+304,Java,C++,Marketing,Azure,Communication,TensorFlow,PyTorch,GCP,GCP,8.0,Low
+305,C++,Project Management,C++,Excel,Communication,Tableau,Marketing,Adobe Photoshop,SQL,2.6,Very High
+306,R,Python,Project Management,Communication,Adobe Photoshop,GCP,Project Management,Excel,R,1.0,High
+307,GCP,Azure,TensorFlow,Tableau,Project Management,C++,Excel,Power BI,Project Management,2.9,High
+308,Python,Excel,R,AWS,Python,Power BI,Tableau,Marketing,TensorFlow,1.0,Medium
+309,Azure,Python,PyTorch,Power BI,Excel,Excel,TensorFlow,Communication,Excel,4.0,Low
+310,Azure,TensorFlow,Python,GCP,C++,Python,TensorFlow,GCP,PyTorch,1.9,High
+311,Adobe Photoshop,Power BI,Communication,Marketing,Salesforce,Project Management,Marketing,Salesforce,Salesforce,8.9,Medium
+312,Power BI,Power BI,Tableau,Power BI,Communication,Marketing,Power BI,Azure,Python,5.5,High
+313,Salesforce,Marketing,SQL,Java,Communication,Azure,Adobe Photoshop,Python,GCP,5.8,Low
+314,Java,Marketing,Project Management,Java,GCP,GCP,Azure,PyTorch,SQL,3.5,Medium
+315,PyTorch,Java,Marketing,Adobe Photoshop,Excel,AWS,PyTorch,Communication,Python,6.2,High
+316,Marketing,Tableau,PyTorch,GCP,Azure,Power BI,Java,GCP,TensorFlow,5.0,Low
+317,Salesforce,Excel,Project Management,Salesforce,Project Management,Python,Excel,Excel,GCP,8.3,Medium
+318,PyTorch,Python,Communication,AWS,SQL,Excel,Python,AWS,GCP,8.1,High
+319,Azure,Power BI,Power BI,Excel,Power BI,TensorFlow,Java,SQL,Power BI,3.9,Very High
+320,Adobe Photoshop,Project Management,Communication,Salesforce,TensorFlow,Java,Adobe Photoshop,Python,Power BI,4.8,Medium
+321,Salesforce,Python,Python,PyTorch,Adobe Photoshop,Power BI,AWS,Azure,Project Management,1.7,Very High
+322,Power BI,PyTorch,Project Management,Project Management,Salesforce,Adobe Photoshop,Java,SQL,Java,4.2,High
+323,Tableau,Marketing,Tableau,Salesforce,AWS,Power BI,C++,PyTorch,PyTorch,4.6,Low
+324,Java,C++,TensorFlow,Marketing,GCP,Power BI,GCP,Adobe Photoshop,Power BI,7.4,Low
+325,Project Management,Adobe Photoshop,Java,Java,TensorFlow,Azure,Excel,PyTorch,Salesforce,6.3,High
+326,SQL,Communication,Marketing,Salesforce,Marketing,C++,Python,C++,Java,9.1,High
+327,Python,AWS,Adobe Photoshop,Marketing,Adobe Photoshop,Adobe Photoshop,GCP,C++,SQL,9.0,Very High
+328,Python,SQL,Project Management,AWS,AWS,TensorFlow,TensorFlow,Java,Communication,4.5,Very High
+329,C++,Java,AWS,C++,C++,Azure,Marketing,Communication,Power BI,5.4,High
+330,Power BI,R,SQL,Marketing,C++,Python,GCP,Azure,Adobe Photoshop,4.2,Very High
+331,PyTorch,Python,GCP,C++,Marketing,TensorFlow,AWS,GCP,C++,4.2,Medium
+332,Project Management,SQL,Communication,Tableau,Marketing,Adobe Photoshop,Azure,GCP,Azure,2.1,Medium
+333,R,Excel,Python,Python,Project Management,Salesforce,SQL,Azure,Communication,9.8,Low
+334,PyTorch,Python,Excel,C++,Python,Azure,Python,Project Management,Python,2.8,Low
+335,SQL,GCP,R,Power BI,C++,C++,Power BI,AWS,AWS,5.2,Low
+336,R,Project Management,C++,Project Management,R,Project Management,AWS,Tableau,GCP,9.0,Low
+337,Communication,R,TensorFlow,Java,Excel,Communication,Azure,Project Management,Python,4.5,High
+338,Communication,Marketing,GCP,C++,AWS,Communication,Communication,Marketing,Marketing,1.3,Low
+339,C++,Marketing,SQL,Excel,TensorFlow,Python,Project Management,GCP,Excel,6.9,Low
+340,Java,Adobe Photoshop,Marketing,PyTorch,PyTorch,Salesforce,Marketing,Python,C++,1.8,Medium
+341,Adobe Photoshop,TensorFlow,GCP,GCP,AWS,Salesforce,R,TensorFlow,GCP,2.6,Medium
+342,Marketing,Excel,Communication,GCP,Java,Azure,TensorFlow,C++,Project Management,9.2,Medium
+343,Python,TensorFlow,Marketing,Azure,PyTorch,Azure,Java,TensorFlow,Project Management,5.6,Low
+344,GCP,Salesforce,Azure,Azure,Java,R,R,Project Management,Power BI,7.5,High
+345,Excel,Project Management,TensorFlow,TensorFlow,Adobe Photoshop,Salesforce,Adobe Photoshop,Excel,Excel,4.7,High
+346,Python,GCP,Salesforce,Project Management,Adobe Photoshop,Python,Tableau,C++,TensorFlow,8.0,Low
+347,C++,Project Management,Communication,Power BI,Power BI,Marketing,Azure,Power BI,Python,7.3,Very High
+348,AWS,GCP,PyTorch,Adobe Photoshop,AWS,GCP,Communication,GCP,TensorFlow,2.1,Very High
+349,Power BI,TensorFlow,AWS,R,GCP,C++,Azure,Salesforce,Communication,7.2,Low
+350,Excel,R,C++,GCP,AWS,Java,Tableau,AWS,TensorFlow,2.6,Low
+351,Excel,TensorFlow,Azure,Python,Adobe Photoshop,SQL,Marketing,AWS,TensorFlow,2.6,Low
+352,GCP,Project Management,Project Management,GCP,R,Power BI,Power BI,R,Excel,4.5,High
+353,Adobe Photoshop,R,Azure,TensorFlow,C++,Excel,Java,Marketing,Tableau,6.0,Very High
+354,TensorFlow,SQL,PyTorch,Azure,Python,Tableau,Power BI,Marketing,R,7.8,Low
+355,TensorFlow,TensorFlow,R,Adobe Photoshop,Java,Azure,C++,PyTorch,Communication,1.6,Very High
+356,TensorFlow,Excel,Salesforce,Marketing,Tableau,Communication,C++,Marketing,PyTorch,3.1,Medium
+357,TensorFlow,Power BI,GCP,C++,Azure,Power BI,Power BI,Marketing,Java,9.8,High
+358,Power BI,Adobe Photoshop,Azure,Power BI,Communication,Excel,AWS,Salesforce,Communication,2.4,Medium
+359,Java,TensorFlow,PyTorch,GCP,Tableau,Salesforce,TensorFlow,Marketing,Tableau,7.2,High
+360,GCP,Excel,Python,Excel,Java,PyTorch,C++,PyTorch,SQL,2.6,High
+361,TensorFlow,Tableau,SQL,PyTorch,Project Management,Communication,Python,Excel,Python,4.8,High
+362,TensorFlow,AWS,Python,Java,AWS,GCP,GCP,Tableau,Azure,3.0,Very High
+363,GCP,R,PyTorch,Salesforce,Salesforce,AWS,PyTorch,Java,Excel,3.2,High
+364,GCP,R,Python,Power BI,PyTorch,Python,Adobe Photoshop,Python,AWS,5.9,Low
+365,Project Management,R,Tableau,AWS,Communication,Adobe Photoshop,AWS,Tableau,SQL,3.6,High
+366,Project Management,Power BI,Project Management,Adobe Photoshop,Tableau,Communication,Java,Azure,SQL,2.8,Low
+367,Excel,Azure,AWS,R,Adobe Photoshop,SQL,Python,Tableau,AWS,9.0,Very High
+368,Tableau,Project Management,Project Management,PyTorch,Salesforce,Adobe Photoshop,Project Management,Power BI,Tableau,1.7,Low
+369,Marketing,R,SQL,GCP,Excel,C++,Python,TensorFlow,SQL,2.5,Medium
+370,Python,Python,Project Management,Marketing,Power BI,R,Salesforce,Java,SQL,6.0,Low
+371,C++,R,Adobe Photoshop,Adobe Photoshop,Marketing,Java,C++,Excel,GCP,1.2,Low
+372,R,Communication,PyTorch,C++,Python,Python,Project Management,R,SQL,8.0,Low
+373,SQL,Azure,TensorFlow,Power BI,Excel,Azure,PyTorch,Tableau,GCP,4.3,Medium
+374,TensorFlow,Python,SQL,Marketing,AWS,PyTorch,Communication,Power BI,Marketing,7.9,High
+375,R,C++,Tableau,SQL,PyTorch,TensorFlow,Marketing,TensorFlow,Communication,9.9,Low
+376,GCP,PyTorch,Communication,SQL,R,Java,Java,GCP,PyTorch,3.4,Low
+377,SQL,TensorFlow,Java,R,C++,Salesforce,Communication,Tableau,AWS,3.0,Medium
+378,TensorFlow,C++,PyTorch,Java,Communication,Marketing,Marketing,Communication,R,4.6,Low
+379,Marketing,Power BI,Excel,SQL,Azure,C++,Excel,Power BI,Tableau,3.8,Low
+380,Adobe Photoshop,Marketing,Adobe Photoshop,SQL,C++,Power BI,PyTorch,Java,R,3.2,Very High
+381,PyTorch,Java,PyTorch,Java,Communication,Marketing,PyTorch,Azure,Tableau,7.7,Very High
+382,Project Management,Azure,GCP,Tableau,Tableau,Project Management,Project Management,Python,Python,7.6,Medium
+383,AWS,Java,TensorFlow,Marketing,Tableau,C++,Power BI,Power BI,C++,8.4,Medium
+384,AWS,Excel,C++,Communication,Azure,R,PyTorch,GCP,Azure,7.7,Very High
+385,Excel,Salesforce,AWS,Python,C++,Excel,Adobe Photoshop,Azure,Excel,7.8,Medium
+386,Salesforce,Java,Python,Marketing,Java,Project Management,Excel,R,Marketing,2.1,Medium
+387,Tableau,R,C++,Tableau,Project Management,Java,R,TensorFlow,GCP,8.8,Low
+388,Python,Marketing,Tableau,Python,Excel,Adobe Photoshop,PyTorch,Power BI,AWS,7.7,Low
+389,TensorFlow,Tableau,Project Management,Tableau,Excel,Python,Power BI,SQL,Power BI,6.5,Low
+390,SQL,AWS,Python,Project Management,AWS,Java,Adobe Photoshop,PyTorch,Azure,5.1,Very High
+391,Marketing,PyTorch,C++,Tableau,PyTorch,C++,Project Management,Python,R,1.3,Low
+392,Java,Marketing,Python,Communication,Java,Power BI,TensorFlow,C++,Azure,7.7,High
+393,Marketing,C++,Python,SQL,Excel,C++,TensorFlow,Adobe Photoshop,Communication,6.2,Low
+394,C++,R,Marketing,Azure,Adobe Photoshop,Adobe Photoshop,Tableau,R,Marketing,8.3,Very High
+395,Azure,SQL,Azure,SQL,TensorFlow,Power BI,R,AWS,Project Management,6.9,Low
+396,SQL,SQL,C++,R,Salesforce,PyTorch,Azure,R,Python,8.5,High
+397,GCP,SQL,TensorFlow,Java,Azure,R,Azure,AWS,Tableau,6.6,High
+398,Java,Java,C++,Java,Tableau,PyTorch,Marketing,Azure,PyTorch,8.3,Very High
+399,Java,Java,C++,SQL,SQL,GCP,GCP,Project Management,GCP,4.4,Very High
+400,R,GCP,Python,Power BI,Communication,Tableau,R,C++,SQL,2.7,Low
+401,GCP,PyTorch,TensorFlow,Excel,Adobe Photoshop,Azure,SQL,Salesforce,Adobe Photoshop,9.4,High
+402,Salesforce,Salesforce,Salesforce,R,Python,Excel,Tableau,PyTorch,PyTorch,2.3,Medium
+403,Java,Communication,SQL,Salesforce,Azure,Adobe Photoshop,TensorFlow,Tableau,Python,5.5,High
+404,TensorFlow,GCP,R,PyTorch,Tableau,Salesforce,Excel,Azure,Azure,9.3,High
+405,GCP,Tableau,Salesforce,Java,Adobe Photoshop,Salesforce,GCP,Marketing,AWS,7.5,Low
+406,Project Management,PyTorch,PyTorch,Marketing,Adobe Photoshop,GCP,Python,Java,Salesforce,2.0,Medium
+407,C++,Communication,C++,PyTorch,C++,SQL,Python,Marketing,Project Management,2.2,Medium
+408,Tableau,Salesforce,Power BI,Python,Java,Communication,SQL,TensorFlow,Communication,5.9,Very High
+409,R,PyTorch,Communication,PyTorch,Excel,TensorFlow,Marketing,C++,Excel,1.7,Low
+410,Adobe Photoshop,Project Management,Project Management,Communication,R,Azure,Excel,Marketing,Salesforce,8.9,Low
+411,Communication,Tableau,R,PyTorch,Java,Communication,Communication,C++,Excel,9.9,Very High
+412,Power BI,Salesforce,SQL,SQL,AWS,AWS,GCP,TensorFlow,R,5.5,Low
+413,R,AWS,Communication,Salesforce,Azure,Communication,GCP,Project Management,TensorFlow,6.3,Medium
+414,Salesforce,Azure,C++,Project Management,Communication,Tableau,Marketing,Azure,TensorFlow,6.6,Low
+415,Adobe Photoshop,Marketing,C++,Tableau,Salesforce,Java,Salesforce,Azure,TensorFlow,6.3,Low
+416,Java,R,R,R,GCP,Project Management,TensorFlow,Tableau,SQL,7.5,Medium
+417,C++,Salesforce,Power BI,Excel,Adobe Photoshop,AWS,Python,Excel,GCP,5.8,High
+418,Java,Project Management,Power BI,GCP,AWS,Adobe Photoshop,Python,TensorFlow,AWS,6.5,High
+419,AWS,Tableau,Adobe Photoshop,Project Management,Communication,PyTorch,Power BI,R,Communication,7.8,Medium
+420,TensorFlow,PyTorch,SQL,Tableau,Adobe Photoshop,Marketing,Tableau,Salesforce,Adobe Photoshop,7.7,Very High
+421,Excel,Power BI,PyTorch,Azure,R,Excel,SQL,PyTorch,Communication,3.0,Very High
+422,Python,Marketing,Communication,Marketing,Power BI,PyTorch,SQL,SQL,Azure,4.4,Low
+423,Python,Python,GCP,Azure,Salesforce,Excel,SQL,Tableau,R,4.6,Medium
+424,Project Management,Tableau,Project Management,Marketing,TensorFlow,Java,Azure,C++,Power BI,1.3,Very High
+425,GCP,Azure,Adobe Photoshop,Excel,Excel,Azure,Tableau,Azure,C++,2.6,High
+426,Excel,Azure,Tableau,Tableau,PyTorch,Salesforce,PyTorch,Marketing,C++,6.2,Low
+427,Project Management,SQL,Adobe Photoshop,Excel,Marketing,Project Management,GCP,Excel,Java,1.8,Low
+428,PyTorch,Power BI,PyTorch,Python,Salesforce,AWS,C++,Java,AWS,7.2,Very High
+429,C++,SQL,Salesforce,PyTorch,Project Management,Communication,Java,Azure,Tableau,2.4,High
+430,PyTorch,PyTorch,Java,Project Management,SQL,Tableau,Tableau,SQL,TensorFlow,8.7,High
+431,R,AWS,AWS,C++,AWS,Marketing,C++,Excel,Adobe Photoshop,4.9,Low
+432,AWS,R,Marketing,Tableau,C++,C++,Python,GCP,Marketing,2.4,Low
+433,PyTorch,R,TensorFlow,Power BI,Adobe Photoshop,PyTorch,TensorFlow,Java,TensorFlow,5.3,High
+434,Adobe Photoshop,C++,Excel,Python,PyTorch,Adobe Photoshop,C++,Tableau,Python,2.9,Low
+435,Project Management,Communication,SQL,Marketing,Azure,Java,Marketing,C++,Adobe Photoshop,4.7,Medium
+436,Tableau,Python,Adobe Photoshop,AWS,Azure,Azure,Adobe Photoshop,Tableau,Excel,1.7,Very High
+437,Python,Azure,Tableau,R,Communication,Excel,Communication,Power BI,Python,6.7,High
+438,AWS,Project Management,Azure,TensorFlow,Salesforce,Project Management,Java,Python,Adobe Photoshop,2.4,Low
+439,PyTorch,GCP,Tableau,R,Adobe Photoshop,Communication,Marketing,C++,AWS,4.2,Low
+440,Communication,GCP,Tableau,Java,Adobe Photoshop,Project Management,Python,Project Management,Communication,1.2,Medium
+441,Java,Python,Power BI,GCP,Power BI,R,C++,Java,Salesforce,3.8,Low
+442,TensorFlow,SQL,PyTorch,SQL,Salesforce,Tableau,Java,TensorFlow,TensorFlow,1.1,Low
+443,Python,R,R,Adobe Photoshop,Project Management,Communication,R,R,Tableau,7.4,Low
+444,Power BI,Tableau,Tableau,Marketing,Project Management,Power BI,Java,Python,Adobe Photoshop,6.0,Very High
+445,Marketing,Tableau,Java,C++,Adobe Photoshop,C++,Power BI,Python,GCP,2.4,Very High
+446,C++,PyTorch,Azure,Power BI,Salesforce,Project Management,TensorFlow,Adobe Photoshop,Python,1.2,Very High
+447,AWS,Power BI,Salesforce,TensorFlow,Project Management,Project Management,Salesforce,Python,Project Management,7.2,Very High
+448,Adobe Photoshop,Power BI,Salesforce,C++,C++,R,TensorFlow,AWS,SQL,9.2,High
+449,Communication,TensorFlow,R,Java,PyTorch,Power BI,Power BI,Excel,Adobe Photoshop,5.8,Medium
+450,Communication,Power BI,AWS,PyTorch,PyTorch,Power BI,Adobe Photoshop,Java,C++,1.5,High
+451,TensorFlow,Salesforce,SQL,Azure,Marketing,Excel,PyTorch,Salesforce,GCP,8.1,Low
+452,Salesforce,Communication,Power BI,Marketing,Salesforce,C++,Project Management,AWS,Marketing,5.4,Very High
+453,Marketing,Tableau,Power BI,Adobe Photoshop,Tableau,Marketing,Power BI,GCP,SQL,8.3,Very High
+454,Excel,Python,GCP,Tableau,Marketing,Communication,Adobe Photoshop,Power BI,Tableau,8.6,Medium
+455,PyTorch,AWS,Python,Marketing,Salesforce,PyTorch,TensorFlow,GCP,R,2.2,Very High
+456,Azure,Adobe Photoshop,AWS,Power BI,R,Project Management,R,Python,Python,4.8,Low
+457,C++,Tableau,GCP,Adobe Photoshop,Python,AWS,GCP,Tableau,Marketing,1.9,Low
+458,Project Management,AWS,Java,SQL,R,PyTorch,Adobe Photoshop,Marketing,Communication,8.2,Very High
+459,R,TensorFlow,Power BI,Salesforce,Marketing,C++,Azure,Communication,C++,3.2,Very High
+460,C++,C++,SQL,Communication,Project Management,TensorFlow,Java,Tableau,AWS,7.1,Low
+461,Python,Azure,AWS,Java,Excel,PyTorch,AWS,Marketing,Adobe Photoshop,7.1,Low
+462,R,Salesforce,Tableau,Excel,Communication,Salesforce,Adobe Photoshop,Azure,C++,8.0,Very High
+463,Adobe Photoshop,Project Management,Adobe Photoshop,Project Management,Python,Project Management,Communication,TensorFlow,Project Management,1.5,Medium
+464,GCP,Project Management,SQL,Python,TensorFlow,TensorFlow,Tableau,Adobe Photoshop,Power BI,6.9,Low
+465,Excel,PyTorch,Project Management,SQL,Power BI,Adobe Photoshop,AWS,Power BI,C++,7.3,Medium
+466,Communication,Power BI,R,PyTorch,Project Management,SQL,Adobe Photoshop,GCP,Salesforce,4.3,Very High
+467,Communication,GCP,Excel,Communication,TensorFlow,PyTorch,Adobe Photoshop,C++,TensorFlow,5.7,Medium
+468,Java,TensorFlow,R,GCP,AWS,PyTorch,TensorFlow,Adobe Photoshop,C++,5.7,High
+469,PyTorch,TensorFlow,PyTorch,SQL,Tableau,PyTorch,C++,R,Excel,7.0,Very High
+470,R,AWS,Tableau,Marketing,Excel,Excel,C++,Excel,Tableau,1.0,High
+471,Python,Communication,Power BI,Salesforce,Java,Salesforce,Power BI,AWS,Python,7.3,Low
+472,Excel,C++,R,PyTorch,Azure,Java,Marketing,Power BI,Java,2.8,High
+473,C++,GCP,Excel,TensorFlow,Marketing,Excel,TensorFlow,Communication,R,9.0,Very High
+474,AWS,Azure,PyTorch,Tableau,Excel,SQL,Tableau,Excel,R,5.3,Low
+475,AWS,GCP,Excel,SQL,Azure,R,Power BI,PyTorch,AWS,2.3,Low
+476,Project Management,Salesforce,Java,Project Management,Adobe Photoshop,Python,Tableau,Python,Python,9.5,Low
+477,C++,Communication,Salesforce,Communication,AWS,TensorFlow,SQL,TensorFlow,TensorFlow,3.9,Very High
+478,R,Power BI,Project Management,Azure,AWS,Project Management,TensorFlow,SQL,C++,1.9,Very High
+479,Azure,GCP,TensorFlow,Excel,Azure,Azure,Java,PyTorch,Salesforce,3.2,High
+480,Adobe Photoshop,SQL,AWS,TensorFlow,TensorFlow,AWS,Power BI,SQL,Adobe Photoshop,6.8,Very High
+481,R,Azure,Azure,Adobe Photoshop,Azure,TensorFlow,Project Management,Tableau,AWS,8.2,Medium
+482,R,AWS,Excel,PyTorch,Python,Excel,Salesforce,Azure,AWS,5.1,Very High
+483,Python,Java,Project Management,Java,R,Tableau,C++,PyTorch,Marketing,6.0,Very High
+484,Python,AWS,Salesforce,Tableau,Salesforce,R,Communication,Python,R,7.8,Very High
+485,C++,TensorFlow,Communication,R,TensorFlow,Marketing,Marketing,Adobe Photoshop,Power BI,4.7,High
+486,Java,SQL,Adobe Photoshop,TensorFlow,Python,Azure,GCP,Tableau,Marketing,5.4,Low
+487,C++,R,Tableau,Project Management,TensorFlow,TensorFlow,Project Management,Communication,Adobe Photoshop,9.4,Low
+488,Communication,C++,Python,GCP,Power BI,R,Marketing,Adobe Photoshop,R,3.0,High
+489,SQL,Communication,Java,C++,Python,AWS,SQL,Marketing,Salesforce,3.1,High
+490,Excel,Adobe Photoshop,Azure,AWS,AWS,Project Management,Python,PyTorch,Adobe Photoshop,8.9,Medium
+491,Power BI,Project Management,AWS,TensorFlow,R,Python,Python,Adobe Photoshop,PyTorch,4.5,Very High
+492,TensorFlow,Power BI,Power BI,Python,Communication,Power BI,AWS,TensorFlow,Python,1.2,Very High
+493,R,TensorFlow,Java,Salesforce,Excel,GCP,TensorFlow,PyTorch,Project Management,6.0,Low
+494,Marketing,Communication,Project Management,R,AWS,PyTorch,Excel,Python,AWS,2.0,High
+495,Salesforce,Marketing,Power BI,Project Management,Python,Python,Tableau,TensorFlow,PyTorch,1.3,High
+496,SQL,Salesforce,C++,GCP,R,AWS,PyTorch,PyTorch,GCP,2.0,High
+497,Salesforce,Marketing,Adobe Photoshop,AWS,Tableau,Adobe Photoshop,Adobe Photoshop,GCP,Excel,1.3,Very High
+498,Tableau,AWS,Python,PyTorch,R,Project Management,C++,Communication,Excel,8.3,Very High
+499,Excel,Salesforce,R,Azure,Python,Project Management,Java,TensorFlow,Marketing,1.9,High
+500,GCP,Python,Power BI,PyTorch,R,PyTorch,Excel,C++,PyTorch,4.9,Medium

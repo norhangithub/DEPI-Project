@@ -1,0 +1,201 @@
+SalaryAnalyticsKey,Projected_Salary_Change_Pct,Salary_Quartile_25_USD,Salary_Quartile_75_USD,Avg_Bonus_Pct,Avg_Stock_Options_USD,Salary_Competitiveness_Index,Pay_Gap_Gender_Pct,Pay_Gap_Region_Pct,Last_Updated_DateKey,Data_Source,Notes
+1,0.003,38722,111236,0.25,45333,1.15,0.049,0.011,2081,Glassdoor,Simulated salary analysis.
+2,-0.009,33258,143128,0.07,27469,1.14,0.049,0.106,1699,Internal HR,Simulated salary analysis.
+3,0.007,65089,92866,0.23,4586,0.98,0.107,0.191,365,Internal HR,Simulated salary analysis.
+4,0.092,68880,146638,0.03,6138,1.03,0.072,0.143,2108,Payscale,Simulated salary analysis.
+5,0.084,42477,123659,0.13,30069,0.88,0.034,0.058,2082,Glassdoor,Simulated salary analysis.
+6,-0.011,34535,93223,0.07,21720,0.92,0.066,0.083,1080,Internal HR,Simulated salary analysis.
+7,0.044,61939,116448,0.03,2821,0.96,0.123,0.161,1900,Glassdoor,Simulated salary analysis.
+8,0.085,79933,184646,0.14,15583,1.01,0.017,0.116,79,Internal HR,Simulated salary analysis.
+9,0.028,51825,120946,0.12,40168,0.99,0.049,0.02,254,Internal HR,Simulated salary analysis.
+10,0.014,37130,189815,0.24,12619,1.15,0.141,0.165,749,Glassdoor,Simulated salary analysis.
+11,-0.017,77705,143425,0.22,27518,0.91,0.042,0.073,1099,Glassdoor,Simulated salary analysis.
+12,0.013,47169,114660,0.25,47786,1.08,0.015,0.054,904,Internal HR,Simulated salary analysis.
+13,-0.001,47472,141841,0.03,15830,1.09,0.112,0.173,1811,Internal HR,Simulated salary analysis.
+14,0.099,35099,163175,0.22,32003,0.92,0.044,0.184,984,Payscale,Simulated salary analysis.
+15,0.099,59802,180449,0.06,41410,1.02,0.056,0.089,1060,Glassdoor,Simulated salary analysis.
+16,0.038,65976,141431,0.22,34448,1.06,0.088,0.018,502,Payscale,Simulated salary analysis.
+17,0.004,74654,152817,0.22,40994,1.04,0.144,0.066,755,Internal HR,Simulated salary analysis.
+18,-0.016,42452,137676,0.06,23097,1.1,0.086,0.074,190,Glassdoor,Simulated salary analysis.
+19,0.08,43319,114581,0.07,32772,0.95,0.136,0.101,890,Glassdoor,Simulated salary analysis.
+20,0.048,73444,144616,0.09,34818,1.18,0.116,0.047,1315,Payscale,Simulated salary analysis.
+21,0.084,75990,119261,0.05,40303,1.06,0.13,0.098,1180,Payscale,Simulated salary analysis.
+22,0.077,48083,97698,0.04,38340,0.91,0.114,0.114,1684,Internal HR,Simulated salary analysis.
+23,0.065,53359,148382,0.15,47121,1.12,0.041,0.057,404,Payscale,Simulated salary analysis.
+24,-0.008,49500,96123,0.13,23728,0.88,0.128,0.117,2163,Internal HR,Simulated salary analysis.
+25,0.02,79411,117879,0.06,21227,0.81,0.092,0.145,936,Internal HR,Simulated salary analysis.
+26,0.01,36409,120041,0.06,27601,1.13,0.084,0.114,1053,Glassdoor,Simulated salary analysis.
+27,0.066,79888,176834,0.16,27769,0.83,0.089,0.044,1534,Payscale,Simulated salary analysis.
+28,0.006,45399,91732,0.0,31080,1.11,0.144,0.173,671,Payscale,Simulated salary analysis.
+29,-0.012,74596,148144,0.2,19441,1.04,0.087,0.007,1189,Internal HR,Simulated salary analysis.
+30,0.081,50078,131820,0.1,4846,0.9,0.132,0.184,1314,Glassdoor,Simulated salary analysis.
+31,-0.014,50962,197950,0.04,40907,1.16,0.14,0.142,1227,Internal HR,Simulated salary analysis.
+32,0.072,79528,135619,0.17,3609,1.17,0.13,0.059,661,Glassdoor,Simulated salary analysis.
+33,0.037,31883,154451,0.17,44438,1.04,0.067,0.073,1528,Glassdoor,Simulated salary analysis.
+34,0.055,41476,109779,0.08,37873,0.94,0.023,0.141,1636,Internal HR,Simulated salary analysis.
+35,0.052,66532,152279,0.06,33321,1.01,0.015,0.041,1468,Glassdoor,Simulated salary analysis.
+36,-0.012,76936,92898,0.14,5857,0.83,0.105,0.195,1506,Payscale,Simulated salary analysis.
+37,-0.014,62615,164864,0.17,26663,1.06,0.038,0.117,267,Internal HR,Simulated salary analysis.
+38,0.034,79369,108044,0.18,14299,1.13,0.078,0.029,1613,Payscale,Simulated salary analysis.
+39,0.061,37038,163147,0.2,29295,0.87,0.013,0.107,154,Internal HR,Simulated salary analysis.
+40,0.085,38861,128240,0.12,30014,1.1,0.078,0.137,766,Glassdoor,Simulated salary analysis.
+41,0.034,51507,188633,0.2,35497,1.11,0.063,0.048,938,Glassdoor,Simulated salary analysis.
+42,0.086,41584,134174,0.02,17926,0.84,0.131,0.125,1558,Payscale,Simulated salary analysis.
+43,0.065,63163,103314,0.21,47581,0.99,0.129,0.199,1349,Internal HR,Simulated salary analysis.
+44,-0.016,60533,123936,0.07,8054,0.84,0.084,0.071,877,Payscale,Simulated salary analysis.
+45,-0.019,78752,157068,0.06,47105,0.89,0.004,0.025,1357,Glassdoor,Simulated salary analysis.
+46,-0.016,52470,182552,0.01,43443,1.15,0.081,0.099,2119,Glassdoor,Simulated salary analysis.
+47,0.043,72925,132565,0.04,45928,1.08,0.014,0.002,2057,Payscale,Simulated salary analysis.
+48,0.023,62651,186088,0.22,37161,0.81,0.024,0.157,215,Payscale,Simulated salary analysis.
+49,-0.0,79598,161434,0.07,47551,1.2,0.127,0.191,280,Payscale,Simulated salary analysis.
+50,0.091,49435,136480,0.15,40075,0.95,0.074,0.13,911,Internal HR,Simulated salary analysis.
+51,-0.003,54560,136354,0.09,42107,0.88,0.023,0.15,2164,Payscale,Simulated salary analysis.
+52,-0.013,74275,138632,0.1,946,1.01,0.077,0.182,89,Payscale,Simulated salary analysis.
+53,0.095,36450,171472,0.07,6632,1.15,0.134,0.098,13,Internal HR,Simulated salary analysis.
+54,0.096,71297,181381,0.11,21149,0.94,0.064,0.042,2091,Glassdoor,Simulated salary analysis.
+55,0.006,44690,148230,0.16,48565,1.12,0.12,0.097,1831,Payscale,Simulated salary analysis.
+56,0.045,37594,126172,0.24,46435,1.14,0.086,0.091,178,Payscale,Simulated salary analysis.
+57,0.005,64887,153894,0.24,45726,1.01,0.092,0.052,1345,Glassdoor,Simulated salary analysis.
+58,0.086,37409,183082,0.03,17414,0.81,0.123,0.129,1753,Payscale,Simulated salary analysis.
+59,0.078,50903,185295,0.03,31234,0.83,0.082,0.027,702,Payscale,Simulated salary analysis.
+60,0.098,30183,137835,0.1,5518,1.01,0.005,0.013,172,Internal HR,Simulated salary analysis.
+61,0.03,69487,152725,0.17,40600,1.11,0.085,0.095,1820,Internal HR,Simulated salary analysis.
+62,0.054,30035,154104,0.01,44728,1.19,0.112,0.149,886,Payscale,Simulated salary analysis.
+63,0.018,49246,115218,0.03,16697,1.04,0.016,0.159,1293,Internal HR,Simulated salary analysis.
+64,-0.006,57171,138302,0.07,32600,0.96,0.116,0.146,1529,Internal HR,Simulated salary analysis.
+65,0.087,54841,165036,0.05,26764,1.06,0.084,0.081,152,Glassdoor,Simulated salary analysis.
+66,0.095,66967,91425,0.09,37846,1.07,0.009,0.065,36,Internal HR,Simulated salary analysis.
+67,0.039,39207,181709,0.11,40294,1.03,0.128,0.02,273,Payscale,Simulated salary analysis.
+68,0.018,30766,92665,0.24,8479,0.99,0.049,0.159,1843,Glassdoor,Simulated salary analysis.
+69,0.088,47142,93372,0.07,39826,0.85,0.093,0.015,442,Glassdoor,Simulated salary analysis.
+70,0.038,36010,149148,0.23,42958,1.2,0.121,0.148,1067,Glassdoor,Simulated salary analysis.
+71,0.084,70884,182404,0.09,4941,1.11,0.126,0.004,1437,Payscale,Simulated salary analysis.
+72,0.008,58228,156163,0.0,21089,1.06,0.07,0.114,1453,Glassdoor,Simulated salary analysis.
+73,0.071,61425,141016,0.22,5675,0.8,0.116,0.133,1629,Glassdoor,Simulated salary analysis.
+74,0.022,51609,123525,0.13,12961,1.01,0.033,0.023,1980,Internal HR,Simulated salary analysis.
+75,0.083,72100,196213,0.06,32203,0.82,0.111,0.076,552,Payscale,Simulated salary analysis.
+76,-0.016,58743,178409,0.01,31074,1.18,0.143,0.163,87,Payscale,Simulated salary analysis.
+77,0.025,37823,184345,0.08,46812,0.87,0.052,0.015,797,Glassdoor,Simulated salary analysis.
+78,0.036,58302,166356,0.03,40683,0.83,0.054,0.127,554,Glassdoor,Simulated salary analysis.
+79,-0.006,78066,112185,0.04,37220,0.89,0.08,0.119,1057,Payscale,Simulated salary analysis.
+80,0.025,65153,132987,0.22,47199,1.09,0.137,0.027,1569,Payscale,Simulated salary analysis.
+81,0.029,42920,162108,0.04,19538,0.97,0.114,0.067,197,Internal HR,Simulated salary analysis.
+82,0.02,50217,148134,0.18,11361,1.19,0.002,0.104,37,Glassdoor,Simulated salary analysis.
+83,0.019,75461,139063,0.07,2237,0.91,0.141,0.184,659,Payscale,Simulated salary analysis.
+84,0.065,49038,102632,0.18,3935,0.94,0.024,0.09,2132,Internal HR,Simulated salary analysis.
+85,0.09,63276,189645,0.17,9229,0.98,0.027,0.009,1506,Internal HR,Simulated salary analysis.
+86,0.014,31896,132419,0.1,3738,0.82,0.099,0.124,1352,Payscale,Simulated salary analysis.
+87,0.028,59079,166665,0.1,18907,1.16,0.026,0.189,1233,Internal HR,Simulated salary analysis.
+88,-0.002,72063,172320,0.09,43295,0.94,0.029,0.103,935,Glassdoor,Simulated salary analysis.
+89,-0.001,35932,158182,0.09,8751,0.91,0.01,0.193,646,Payscale,Simulated salary analysis.
+90,0.041,30424,113595,0.16,4111,1.0,0.129,0.146,89,Glassdoor,Simulated salary analysis.
+91,0.028,55327,153886,0.21,1704,0.88,0.122,0.199,1869,Payscale,Simulated salary analysis.
+92,-0.013,33413,98747,0.05,20642,1.02,0.031,0.189,694,Glassdoor,Simulated salary analysis.
+93,0.068,64949,156392,0.04,25984,0.91,0.139,0.114,1655,Internal HR,Simulated salary analysis.
+94,0.007,56411,132847,0.18,39895,0.94,0.056,0.113,1996,Glassdoor,Simulated salary analysis.
+95,0.064,41350,133365,0.17,37418,1.05,0.017,0.084,1633,Glassdoor,Simulated salary analysis.
+96,0.08,72010,148744,0.22,23683,0.85,0.002,0.059,469,Payscale,Simulated salary analysis.
+97,0.074,78734,96430,0.17,34431,0.97,0.037,0.15,1663,Payscale,Simulated salary analysis.
+98,0.09,62939,195111,0.02,29704,1.11,0.011,0.071,1069,Internal HR,Simulated salary analysis.
+99,0.054,71535,130372,0.04,48159,1.07,0.026,0.089,1880,Glassdoor,Simulated salary analysis.
+100,0.024,75353,144357,0.13,8661,0.94,0.043,0.007,2056,Glassdoor,Simulated salary analysis.
+101,0.007,63069,168708,0.04,46686,0.8,0.14,0.108,1299,Payscale,Simulated salary analysis.
+102,0.1,37851,119931,0.16,44471,1.0,0.129,0.099,1880,Internal HR,Simulated salary analysis.
+103,0.071,44689,131913,0.11,41913,0.81,0.133,0.085,497,Glassdoor,Simulated salary analysis.
+104,0.065,57951,172783,0.04,30449,0.89,0.021,0.111,2123,Internal HR,Simulated salary analysis.
+105,0.087,58893,144272,0.01,12353,1.02,0.105,0.131,172,Internal HR,Simulated salary analysis.
+106,0.048,67424,117603,0.09,11610,0.84,0.088,0.135,1826,Glassdoor,Simulated salary analysis.
+107,0.05,77859,183444,0.09,10619,1.01,0.057,0.183,2110,Payscale,Simulated salary analysis.
+108,-0.007,33831,193544,0.05,11277,1.19,0.147,0.168,1718,Payscale,Simulated salary analysis.
+109,0.027,43515,141366,0.19,21864,0.83,0.093,0.077,1066,Internal HR,Simulated salary analysis.
+110,0.091,64242,113527,0.14,13548,0.95,0.054,0.092,1398,Glassdoor,Simulated salary analysis.
+111,0.046,39182,163131,0.18,18008,0.89,0.013,0.112,275,Internal HR,Simulated salary analysis.
+112,0.081,70034,102068,0.05,13924,1.1,0.048,0.061,1718,Glassdoor,Simulated salary analysis.
+113,-0.003,33287,150560,0.21,36141,0.93,0.025,0.002,709,Internal HR,Simulated salary analysis.
+114,0.078,72084,106086,0.13,8446,0.85,0.001,0.063,391,Internal HR,Simulated salary analysis.
+115,0.026,70829,96798,0.15,827,1.1,0.145,0.193,1653,Payscale,Simulated salary analysis.
+116,0.051,58476,133144,0.19,35009,0.94,0.084,0.015,434,Internal HR,Simulated salary analysis.
+117,0.067,79652,185441,0.22,9157,1.17,0.122,0.172,878,Glassdoor,Simulated salary analysis.
+118,0.025,65519,177630,0.08,2947,1.1,0.082,0.025,1048,Internal HR,Simulated salary analysis.
+119,0.011,69931,195674,0.14,18878,1.11,0.112,0.072,218,Payscale,Simulated salary analysis.
+120,-0.018,59479,158622,0.23,243,1.06,0.124,0.042,1230,Payscale,Simulated salary analysis.
+121,0.003,72087,101584,0.11,41570,1.16,0.027,0.029,1002,Internal HR,Simulated salary analysis.
+122,0.085,46469,133197,0.2,18203,0.91,0.029,0.165,114,Internal HR,Simulated salary analysis.
+123,0.005,30766,163105,0.15,43426,0.92,0.028,0.085,272,Internal HR,Simulated salary analysis.
+124,0.03,51638,134796,0.11,42068,0.9,0.058,0.145,1182,Internal HR,Simulated salary analysis.
+125,0.079,67808,118390,0.1,21289,0.82,0.14,0.019,149,Glassdoor,Simulated salary analysis.
+126,0.085,70276,97079,0.25,18037,0.99,0.126,0.026,1751,Internal HR,Simulated salary analysis.
+127,0.044,40503,109162,0.09,9844,1.15,0.035,0.056,980,Internal HR,Simulated salary analysis.
+128,0.072,44918,99570,0.0,27161,1.19,0.112,0.01,527,Payscale,Simulated salary analysis.
+129,0.005,38117,192911,0.21,21587,1.13,0.027,0.127,528,Glassdoor,Simulated salary analysis.
+130,0.044,71647,129694,0.08,26340,0.95,0.139,0.034,206,Payscale,Simulated salary analysis.
+131,0.008,77023,147413,0.24,31662,0.84,0.106,0.151,936,Payscale,Simulated salary analysis.
+132,0.031,64382,157406,0.13,1478,1.16,0.001,0.048,1213,Internal HR,Simulated salary analysis.
+133,-0.005,57033,123264,0.22,29309,0.95,0.072,0.033,2030,Glassdoor,Simulated salary analysis.
+134,0.063,74493,112624,0.06,40691,1.17,0.091,0.197,362,Glassdoor,Simulated salary analysis.
+135,0.075,75168,150682,0.22,9972,0.92,0.101,0.027,300,Payscale,Simulated salary analysis.
+136,0.08,78956,159466,0.14,20692,1.04,0.09,0.048,1395,Glassdoor,Simulated salary analysis.
+137,0.084,38614,98702,0.17,48019,0.9,0.148,0.028,1315,Payscale,Simulated salary analysis.
+138,0.021,57184,156292,0.19,16640,1.19,0.113,0.094,1197,Glassdoor,Simulated salary analysis.
+139,0.042,31947,169618,0.02,33561,1.05,0.095,0.162,1558,Payscale,Simulated salary analysis.
+140,0.025,56562,131439,0.21,18967,1.18,0.0,0.071,1878,Glassdoor,Simulated salary analysis.
+141,0.059,76801,94119,0.1,44061,1.14,0.123,0.105,718,Internal HR,Simulated salary analysis.
+142,0.02,60675,117185,0.09,35787,1.1,0.133,0.175,322,Internal HR,Simulated salary analysis.
+143,0.023,71294,161535,0.06,26929,1.05,0.033,0.173,1650,Internal HR,Simulated salary analysis.
+144,0.024,57490,100673,0.02,4704,0.9,0.028,0.17,20,Payscale,Simulated salary analysis.
+145,0.069,38450,115740,0.01,32739,1.03,0.002,0.141,2111,Payscale,Simulated salary analysis.
+146,0.028,56783,145531,0.04,634,0.96,0.11,0.196,463,Glassdoor,Simulated salary analysis.
+147,0.09,69076,168543,0.21,14883,1.07,0.045,0.185,842,Payscale,Simulated salary analysis.
+148,0.087,46705,191123,0.07,40726,1.16,0.124,0.086,1910,Payscale,Simulated salary analysis.
+149,0.044,63674,166786,0.16,19371,0.87,0.113,0.183,1626,Glassdoor,Simulated salary analysis.
+150,0.032,61847,137096,0.14,39263,1.03,0.107,0.173,1630,Payscale,Simulated salary analysis.
+151,0.062,71055,180471,0.16,49431,0.84,0.066,0.014,762,Internal HR,Simulated salary analysis.
+152,0.022,50130,131949,0.09,30452,1.08,0.109,0.155,1975,Internal HR,Simulated salary analysis.
+153,0.007,40170,137792,0.19,16527,1.14,0.129,0.17,1828,Internal HR,Simulated salary analysis.
+154,0.07,72499,130652,0.2,43924,0.93,0.033,0.188,1330,Glassdoor,Simulated salary analysis.
+155,0.058,62608,113297,0.08,24990,0.81,0.102,0.154,1741,Payscale,Simulated salary analysis.
+156,0.016,61575,115303,0.04,26349,0.88,0.068,0.166,1767,Internal HR,Simulated salary analysis.
+157,0.022,69051,142246,0.14,41160,0.83,0.076,0.069,1262,Internal HR,Simulated salary analysis.
+158,-0.013,64277,185037,0.08,22710,0.89,0.074,0.06,781,Payscale,Simulated salary analysis.
+159,0.001,77986,157103,0.13,44638,1.13,0.061,0.092,1500,Internal HR,Simulated salary analysis.
+160,0.1,37188,131755,0.03,46615,1.04,0.059,0.11,324,Payscale,Simulated salary analysis.
+161,-0.011,61760,93775,0.05,12901,1.07,0.075,0.117,1492,Glassdoor,Simulated salary analysis.
+162,0.082,56584,191983,0.22,38750,1.19,0.01,0.161,898,Payscale,Simulated salary analysis.
+163,0.02,53183,121738,0.09,36058,1.07,0.031,0.083,1423,Payscale,Simulated salary analysis.
+164,0.094,37784,192071,0.03,28318,1.12,0.073,0.093,366,Payscale,Simulated salary analysis.
+165,0.071,77728,170473,0.12,46672,1.12,0.084,0.008,537,Internal HR,Simulated salary analysis.
+166,0.088,46526,187756,0.19,24046,0.9,0.146,0.2,1640,Payscale,Simulated salary analysis.
+167,0.047,50923,174581,0.02,26424,0.9,0.105,0.151,1931,Payscale,Simulated salary analysis.
+168,0.035,56773,172560,0.12,44123,0.97,0.129,0.14,1808,Glassdoor,Simulated salary analysis.
+169,-0.003,42719,195702,0.12,30235,1.1,0.02,0.197,2059,Internal HR,Simulated salary analysis.
+170,0.027,42792,114997,0.23,15537,1.12,0.119,0.05,113,Payscale,Simulated salary analysis.
+171,-0.012,72993,154379,0.21,15786,0.88,0.15,0.084,855,Payscale,Simulated salary analysis.
+172,0.056,41101,158504,0.04,16349,1.06,0.098,0.117,780,Glassdoor,Simulated salary analysis.
+173,0.012,41799,119816,0.01,32251,1.02,0.004,0.098,269,Payscale,Simulated salary analysis.
+174,0.031,61734,134874,0.07,44148,0.95,0.043,0.03,40,Internal HR,Simulated salary analysis.
+175,0.019,44474,151579,0.01,5984,0.85,0.083,0.153,878,Internal HR,Simulated salary analysis.
+176,0.042,33926,176414,0.23,41064,1.0,0.051,0.112,200,Glassdoor,Simulated salary analysis.
+177,0.085,71544,151423,0.02,23391,0.81,0.107,0.037,563,Internal HR,Simulated salary analysis.
+178,0.02,64170,140120,0.21,18766,1.18,0.033,0.171,733,Internal HR,Simulated salary analysis.
+179,0.041,59336,176356,0.23,36894,0.98,0.022,0.069,1113,Payscale,Simulated salary analysis.
+180,0.023,35803,107007,0.11,10454,1.13,0.023,0.137,662,Payscale,Simulated salary analysis.
+181,0.011,33454,170342,0.06,30136,1.01,0.021,0.157,1494,Internal HR,Simulated salary analysis.
+182,0.054,72941,136607,0.02,46435,0.91,0.123,0.169,899,Internal HR,Simulated salary analysis.
+183,0.011,60835,164234,0.21,23890,0.96,0.035,0.054,715,Glassdoor,Simulated salary analysis.
+184,0.012,48780,184589,0.11,37565,0.96,0.032,0.045,1287,Glassdoor,Simulated salary analysis.
+185,0.094,70849,154403,0.12,40479,1.09,0.144,0.126,45,Glassdoor,Simulated salary analysis.
+186,0.065,43814,126784,0.19,6287,1.09,0.098,0.071,192,Internal HR,Simulated salary analysis.
+187,-0.002,33474,136660,0.08,47371,0.84,0.038,0.025,2179,Payscale,Simulated salary analysis.
+188,0.068,69924,92815,0.19,5499,1.14,0.098,0.031,669,Glassdoor,Simulated salary analysis.
+189,0.096,57296,186770,0.09,37908,0.9,0.091,0.046,1780,Internal HR,Simulated salary analysis.
+190,0.093,66490,118217,0.07,45548,1.2,0.142,0.169,1807,Payscale,Simulated salary analysis.
+191,0.047,53885,113070,0.19,49988,0.88,0.072,0.113,3,Glassdoor,Simulated salary analysis.
+192,0.087,55443,131631,0.22,38093,0.96,0.136,0.099,1790,Internal HR,Simulated salary analysis.
+193,0.055,72535,134945,0.12,15302,0.86,0.045,0.079,1377,Payscale,Simulated salary analysis.
+194,0.006,72238,122639,0.01,46901,1.05,0.06,0.131,1563,Payscale,Simulated salary analysis.
+195,0.067,41602,108314,0.24,22449,0.86,0.015,0.022,370,Glassdoor,Simulated salary analysis.
+196,0.064,79859,119366,0.01,37805,0.86,0.132,0.093,1416,Glassdoor,Simulated salary analysis.
+197,-0.014,42912,193236,0.18,26772,0.9,0.127,0.105,856,Internal HR,Simulated salary analysis.
+198,0.059,52655,195630,0.22,2992,1.1,0.092,0.03,158,Glassdoor,Simulated salary analysis.
+199,0.044,52868,124571,0.09,38282,0.86,0.101,0.07,1570,Internal HR,Simulated salary analysis.
+200,0.066,70327,198760,0.07,16479,1.0,0.136,0.174,282,Glassdoor,Simulated salary analysis.

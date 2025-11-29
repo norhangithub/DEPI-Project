@@ -1,0 +1,1001 @@
+LocationKey,LocationName,City,State,Country,Region,Continent,Cost_of_Living_Index,Tech_Hub_Rating,Population,Local_GDP_USD,Timezone
+LOC-0001,"Buenos Aires, Argentina",Buenos Aires,Buenos Aires,Argentina,Americas,South America,85.42,3.3,169348,1.17E+12,Asia/Baku
+LOC-0002,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,37.94,2.3,23377626,1.38E+12,Europe/Brussels
+LOC-0003,"Buenos Aires, Argentina",Buenos Aires,Buenos Aires,Argentina,Americas,South America,41.29,2.1,20261049,2.95E+11,America/Managua
+LOC-0004,"Buenos Aires, Argentina",Buenos Aires,Buenos Aires,Argentina,Americas,South America,109.24,2.1,10479194,7.72E+11,Africa/Windhoek
+LOC-0005,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,92.57,4.1,13023195,5.51E+11,Africa/Monrovia
+LOC-0006,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,52.88,4.9,8988965,1.69E+12,Europe/Brussels
+LOC-0007,"Mumbai, India",Mumbai,Maharashtra,India,APAC,Asia,89.14,4.1,1281109,1.59E+12,Africa/Dakar
+LOC-0008,"New York, United States",New York,New York,United States,Americas,North America,111.62,3.2,13042638,5.31E+11,Asia/Seoul
+LOC-0009,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,148.66,1.8,6650499,9.07E+11,Atlantic/Azores
+LOC-0010,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,108.81,3.7,11805921,7.90E+11,America/Dominica
+LOC-0011,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,117.91,4.5,13417327,9.16E+11,Pacific/Kwajalein
+LOC-0012,"Sydney, Australia",Sydney,New South Wales,Australia,APAC,Australia,105.42,2.6,18209692,17179034059,America/Barbados
+LOC-0013,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,59.29,1.9,9423739,1.77E+12,Africa/Mogadishu
+LOC-0014,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,79.96,3.2,16558191,1.64E+12,Africa/Bamako
+LOC-0015,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,43.14,2.6,19406051,1.34E+12,Asia/Karachi
+LOC-0016,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,124.51,1.7,23847872,7.77E+11,Africa/Mbabane
+LOC-0017,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,141.91,4.9,17414157,6.62E+11,Asia/Bangkok
+LOC-0018,"New York, United States",New York,New York,United States,Americas,North America,81.77,2.7,13029652,1.03E+12,America/Mexico_City
+LOC-0019,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,99.41,2.1,24358295,1.51E+12,Europe/Lisbon
+LOC-0020,"Mexico City, Mexico",Mexico City,Mexico City,Mexico,Americas,North America,72.88,1.1,10563381,1.48E+12,Asia/Brunei
+LOC-0021,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,115.31,3.9,17370563,8.81E+11,Pacific/Apia
+LOC-0022,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,108.57,3,4945109,1.91E+12,Africa/Asmera
+LOC-0023,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,52.66,3.2,15653029,4.27E+11,Africa/Brazzaville
+LOC-0024,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,34.55,3.5,12602576,1.71E+11,America/Costa_Rica
+LOC-0025,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,51.24,4.9,11211260,1.75E+12,America/Nassau
+LOC-0026,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,138.57,2.8,23088585,4.30E+11,Africa/Kampala
+LOC-0027,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,36.66,1.8,15202346,1.28E+12,Asia/Kuwait
+LOC-0028,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,128.16,1.1,13096714,5.11E+11,Africa/Douala
+LOC-0029,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,46.3,1.3,12862007,1.48E+11,Asia/Gaza
+LOC-0030,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,56.24,4.2,13225496,45984532125,Asia/Aden
+LOC-0031,"Sydney, Australia",Sydney,New South Wales,Australia,APAC,Australia,104.73,3.3,972637,1.84E+12,Europe/Belgrade
+LOC-0032,"Buenos Aires, Argentina",Buenos Aires,Buenos Aires,Argentina,Americas,South America,104.38,3.4,23103354,1.84E+12,Europe/Berlin
+LOC-0033,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,126.43,4.6,22291276,1.04E+12,Asia/Vientiane
+LOC-0034,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,96.6,4.5,16942029,1.17E+12,America/Nassau
+LOC-0035,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,84.87,1.9,14495699,1.04E+12,Europe/Stockholm
+LOC-0036,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,71.62,2.4,21165360,4.25E+11,America/Panama
+LOC-0037,"Mexico City, Mexico",Mexico City,Mexico City,Mexico,Americas,North America,90.75,4.7,9287412,8.29E+11,Africa/Malabo
+LOC-0038,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,93.5,4.2,10765283,1.47E+12,Africa/Bamako
+LOC-0039,"Mexico City, Mexico",Mexico City,Mexico City,Mexico,Americas,North America,70.51,4.7,1445074,1.70E+12,Pacific/Ponape
+LOC-0040,"Mexico City, Mexico",Mexico City,Mexico City,Mexico,Americas,North America,111.96,2.7,3622713,8.42E+11,America/Argentina/Jujuy
+LOC-0041,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,37.43,2.5,21052043,2.62E+11,Asia/Thimphu
+LOC-0042,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,58.48,3.8,11226779,1.14E+12,Africa/Luanda
+LOC-0043,"Mexico City, Mexico",Mexico City,Mexico City,Mexico,Americas,North America,139.25,2.8,3366838,1.05E+11,America/Paramaribo
+LOC-0044,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,86.24,2.3,21606969,1.51E+12,Asia/Colombo
+LOC-0045,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,131.41,1.4,21962776,9.02E+11,Africa/Tripoli
+LOC-0046,"São Paulo, Brazil",São Paulo,São Paulo,Brazil,Americas,South America,91.05,2.1,23516445,1.58E+12,Europe/Vienna
+LOC-0047,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,114.86,3.8,20452451,1.62E+12,Africa/Nouakchott
+LOC-0048,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,71.95,3.2,1823682,3.47E+11,Africa/Johannesburg
+LOC-0049,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,86.13,4.2,9968625,9.58E+11,Pacific/Galapagos
+LOC-0050,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,89.8,4.9,22505242,1.14E+12,Europe/Berlin
+LOC-0051,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,83.45,2,3957832,1.40E+12,Africa/Dar_es_Salaam
+LOC-0052,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,103.09,4.9,8664832,9.47E+11,America/Guyana
+LOC-0053,"Shanghai, China",Shanghai,Shanghai,China,APAC,Asia,126.34,3.7,6407346,4.54E+11,America/Grenada
+LOC-0054,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,148.51,3.8,21091502,5.26E+11,Atlantic/Cape_Verde
+LOC-0055,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,79.51,3.4,4133832,1.87E+12,Asia/Calcutta
+LOC-0056,"New York, United States",New York,New York,United States,Americas,North America,82.35,3.7,9701119,1.97E+12,Europe/Sarajevo
+LOC-0057,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,68.66,3,13963745,1.38E+12,America/Asuncion
+LOC-0058,"Mexico City, Mexico",Mexico City,Mexico City,Mexico,Americas,North America,95.44,2.3,5530020,1.03E+12,Pacific/Kosrae
+LOC-0059,"Sydney, Australia",Sydney,New South Wales,Australia,APAC,Australia,67.14,2.9,2724255,7.76E+11,Atlantic/Azores
+LOC-0060,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,30.07,1.1,16709784,78905553844,Pacific/Nauru
+LOC-0061,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,148.43,2.6,2848085,1.36E+12,Africa/Accra
+LOC-0062,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,102.47,4.2,18465587,1.35E+12,Pacific/Auckland
+LOC-0063,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,117.33,1.7,4647037,1.46E+12,Atlantic/Canary
+LOC-0064,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,48.44,4.9,12458794,2.12E+11,Europe/Bucharest
+LOC-0065,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,121.06,2.9,7767273,1.06E+12,Europe/Oslo
+LOC-0066,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,78.14,4.3,16171317,1.93E+12,Asia/Dubai
+LOC-0067,"Buenos Aires, Argentina",Buenos Aires,Buenos Aires,Argentina,Americas,South America,50.3,3.2,23558403,7.04E+11,Indian/Mauritius
+LOC-0068,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,103.28,2.6,18508486,1.00E+12,Africa/Johannesburg
+LOC-0069,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,109.49,4.7,5811994,2.18E+11,Asia/Colombo
+LOC-0070,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,126.83,3.2,22042247,9.17E+11,Asia/Kabul
+LOC-0071,"Mexico City, Mexico",Mexico City,Mexico City,Mexico,Americas,North America,148.34,1.5,7879869,1.46E+12,America/St_Vincent
+LOC-0072,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,141.13,2.7,21223924,1.69E+12,Europe/Prague
+LOC-0073,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,77.7,1.2,853121,6.22E+11,Pacific/Nauru
+LOC-0074,"New York, United States",New York,New York,United States,Americas,North America,40.59,4.1,24828716,3.04E+11,Europe/Tirane
+LOC-0075,"Buenos Aires, Argentina",Buenos Aires,Buenos Aires,Argentina,Americas,South America,81.58,4.7,23261569,1.69E+12,Africa/Asmera
+LOC-0076,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,56.96,1.2,2233729,1.72E+12,Africa/Algiers
+LOC-0077,"Mumbai, India",Mumbai,Maharashtra,India,APAC,Asia,49.26,3.7,22814722,1.31E+12,Asia/Tehran
+LOC-0078,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,103.29,3.5,13072691,4.41E+11,Asia/Kuwait
+LOC-0079,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,80.1,3.1,1502848,7.32E+11,Asia/Oral
+LOC-0080,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,104.49,1.7,18521509,8.42E+11,Africa/Dakar
+LOC-0081,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,115.99,4.4,17993225,5.08E+11,Africa/Casablanca
+LOC-0082,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,72.37,2.3,19254476,4.12E+11,Europe/Riga
+LOC-0083,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,118.76,1.1,1660379,1.50E+12,America/St_Lucia
+LOC-0084,"Shanghai, China",Shanghai,Shanghai,China,APAC,Asia,36.91,1.7,2335394,1.55E+12,Africa/Lagos
+LOC-0085,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,148.44,3.1,3818208,4.27E+11,Europe/Minsk
+LOC-0086,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,119.39,1.6,2612985,2.44E+11,Africa/Mbabane
+LOC-0087,"Shanghai, China",Shanghai,Shanghai,China,APAC,Asia,45.42,1.5,7409919,1.22E+12,Africa/Mbabane
+LOC-0088,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,30.77,2.5,3838304,7.33E+11,Pacific/Port_Moresby
+LOC-0089,"Shanghai, China",Shanghai,Shanghai,China,APAC,Asia,51.56,5,14404600,1.69E+12,Asia/Almaty
+LOC-0090,"Mexico City, Mexico",Mexico City,Mexico City,Mexico,Americas,North America,42.16,3.9,2884296,82246912402,Pacific/Ponape
+LOC-0091,"Mumbai, India",Mumbai,Maharashtra,India,APAC,Asia,125.74,4.9,6201592,8.79E+11,Asia/Katmandu
+LOC-0092,"Sydney, Australia",Sydney,New South Wales,Australia,APAC,Australia,105.18,4.4,22860423,4.83E+11,Europe/Zagreb
+LOC-0093,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,118.97,4,3628748,1.24E+12,Asia/Bangkok
+LOC-0094,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,34.12,1.7,13545631,1.65E+12,America/Panama
+LOC-0095,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,75.88,1.3,13632506,8.65E+11,Africa/Conakry
+LOC-0096,"São Paulo, Brazil",São Paulo,São Paulo,Brazil,Americas,South America,129.71,3.4,22740155,5.60E+11,Europe/Paris
+LOC-0097,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,82.11,2.5,9333455,6.24E+11,Atlantic/Reykjavik
+LOC-0098,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,122.9,2.3,22103511,9.40E+11,Europe/Athens
+LOC-0099,"New York, United States",New York,New York,United States,Americas,North America,85.14,1.1,12549205,9.15E+11,Africa/Nouakchott
+LOC-0100,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,65.71,4.3,17354499,1.01E+12,America/Santiago
+LOC-0101,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,50.61,2.2,3098846,7.94E+11,Europe/San_Marino
+LOC-0102,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,83.87,1.7,22593392,4.63E+11,Europe/Amsterdam
+LOC-0103,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,48.49,4.9,12135360,1.45E+12,America/Panama
+LOC-0104,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,135.31,1.4,19425164,1.89E+12,Europe/Dublin
+LOC-0105,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,106.01,2,24014973,8.19E+11,America/Antigua
+LOC-0106,"Buenos Aires, Argentina",Buenos Aires,Buenos Aires,Argentina,Americas,South America,110.27,3.6,15829589,8.13E+11,Africa/Mbabane
+LOC-0107,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,114.77,4.1,3028922,1.56E+12,Asia/Bahrain
+LOC-0108,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,80.77,5,21117327,1.70E+12,Asia/Vientiane
+LOC-0109,"Mumbai, India",Mumbai,Maharashtra,India,APAC,Asia,70.19,3.2,16823742,1.37E+12,Asia/Manila
+LOC-0110,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,136.97,1.2,7123917,2.59E+11,Africa/Kigali
+LOC-0111,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,87.49,4.6,11212417,3.45E+11,Europe/Simferopol
+LOC-0112,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,140.87,3,2140774,1.88E+12,Asia/Tehran
+LOC-0113,"Shanghai, China",Shanghai,Shanghai,China,APAC,Asia,123.23,2.5,5407803,2.20E+11,Asia/Dushanbe
+LOC-0114,"Sydney, Australia",Sydney,New South Wales,Australia,APAC,Australia,129.03,2.3,2275036,1.07E+12,Asia/Bishkek
+LOC-0115,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,65.74,4.3,1652821,1.71E+12,Africa/Banjul
+LOC-0116,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,146.07,3.5,17499656,1.05E+12,Pacific/Kosrae
+LOC-0117,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,49.42,4.6,23589268,1.86E+12,Africa/Nairobi
+LOC-0118,"Sydney, Australia",Sydney,New South Wales,Australia,APAC,Australia,147.33,2.5,16797471,2.46E+11,Europe/Copenhagen
+LOC-0119,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,74.44,2.8,9546243,1.56E+12,Asia/Damascus
+LOC-0120,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,141.69,2.6,19056680,1.23E+12,Europe/Monaco
+LOC-0121,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,66.07,2,21357000,1.39E+12,Europe/Stockholm
+LOC-0122,"New York, United States",New York,New York,United States,Americas,North America,48.8,4.3,12622752,1.19E+11,Asia/Kabul
+LOC-0123,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,117.19,1.6,13182936,1.85E+12,Asia/Taipei
+LOC-0124,"Mumbai, India",Mumbai,Maharashtra,India,APAC,Asia,126.79,2.2,8648967,7.14E+11,Africa/Sao_Tome
+LOC-0125,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,40.49,2.1,4542002,1.01E+12,America/Belize
+LOC-0126,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,61.65,2.3,13095159,7.26E+11,America/Guatemala
+LOC-0127,"Mexico City, Mexico",Mexico City,Mexico City,Mexico,Americas,North America,85.66,1.7,15100013,1.57E+12,Africa/Windhoek
+LOC-0128,"São Paulo, Brazil",São Paulo,São Paulo,Brazil,Americas,South America,53.66,4.2,23630698,1.49E+11,Asia/Riyadh
+LOC-0129,"Shanghai, China",Shanghai,Shanghai,China,APAC,Asia,104.28,3.7,5914822,10161261991,Asia/Tokyo
+LOC-0130,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,63.7,2.3,20162191,1.03E+12,Europe/Rome
+LOC-0131,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,56.91,4.9,11951410,7.51E+11,Africa/Dakar
+LOC-0132,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,76.13,4.2,23588339,1.54E+12,Asia/Colombo
+LOC-0133,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,112.16,2.9,7294406,1.63E+12,Pacific/Majuro
+LOC-0134,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,45.15,3,23539552,6.46E+11,Asia/Qatar
+LOC-0135,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,141.4,2.3,23338640,1.72E+12,Asia/Makassar
+LOC-0136,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,86.67,1.5,18313545,7.19E+11,Asia/Nicosia
+LOC-0137,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,102.89,4.6,20320071,2.36E+11,Europe/Riga
+LOC-0138,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,53.77,1.4,5023344,8.23E+11,Europe/Stockholm
+LOC-0139,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,133.41,1.7,20403589,17023239161,Africa/Windhoek
+LOC-0140,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,121.81,3.9,744199,81078154148,Europe/Ljubljana
+LOC-0141,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,146.61,1.1,14966050,6.95E+11,Australia/Melbourne
+LOC-0142,"New York, United States",New York,New York,United States,Americas,North America,58.48,4.9,11408791,32808429812,America/Antigua
+LOC-0143,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,75.98,4.7,15524722,7.39E+11,America/St_Johns
+LOC-0144,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,132.6,2.8,14781626,9.29E+11,America/Indiana/Marengo
+LOC-0145,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,59.18,4.4,7931618,1.28E+12,Asia/Katmandu
+LOC-0146,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,120.38,2.1,21696649,1.56E+12,Europe/Dublin
+LOC-0147,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,97.63,2.7,3926501,39659396643,Asia/Nicosia
+LOC-0148,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,48.95,1.5,16666011,1.30E+12,Asia/Bishkek
+LOC-0149,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,41.3,5,13287562,1.88E+12,Pacific/Fiji
+LOC-0150,"Mexico City, Mexico",Mexico City,Mexico City,Mexico,Americas,North America,75.65,1.1,1634852,1.40E+12,Africa/Dakar
+LOC-0151,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,145.02,1.1,24959623,3.30E+11,America/Port_of_Spain
+LOC-0152,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,117.23,2.2,16201402,1.69E+12,Europe/Amsterdam
+LOC-0153,"Mumbai, India",Mumbai,Maharashtra,India,APAC,Asia,103.58,1.7,11523553,3.94E+11,Africa/Maseru
+LOC-0154,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,115.76,1.8,23407487,4.77E+11,Asia/Karachi
+LOC-0155,"Sydney, Australia",Sydney,New South Wales,Australia,APAC,Australia,141.48,1.1,12646329,1.70E+12,Africa/Malabo
+LOC-0156,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,40.02,4.5,11049383,1.53E+12,Africa/Windhoek
+LOC-0157,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,43.64,1.1,17039166,1.12E+12,Europe/Tallinn
+LOC-0158,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,96.61,2.2,3359747,3.68E+11,Asia/Thimphu
+LOC-0159,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,40.61,4.1,10660275,2.58E+11,Africa/Asmera
+LOC-0160,"Buenos Aires, Argentina",Buenos Aires,Buenos Aires,Argentina,Americas,South America,39.81,2.3,19250975,2.19E+11,America/Araguaina
+LOC-0161,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,94.33,1.5,20632370,2.24E+11,America/Jamaica
+LOC-0162,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,63.59,3.9,21695239,1.85E+12,America/Managua
+LOC-0163,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,139.69,4.3,2934497,6.84E+11,Indian/Antananarivo
+LOC-0164,"Mexico City, Mexico",Mexico City,Mexico City,Mexico,Americas,North America,134.57,3.4,24384987,5.78E+11,Pacific/Majuro
+LOC-0165,"Buenos Aires, Argentina",Buenos Aires,Buenos Aires,Argentina,Americas,South America,141.23,1.7,7950482,3.19E+11,Europe/Dublin
+LOC-0166,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,129,1,3709018,5.82E+11,Asia/Nicosia
+LOC-0167,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,115.59,1.6,9921926,82395211532,Indian/Mauritius
+LOC-0168,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,111.16,3.9,18322865,1.51E+12,Europe/Sarajevo
+LOC-0169,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,45.07,1.2,1843268,2.92E+11,Europe/Zurich
+LOC-0170,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,45.74,4.7,6366435,3.68E+11,Africa/Bissau
+LOC-0171,"Mumbai, India",Mumbai,Maharashtra,India,APAC,Asia,142.3,4.7,10442754,5.21E+11,Asia/Bishkek
+LOC-0172,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,148.79,1.4,24893172,1.38E+12,Africa/Nouakchott
+LOC-0173,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,68.22,2.4,21208801,1.92E+12,Europe/Chisinau
+LOC-0174,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,88.04,1.3,9340919,1.28E+12,America/St_Kitts
+LOC-0175,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,50.66,2.8,10138891,8.59E+11,Asia/Bangkok
+LOC-0176,"São Paulo, Brazil",São Paulo,São Paulo,Brazil,Americas,South America,61.36,2.1,15959892,3.72E+11,Africa/Banjul
+LOC-0177,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,76.06,1,168694,3.39E+11,Indian/Mahe
+LOC-0178,"New York, United States",New York,New York,United States,Americas,North America,59.2,4,22420901,41684242998,Africa/Mogadishu
+LOC-0179,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,76.84,3,6388984,1.35E+12,Europe/London
+LOC-0180,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,149.38,2,12042019,9.00E+11,Pacific/Galapagos
+LOC-0181,"Shanghai, China",Shanghai,Shanghai,China,APAC,Asia,94.52,3.1,2360649,7.65E+11,Asia/Colombo
+LOC-0182,"Buenos Aires, Argentina",Buenos Aires,Buenos Aires,Argentina,Americas,South America,143.15,4.8,3054046,2.83E+11,Europe/London
+LOC-0183,"Buenos Aires, Argentina",Buenos Aires,Buenos Aires,Argentina,Americas,South America,92.96,4.1,7485998,54928257790,America/Guatemala
+LOC-0184,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,48.65,4.6,3319308,5.96E+11,Asia/Katmandu
+LOC-0185,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,94.58,4.4,2980232,9.47E+11,America/Mexico_City
+LOC-0186,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,41.84,2.9,9702992,1.02E+12,Asia/Rangoon
+LOC-0187,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,105.79,3.5,13226461,32633439301,Indian/Mauritius
+LOC-0188,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,137.25,1.7,24284245,1.41E+11,Europe/Brussels
+LOC-0189,"New York, United States",New York,New York,United States,Americas,North America,73.2,1.1,4200179,3.02E+11,America/Belem
+LOC-0190,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,140.97,4.8,15246400,1.74E+12,Asia/Brunei
+LOC-0191,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,77.82,2.2,10356507,1.30E+12,Europe/Tallinn
+LOC-0192,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,84.52,3.3,13805160,8.14E+11,Asia/Vientiane
+LOC-0193,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,88.49,3,11538435,1.61E+12,Asia/Aqtobe
+LOC-0194,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,92.06,1.8,8717720,9.48E+11,America/St_Vincent
+LOC-0195,"Shanghai, China",Shanghai,Shanghai,China,APAC,Asia,66.28,1.5,19314209,1.45E+12,Africa/Kigali
+LOC-0196,"New York, United States",New York,New York,United States,Americas,North America,66.13,3.8,11602707,1.38E+12,Africa/Mogadishu
+LOC-0197,"São Paulo, Brazil",São Paulo,São Paulo,Brazil,Americas,South America,51.08,4,14575403,1.16E+12,America/Antigua
+LOC-0198,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,46.13,3.8,4166350,1.45E+12,Pacific/Nauru
+LOC-0199,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,46.29,4.1,21374159,1.29E+12,Africa/Libreville
+LOC-0200,"Mexico City, Mexico",Mexico City,Mexico City,Mexico,Americas,North America,61.04,2.6,16988968,6.83E+11,Europe/Oslo
+LOC-0201,"São Paulo, Brazil",São Paulo,São Paulo,Brazil,Americas,South America,45.88,3,5278458,1.46E+12,Europe/Simferopol
+LOC-0202,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,74.33,1.1,14133058,7.45E+11,Europe/Zaporozhye
+LOC-0203,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,129.42,3.2,13685755,1.80E+12,Asia/Kuching
+LOC-0204,"New York, United States",New York,New York,United States,Americas,North America,101.1,1,1657171,1.69E+12,Europe/Zurich
+LOC-0205,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,103.36,2.3,17836048,1.67E+12,Africa/Mogadishu
+LOC-0206,"São Paulo, Brazil",São Paulo,São Paulo,Brazil,Americas,South America,50.69,2.9,12040468,14198451320,Europe/Prague
+LOC-0207,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,31.64,3.4,13985949,1.15E+12,Africa/Ndjamena
+LOC-0208,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,63.35,2.2,413658,1.82E+12,Atlantic/Cape_Verde
+LOC-0209,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,146.65,4.5,17484369,1.98E+12,Asia/Yerevan
+LOC-0210,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,35.04,3,18972952,5.88E+11,Africa/Nairobi
+LOC-0211,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,94.64,1.9,5367170,9.85E+11,Pacific/Guadalcanal
+LOC-0212,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,71.62,2.2,18154425,1.92E+12,Pacific/Guadalcanal
+LOC-0213,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,51.42,1.1,17519300,1.81E+12,America/Costa_Rica
+LOC-0214,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,97.2,4.4,1182575,1.74E+12,Asia/Seoul
+LOC-0215,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,70.45,2.1,14366514,1.16E+12,Asia/Ulaanbaatar
+LOC-0216,"São Paulo, Brazil",São Paulo,São Paulo,Brazil,Americas,South America,77.43,4.6,2202842,3.16E+11,Europe/Bucharest
+LOC-0217,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,106.87,2.1,3536958,9.24E+11,Europe/Monaco
+LOC-0218,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,133.27,1.4,20971470,1.19E+12,Africa/Khartoum
+LOC-0219,"São Paulo, Brazil",São Paulo,São Paulo,Brazil,Americas,South America,94.7,2.2,8877686,1.10E+12,Asia/Bahrain
+LOC-0220,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,39.02,2.5,2821198,5.00E+11,Asia/Urumqi
+LOC-0221,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,109.11,2.3,19775304,1.76E+11,Asia/Bahrain
+LOC-0222,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,83.04,4.7,12527858,1.59E+12,Africa/Dakar
+LOC-0223,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,78.23,3.9,11451433,2.65E+11,America/Guatemala
+LOC-0224,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,71.03,3,17107148,6.74E+11,Africa/Banjul
+LOC-0225,"Sydney, Australia",Sydney,New South Wales,Australia,APAC,Australia,89.97,4.3,14068398,1.14E+12,Europe/Minsk
+LOC-0226,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,128.99,4.2,588524,1.82E+12,Asia/Yerevan
+LOC-0227,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,105.02,3,24381139,5.80E+11,America/La_Paz
+LOC-0228,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,116.73,1.6,6243902,2.81E+11,Europe/Bratislava
+LOC-0229,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,135.32,4.7,18887921,9.51E+11,Europe/Brussels
+LOC-0230,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,39.28,4.6,3927357,1.90E+12,Africa/Tunis
+LOC-0231,"Shanghai, China",Shanghai,Shanghai,China,APAC,Asia,141.68,4.1,8559857,2.00E+12,Africa/Sao_Tome
+LOC-0232,"New York, United States",New York,New York,United States,Americas,North America,130.24,1.4,22765784,1.67E+12,Europe/Vatican
+LOC-0233,"Sydney, Australia",Sydney,New South Wales,Australia,APAC,Australia,125.24,2.5,16846126,1.54E+12,Europe/Athens
+LOC-0234,"São Paulo, Brazil",São Paulo,São Paulo,Brazil,Americas,South America,117.86,2.9,22635213,1.13E+12,Europe/Skopje
+LOC-0235,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,53.9,2.9,12342903,1.61E+12,Asia/Nicosia
+LOC-0236,"Buenos Aires, Argentina",Buenos Aires,Buenos Aires,Argentina,Americas,South America,135.88,4.7,7744674,7.97E+11,Africa/Dar_es_Salaam
+LOC-0237,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,115.6,4.4,7813731,1.11E+12,Africa/Dakar
+LOC-0238,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,114.52,1.4,10436292,4.13E+11,Europe/Riga
+LOC-0239,"Shanghai, China",Shanghai,Shanghai,China,APAC,Asia,117.74,1.4,19986501,3.99E+11,Asia/Ashgabat
+LOC-0240,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,31.3,2.6,2551365,9.44E+11,Europe/Skopje
+LOC-0241,"New York, United States",New York,New York,United States,Americas,North America,89.09,2.5,22541208,1.43E+11,America/El_Salvador
+LOC-0242,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,95.86,3.2,14363534,1.39E+12,Africa/Monrovia
+LOC-0243,"Shanghai, China",Shanghai,Shanghai,China,APAC,Asia,59.75,4.1,22748221,1.57E+11,America/Dominica
+LOC-0244,"Mexico City, Mexico",Mexico City,Mexico City,Mexico,Americas,North America,86.07,3.6,16678077,1.04E+12,America/Panama
+LOC-0245,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,89.53,4.1,4635046,1.28E+12,Asia/Manila
+LOC-0246,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,91.84,2.3,6672297,1.50E+11,Europe/Belgrade
+LOC-0247,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,90.34,1.1,4050984,1.22E+12,America/Managua
+LOC-0248,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,37.82,3.4,6408246,1.65E+12,Europe/Stockholm
+LOC-0249,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,80.16,1.5,10955699,5.37E+11,Asia/Manila
+LOC-0250,"Shanghai, China",Shanghai,Shanghai,China,APAC,Asia,55.33,1.6,17032236,8.30E+11,Asia/Colombo
+LOC-0251,"Buenos Aires, Argentina",Buenos Aires,Buenos Aires,Argentina,Americas,South America,118.79,2.8,20728902,1.02E+12,Asia/Kabul
+LOC-0252,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,102.89,1.9,9348730,8.29E+11,Africa/Maputo
+LOC-0253,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,42.51,1.2,16910347,1.84E+12,Pacific/Galapagos
+LOC-0254,"Sydney, Australia",Sydney,New South Wales,Australia,APAC,Australia,129.25,2.3,10581636,7.55E+11,Africa/Bamako
+LOC-0255,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,48.42,1.1,20570743,1.17E+12,Asia/Aqtobe
+LOC-0256,"São Paulo, Brazil",São Paulo,São Paulo,Brazil,Americas,South America,67.67,1.4,8043341,1.34E+12,Asia/Beirut
+LOC-0257,"Mexico City, Mexico",Mexico City,Mexico City,Mexico,Americas,North America,66.89,4.6,17891148,9.36E+11,Europe/London
+LOC-0258,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,74.5,3.6,22492276,51255314810,America/Lima
+LOC-0259,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,124.21,5,21304497,9.02E+11,Asia/Saigon
+LOC-0260,"Mexico City, Mexico",Mexico City,Mexico City,Mexico,Americas,North America,31.5,1.4,2997972,4.18E+11,Asia/Seoul
+LOC-0261,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,53.83,3.9,1310089,1.06E+12,Africa/Blantyre
+LOC-0262,"Sydney, Australia",Sydney,New South Wales,Australia,APAC,Australia,104.6,1.2,21695335,79619027053,Europe/Sofia
+LOC-0263,"Mexico City, Mexico",Mexico City,Mexico City,Mexico,Americas,North America,80.57,5,19739551,1.74E+12,Asia/Bangkok
+LOC-0264,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,44.65,5,19643146,1.56E+12,America/Bogota
+LOC-0265,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,35.33,4.4,892465,5.84E+11,Asia/Choibalsan
+LOC-0266,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,72.07,3.1,22957451,2.69E+11,Europe/Lisbon
+LOC-0267,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,113.3,3.4,8018942,2.60E+11,Pacific/Port_Moresby
+LOC-0268,"New York, United States",New York,New York,United States,Americas,North America,122.61,2.7,11390718,1.79E+12,Atlantic/Cape_Verde
+LOC-0269,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,122.31,2.8,7396642,1.38E+12,Asia/Vientiane
+LOC-0270,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,52.26,1.2,23068502,1.33E+12,Africa/Bissau
+LOC-0271,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,83.01,2.6,21280493,7.45E+11,Africa/Johannesburg
+LOC-0272,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,109.74,2.6,21492329,1.81E+12,America/Edmonton
+LOC-0273,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,114.74,2.8,16337398,7.70E+11,Asia/Kuching
+LOC-0274,"Sydney, Australia",Sydney,New South Wales,Australia,APAC,Australia,131.99,2.7,11549336,3.56E+11,Africa/Blantyre
+LOC-0275,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,128.48,2.9,22439968,6.50E+11,Africa/Malabo
+LOC-0276,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,33.54,1.5,19821751,8.96E+11,Europe/Podgorica
+LOC-0277,"New York, United States",New York,New York,United States,Americas,North America,66.64,2.6,21366996,1.73E+12,Asia/Manila
+LOC-0278,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,136.99,1.5,13631218,1.35E+12,Africa/Tunis
+LOC-0279,"Sydney, Australia",Sydney,New South Wales,Australia,APAC,Australia,120.47,3.2,20677794,8.53E+11,Pacific/Palau
+LOC-0280,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,96.05,3.2,5525742,1.59E+12,Europe/Uzhgorod
+LOC-0281,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,87.93,3.3,12405786,9.20E+11,Africa/Libreville
+LOC-0282,"Sydney, Australia",Sydney,New South Wales,Australia,APAC,Australia,44.62,4.5,18686664,2.38E+11,Europe/Malta
+LOC-0283,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,90.64,3.1,21431396,1.23E+12,Asia/Beirut
+LOC-0284,"Shanghai, China",Shanghai,Shanghai,China,APAC,Asia,57.76,3.6,3439574,1.66E+12,Africa/Lagos
+LOC-0285,"São Paulo, Brazil",São Paulo,São Paulo,Brazil,Americas,South America,120.17,2.6,14864120,1.24E+12,Asia/Manila
+LOC-0286,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,61.65,4.1,7636266,1.67E+12,Pacific/Apia
+LOC-0287,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,135.16,4.3,5765091,1.95E+12,Europe/Riga
+LOC-0288,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,48.25,3.9,2421901,6.22E+11,Europe/Vaduz
+LOC-0289,"New York, United States",New York,New York,United States,Americas,North America,127.59,2.8,9268035,8.65E+11,Asia/Kuwait
+LOC-0290,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,53.06,2.2,22265971,9.72E+11,Europe/Kyiv
+LOC-0291,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,111.21,2.4,24726578,6.38E+11,Europe/Brussels
+LOC-0292,"Mumbai, India",Mumbai,Maharashtra,India,APAC,Asia,120.63,2.6,3549308,2.27E+11,Asia/Tokyo
+LOC-0293,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,67.53,1.3,10382695,1.48E+12,Asia/Taipei
+LOC-0294,"New York, United States",New York,New York,United States,Americas,North America,89.81,2.4,2263381,1.24E+12,Africa/Blantyre
+LOC-0295,"São Paulo, Brazil",São Paulo,São Paulo,Brazil,Americas,South America,112.13,2.4,2639732,1.44E+12,Asia/Singapore
+LOC-0296,"New York, United States",New York,New York,United States,Americas,North America,142.04,4,12388729,1.81E+12,America/Nassau
+LOC-0297,"Sydney, Australia",Sydney,New South Wales,Australia,APAC,Australia,119.47,3.9,15735046,4.31E+11,Europe/Belgrade
+LOC-0298,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,110.57,3.5,23945174,1.97E+12,America/Grenada
+LOC-0299,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,63.67,4.4,7205549,1.07E+12,Europe/Prague
+LOC-0300,"Shanghai, China",Shanghai,Shanghai,China,APAC,Asia,127.33,2.9,21006328,83535018133,Africa/Tunis
+LOC-0301,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,38.41,4.2,12034201,1.70E+12,Asia/Brunei
+LOC-0302,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,73.68,4.9,10126109,1.62E+12,Asia/Phnom_Penh
+LOC-0303,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,81.89,4.8,19502691,6.02E+11,Europe/Amsterdam
+LOC-0304,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,93.67,4.5,2909137,1.13E+12,Asia/Thimphu
+LOC-0305,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,132.1,3.6,342750,1.26E+11,Africa/Porto-Novo
+LOC-0306,"Shanghai, China",Shanghai,Shanghai,China,APAC,Asia,64.47,3.8,21882094,1.33E+12,America/Barbados
+LOC-0307,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,62.01,1.1,18936750,2.79E+11,America/Iqaluit
+LOC-0308,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,55.76,1.1,5127104,1.36E+12,Europe/Vilnius
+LOC-0309,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,149.34,2.7,12106417,1.28E+12,Africa/Malabo
+LOC-0310,"Sydney, Australia",Sydney,New South Wales,Australia,APAC,Australia,82.99,4.3,5806986,1.35E+12,Europe/Bucharest
+LOC-0311,"Mexico City, Mexico",Mexico City,Mexico City,Mexico,Americas,North America,107.45,3.5,308596,1.03E+12,Africa/Luanda
+LOC-0312,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,70.91,3.2,23770866,3.97E+11,Asia/Dili
+LOC-0313,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,63.12,4.2,23625720,1.57E+12,Asia/Beirut
+LOC-0314,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,35.19,3.8,22020944,4.75E+11,Asia/Karachi
+LOC-0315,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,76.05,1.8,8068083,1.19E+12,Europe/Tallinn
+LOC-0316,"New York, United States",New York,New York,United States,Americas,North America,77.76,3.2,3897218,9.92E+11,America/St_Lucia
+LOC-0317,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,84.68,4.3,23548372,1.40E+12,Africa/Douala
+LOC-0318,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,72.78,2.8,20326590,1.51E+12,Africa/Porto-Novo
+LOC-0319,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,90.44,1.5,15764187,3.85E+11,Europe/Istanbul
+LOC-0320,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,86.86,2.7,864266,1.46E+12,Pacific/Enderbury
+LOC-0321,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,95.41,4.6,12422699,4.32E+11,Asia/Yerevan
+LOC-0322,"Mexico City, Mexico",Mexico City,Mexico City,Mexico,Americas,North America,133.21,3.7,7272303,9.01E+11,Europe/Bucharest
+LOC-0323,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,77.29,2.8,2823643,1.18E+11,Africa/Accra
+LOC-0324,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,132.19,2.4,21886891,6.81E+11,America/St_Lucia
+LOC-0325,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,107.2,2.2,20251683,1.68E+12,Asia/Baghdad
+LOC-0326,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,102.13,4.5,12551927,4.02E+11,Atlantic/Reykjavik
+LOC-0327,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,113.61,2.2,12689986,36796824831,America/Havana
+LOC-0328,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,134.13,3.7,21048341,4.87E+11,Asia/Bahrain
+LOC-0329,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,121,1.3,5226237,1.75E+12,Europe/Budapest
+LOC-0330,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,57.59,3.5,19514041,4.38E+11,Asia/Manila
+LOC-0331,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,127.27,4.7,18031042,1.59E+12,Africa/Mbabane
+LOC-0332,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,54.3,2.9,750979,1.56E+12,Europe/Ljubljana
+LOC-0333,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,102.84,1.9,4880545,1.49E+12,Europe/Ljubljana
+LOC-0334,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,37.91,4.7,5197580,9.34E+11,Pacific/Galapagos
+LOC-0335,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,136.34,3.8,4307800,8.06E+11,Asia/Kabul
+LOC-0336,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,129.4,1.4,15695652,6.31E+11,Europe/Riga
+LOC-0337,"New York, United States",New York,New York,United States,Americas,North America,82.74,4.7,19446521,1.89E+12,America/Caracas
+LOC-0338,"Mexico City, Mexico",Mexico City,Mexico City,Mexico,Americas,North America,93.65,4.5,22080877,1.72E+12,Africa/Banjul
+LOC-0339,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,125.9,1.1,7695733,1.38E+12,Africa/Djibouti
+LOC-0340,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,55.06,4.7,15255767,1.54E+11,Europe/Sarajevo
+LOC-0341,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,103.24,3.8,20593599,1.90E+12,Europe/Belgrade
+LOC-0342,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,91.95,3.4,7311742,1.40E+12,Africa/Asmera
+LOC-0343,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,138.55,4.2,23214612,4.31E+11,Africa/Djibouti
+LOC-0344,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,81.24,2.3,20406251,89272269659,Europe/Amsterdam
+LOC-0345,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,44.27,4.2,23895117,8.60E+11,Africa/Tripoli
+LOC-0346,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,134.92,4.1,4991905,1.45E+12,Pacific/Palau
+LOC-0347,"Mumbai, India",Mumbai,Maharashtra,India,APAC,Asia,91.19,4.6,24272372,1.76E+12,Asia/Calcutta
+LOC-0348,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,95.76,3.2,19547545,7.50E+11,Pacific/Efate
+LOC-0349,"Shanghai, China",Shanghai,Shanghai,China,APAC,Asia,116.66,1.7,10715207,6.89E+11,America/La_Paz
+LOC-0350,"Buenos Aires, Argentina",Buenos Aires,Buenos Aires,Argentina,Americas,South America,41.64,2.7,731591,4.47E+11,Asia/Riyadh
+LOC-0351,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,120.33,1.8,4937792,7.77E+11,Europe/Copenhagen
+LOC-0352,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,69.16,4.5,6610424,6.69E+11,America/Chicago
+LOC-0353,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,75.81,2.6,22823375,8.31E+11,Africa/Windhoek
+LOC-0354,"São Paulo, Brazil",São Paulo,São Paulo,Brazil,Americas,South America,89.3,4.5,22714320,3.74E+11,Europe/London
+LOC-0355,"Mumbai, India",Mumbai,Maharashtra,India,APAC,Asia,64.05,2.4,24778281,7.88E+11,America/St_Kitts
+LOC-0356,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,82.41,1.1,11909461,8.16E+11,Africa/Nouakchott
+LOC-0357,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,120.45,1.6,13382716,9.11E+11,Europe/Ljubljana
+LOC-0358,"Buenos Aires, Argentina",Buenos Aires,Buenos Aires,Argentina,Americas,South America,98.3,2.2,22754223,54999729408,Asia/Yerevan
+LOC-0359,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,60.35,1.3,24426621,1.38E+12,Africa/Brazzaville
+LOC-0360,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,57.49,3.4,22699592,1.19E+12,Europe/Andorra
+LOC-0361,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,106.74,4.6,12889423,9.20E+11,Africa/Libreville
+LOC-0362,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,47.25,3.2,16889866,9.17E+11,Asia/Amman
+LOC-0363,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,75.38,4.1,23774680,1.16E+12,America/Guatemala
+LOC-0364,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,40.8,1.2,12644882,1.04E+12,Africa/Lubumbashi
+LOC-0365,"Mexico City, Mexico",Mexico City,Mexico City,Mexico,Americas,North America,76.93,4.5,24731762,9.29E+11,Africa/Douala
+LOC-0366,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,63.28,3.9,13878385,1.97E+12,Africa/Khartoum
+LOC-0367,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,134.83,2.5,9682543,8.97E+11,Indian/Antananarivo
+LOC-0368,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,142.51,4.4,9767276,6.20E+11,Pacific/Apia
+LOC-0369,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,85.25,3.5,3650645,3.27E+11,Asia/Sakhalin
+LOC-0370,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,102.43,2.4,19105997,1.86E+11,America/Grenada
+LOC-0371,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,144.35,2.5,6504403,8.04E+11,Pacific/Truk
+LOC-0372,"New York, United States",New York,New York,United States,Americas,North America,59.4,2.4,19151910,53504979277,Europe/Chisinau
+LOC-0373,"Mumbai, India",Mumbai,Maharashtra,India,APAC,Asia,71.12,1.6,15479300,1.89E+12,Africa/Dakar
+LOC-0374,"Mumbai, India",Mumbai,Maharashtra,India,APAC,Asia,56.37,2.2,11940023,7.45E+11,America/Guatemala
+LOC-0375,"Mumbai, India",Mumbai,Maharashtra,India,APAC,Asia,136.53,2.6,22937982,1.64E+12,Europe/Vienna
+LOC-0376,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,92.78,4.5,9685344,9.03E+11,Europe/Budapest
+LOC-0377,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,110.46,2.8,7252296,40160780167,Asia/Dhaka
+LOC-0378,"Buenos Aires, Argentina",Buenos Aires,Buenos Aires,Argentina,Americas,South America,149.51,3.6,2914986,1.83E+12,Pacific/Fiji
+LOC-0379,"Sydney, Australia",Sydney,New South Wales,Australia,APAC,Australia,46.6,1.2,6235075,1.86E+12,America/Port_of_Spain
+LOC-0380,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,115.33,3.6,4446248,68924227855,Africa/Asmera
+LOC-0381,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,77.87,2.6,15593755,5.58E+11,Asia/Colombo
+LOC-0382,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,101.06,4.5,20349995,4.87E+11,Asia/Kuwait
+LOC-0383,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,95.72,2.3,5897296,1.28E+12,Asia/Pyongyang
+LOC-0384,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,56.92,2.8,9674516,1.04E+12,Asia/Kuwait
+LOC-0385,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,64.71,2.2,19171566,1.31E+12,Africa/Windhoek
+LOC-0386,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,76.04,4.1,12486704,6.41E+11,Asia/Singapore
+LOC-0387,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,83.59,4.1,11651529,2.84E+11,Africa/Harare
+LOC-0388,"Shanghai, China",Shanghai,Shanghai,China,APAC,Asia,123.13,1.5,10899871,1.04E+12,Africa/Sao_Tome
+LOC-0389,"Sydney, Australia",Sydney,New South Wales,Australia,APAC,Australia,68.95,1.9,5870666,1.86E+12,Africa/Djibouti
+LOC-0390,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,118.4,2.3,20103107,1.80E+12,Asia/Seoul
+LOC-0391,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,59.7,2.4,6295694,1.66E+12,Europe/Oslo
+LOC-0392,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,130.6,2.2,20063638,1.12E+12,Asia/Dushanbe
+LOC-0393,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,87.73,4.2,13851853,1.45E+11,Asia/Muscat
+LOC-0394,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,44.13,3.3,8103529,1.90E+12,Pacific/Easter
+LOC-0395,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,142.24,1.3,1768798,5.99E+11,Pacific/Funafuti
+LOC-0396,"Sydney, Australia",Sydney,New South Wales,Australia,APAC,Australia,104.26,4.6,5670314,1.78E+12,Europe/Lisbon
+LOC-0397,"São Paulo, Brazil",São Paulo,São Paulo,Brazil,Americas,South America,149.06,2.1,8653531,73234285221,Europe/Budapest
+LOC-0398,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,130.63,2.3,7157348,1.50E+12,America/St_Vincent
+LOC-0399,"Shanghai, China",Shanghai,Shanghai,China,APAC,Asia,77.21,3.9,22758670,1.74E+12,Africa/Lubumbashi
+LOC-0400,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,59.1,1.6,9875189,6.49E+11,Indian/Mauritius
+LOC-0401,"São Paulo, Brazil",São Paulo,São Paulo,Brazil,Americas,South America,139.83,3.4,8643736,1.72E+12,America/Antigua
+LOC-0402,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,74.42,1.7,8661527,1.71E+12,Asia/Singapore
+LOC-0403,"São Paulo, Brazil",São Paulo,São Paulo,Brazil,Americas,South America,101.62,1.7,8090617,1.96E+12,Asia/Jerusalem
+LOC-0404,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,53.49,4.4,18253249,6.64E+11,Pacific/Truk
+LOC-0405,"Buenos Aires, Argentina",Buenos Aires,Buenos Aires,Argentina,Americas,South America,46.06,1.9,23204541,6.16E+11,Africa/Nouakchott
+LOC-0406,"New York, United States",New York,New York,United States,Americas,North America,145.96,3.3,4980762,6.88E+11,Europe/Oslo
+LOC-0407,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,36.11,2.3,11428508,1.34E+12,Asia/Katmandu
+LOC-0408,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,90.35,1.2,18091584,3.80E+11,Asia/Aden
+LOC-0409,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,106.39,4.4,10400569,1.62E+12,Asia/Thimphu
+LOC-0410,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,115.04,2.2,18572626,7.26E+11,Africa/Conakry
+LOC-0411,"New York, United States",New York,New York,United States,Americas,North America,94.01,4.4,16917403,6.59E+11,Indian/Antananarivo
+LOC-0412,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,96.79,4.8,11582827,8.36E+11,Indian/Maldives
+LOC-0413,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,106.33,1.2,23769897,1.32E+11,America/Port_of_Spain
+LOC-0414,"Sydney, Australia",Sydney,New South Wales,Australia,APAC,Australia,124.76,4.1,5959359,1.30E+12,Asia/Thimphu
+LOC-0415,"Mexico City, Mexico",Mexico City,Mexico City,Mexico,Americas,North America,106.16,3.3,19677661,1.51E+12,Asia/Bangkok
+LOC-0416,"Mumbai, India",Mumbai,Maharashtra,India,APAC,Asia,122.08,3.4,1944544,1.73E+12,Pacific/Apia
+LOC-0417,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,100.11,5,11481963,1.51E+12,America/Antigua
+LOC-0418,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,60.04,2,693897,1.40E+12,Africa/Lusaka
+LOC-0419,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,121.73,4.2,22476790,1.55E+12,Pacific/Tongatapu
+LOC-0420,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,74.88,2.8,6087594,1.40E+12,Asia/Saigon
+LOC-0421,"Sydney, Australia",Sydney,New South Wales,Australia,APAC,Australia,143.39,3.1,7631143,7.90E+11,Africa/Ndjamena
+LOC-0422,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,114.91,3,10025335,1.41E+12,Europe/Vaduz
+LOC-0423,"Mumbai, India",Mumbai,Maharashtra,India,APAC,Asia,117.3,2.6,20523226,1.71E+12,Africa/Djibouti
+LOC-0424,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,81.91,4.6,2089532,1.04E+11,Europe/Brussels
+LOC-0425,"Buenos Aires, Argentina",Buenos Aires,Buenos Aires,Argentina,Americas,South America,81.84,2.1,16545710,1.34E+12,America/La_Paz
+LOC-0426,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,101.74,2.4,2220130,1.96E+11,Europe/Athens
+LOC-0427,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,132.74,3.3,699261,5.59E+11,Europe/Dublin
+LOC-0428,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,35.39,2.5,6234846,6.15E+11,America/Guatemala
+LOC-0429,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,117,4.6,21435617,5.69E+11,Asia/Yerevan
+LOC-0430,"Mexico City, Mexico",Mexico City,Mexico City,Mexico,Americas,North America,123.97,3.3,18911845,1.93E+12,Atlantic/Reykjavik
+LOC-0431,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,89.78,1.4,3621110,1.11E+12,America/Glace_Bay
+LOC-0432,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,32.42,2.4,8979290,1.49E+12,Europe/Istanbul
+LOC-0433,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,89.42,3.3,17626732,1.45E+12,Europe/Chisinau
+LOC-0434,"Mexico City, Mexico",Mexico City,Mexico City,Mexico,Americas,North America,37.56,4,1778730,1.46E+11,America/Argentina/Tucuman
+LOC-0435,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,137.28,4.1,12818917,4.52E+11,Europe/Stockholm
+LOC-0436,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,106.35,2.9,672268,60398237110,Europe/Riga
+LOC-0437,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,51.88,4.4,7698545,1.80E+12,Pacific/Fiji
+LOC-0438,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,110.57,2.9,4239544,1.66E+12,Pacific/Funafuti
+LOC-0439,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,36.17,4.2,15956516,5.72E+11,Asia/Thimphu
+LOC-0440,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,128.56,1.2,2182630,6.83E+11,Pacific/Chatham
+LOC-0441,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,72.76,1.8,14285865,1.59E+12,Asia/Singapore
+LOC-0442,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,133.17,2.9,13658238,1.03E+12,America/Guatemala
+LOC-0443,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,40.91,3.4,23806756,3.49E+11,Pacific/Easter
+LOC-0444,"Shanghai, China",Shanghai,Shanghai,China,APAC,Asia,78.8,2.8,20571697,1.24E+12,Asia/Tashkent
+LOC-0445,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,75.5,1,10373498,9.53E+11,America/St_Lucia
+LOC-0446,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,114.15,3.4,13047446,1.04E+12,Pacific/Easter
+LOC-0447,"Mumbai, India",Mumbai,Maharashtra,India,APAC,Asia,46.66,1.8,1744003,1.87E+12,Africa/Nairobi
+LOC-0448,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,140.4,4.9,23198741,1.72E+12,Pacific/Apia
+LOC-0449,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,66.84,4.4,14178272,6.56E+11,Asia/Bahrain
+LOC-0450,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,38.19,1.8,10318685,9.43E+11,Asia/Beirut
+LOC-0451,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,61.48,1.2,23853753,1.13E+12,Asia/Tbilisi
+LOC-0452,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,75.12,2.7,10797649,9.78E+11,America/El_Salvador
+LOC-0453,"Sydney, Australia",Sydney,New South Wales,Australia,APAC,Australia,36.44,2.3,13491337,5.98E+11,Africa/Djibouti
+LOC-0454,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,53.91,2,13602858,1.25E+12,Australia/Melbourne
+LOC-0455,"Mumbai, India",Mumbai,Maharashtra,India,APAC,Asia,117.19,2,16201387,2.00E+12,America/Argentina/Cordoba
+LOC-0456,"São Paulo, Brazil",São Paulo,São Paulo,Brazil,Americas,South America,70.74,4.4,15552403,2.39E+11,Africa/Freetown
+LOC-0457,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,35.8,3.3,15743501,3.47E+11,Europe/Stockholm
+LOC-0458,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,79.81,2.6,10143808,1.93E+12,Europe/Vaduz
+LOC-0459,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,63.35,4.2,17291914,1.96E+12,Africa/Niamey
+LOC-0460,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,64.06,2.7,1666452,1.11E+12,America/Fortaleza
+LOC-0461,"Sydney, Australia",Sydney,New South Wales,Australia,APAC,Australia,115.7,4,841976,7.55E+11,America/Paramaribo
+LOC-0462,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,122.72,5,7534872,1.76E+12,America/El_Salvador
+LOC-0463,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,137.62,4.2,2002667,5.30E+11,Pacific/Tongatapu
+LOC-0464,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,120.18,1.3,9995436,2.90E+11,America/Tegucigalpa
+LOC-0465,"Mexico City, Mexico",Mexico City,Mexico City,Mexico,Americas,North America,84.94,3.1,8132924,1.28E+12,Africa/Kampala
+LOC-0466,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,125.82,2.5,9723382,1.41E+12,Europe/Oslo
+LOC-0467,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,42.71,1.3,14998673,9.22E+11,Asia/Muscat
+LOC-0468,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,59.83,1.6,8808118,1.86E+12,America/Grenada
+LOC-0469,"Mumbai, India",Mumbai,Maharashtra,India,APAC,Asia,89.58,5,18437557,8.71E+11,Asia/Katmandu
+LOC-0470,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,128.19,4.6,14395058,5.52E+11,Europe/Stockholm
+LOC-0471,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,50.6,1.8,7777226,3.80E+11,Asia/Dubai
+LOC-0472,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,132.43,3.4,22463312,1.20E+11,Africa/Abidjan
+LOC-0473,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,47.59,4.2,16830485,1.06E+12,America/Montevideo
+LOC-0474,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,62.69,2.2,6967565,1.95E+12,Atlantic/Azores
+LOC-0475,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,60.44,4.6,18581538,3.81E+11,America/Atikokan
+LOC-0476,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,141.71,1.9,12740960,7.61E+11,Pacific/Efate
+LOC-0477,"New York, United States",New York,New York,United States,Americas,North America,126.06,3.9,21244733,2.63E+11,America/Guatemala
+LOC-0478,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,61.11,2.5,16295507,1.75E+12,Pacific/Easter
+LOC-0479,"Buenos Aires, Argentina",Buenos Aires,Buenos Aires,Argentina,Americas,South America,53.33,3,15551144,1.23E+12,Africa/Malabo
+LOC-0480,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,123.61,1.2,14160915,7.62E+11,Africa/Tunis
+LOC-0481,"Shanghai, China",Shanghai,Shanghai,China,APAC,Asia,133.46,2.3,17435228,5.76E+11,America/Bogota
+LOC-0482,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,108.52,3.5,22648879,6.09E+11,America/Argentina/Ushuaia
+LOC-0483,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,109.13,3.8,3255670,1.66E+12,Asia/Amman
+LOC-0484,"Sydney, Australia",Sydney,New South Wales,Australia,APAC,Australia,44.37,4.8,2760672,6.77E+11,Africa/Monrovia
+LOC-0485,"New York, United States",New York,New York,United States,Americas,North America,80.74,4.8,11219972,1.62E+12,Pacific/Port_Moresby
+LOC-0486,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,31.18,3.3,23769347,8.74E+11,America/Asuncion
+LOC-0487,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,63.12,2.8,5688257,1.76E+11,Pacific/Funafuti
+LOC-0488,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,68.47,3.3,14657715,1.47E+12,Africa/Gaborone
+LOC-0489,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,43.37,1.1,3756298,5.81E+11,Europe/Rome
+LOC-0490,"Buenos Aires, Argentina",Buenos Aires,Buenos Aires,Argentina,Americas,South America,40.41,2.2,6186668,5.54E+11,Africa/Libreville
+LOC-0491,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,90.63,3.6,12019967,1.05E+11,America/Manaus
+LOC-0492,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,33.37,2.1,18733035,1.40E+12,Asia/Kuwait
+LOC-0493,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,54.63,1.3,238109,1.69E+12,Africa/Algiers
+LOC-0494,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,107.94,4.3,16168348,1.46E+12,Europe/Rome
+LOC-0495,"Mexico City, Mexico",Mexico City,Mexico City,Mexico,Americas,North America,45.99,3.5,6790910,1.21E+12,Europe/Dublin
+LOC-0496,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,108.28,2,18181373,3.48E+11,Europe/Amsterdam
+LOC-0497,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,45.16,1.2,13164317,4.30E+11,Europe/Helsinki
+LOC-0498,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,32.45,4.2,8078817,1.55E+12,Asia/Taipei
+LOC-0499,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,41.76,4.6,11638856,1.93E+12,Africa/Douala
+LOC-0500,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,91.53,1.6,20841855,1.74E+12,Asia/Tehran
+LOC-0501,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,60.78,1.5,1132512,1.34E+12,America/Montevideo
+LOC-0502,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,115.88,1.2,1080976,6.24E+11,Asia/Karachi
+LOC-0503,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,114.14,4.6,11725161,1.23E+12,Pacific/Auckland
+LOC-0504,"New York, United States",New York,New York,United States,Americas,North America,95.33,2.6,7834146,1.19E+12,America/Belize
+LOC-0505,"Buenos Aires, Argentina",Buenos Aires,Buenos Aires,Argentina,Americas,South America,146.49,3.6,24947619,1.25E+12,Africa/Freetown
+LOC-0506,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,112.83,1.5,6431817,5.17E+11,Europe/Ljubljana
+LOC-0507,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,47.92,4.7,14579634,4.29E+11,America/El_Salvador
+LOC-0508,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,117.43,1.2,13025132,3.23E+11,America/St_Kitts
+LOC-0509,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,112.39,4.8,16527212,1.46E+12,Europe/Vilnius
+LOC-0510,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,51.07,2.1,23764639,6.52E+11,Europe/Podgorica
+LOC-0511,"Mexico City, Mexico",Mexico City,Mexico City,Mexico,Americas,North America,70.04,4,19784697,7.10E+11,Asia/Oral
+LOC-0512,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,99.6,4.9,21957887,93653459090,America/Grenada
+LOC-0513,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,45.27,4,6952038,1.95E+12,America/Caracas
+LOC-0514,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,35.43,4.2,2192828,1.76E+12,Africa/Bangui
+LOC-0515,"Mumbai, India",Mumbai,Maharashtra,India,APAC,Asia,37.54,2.6,24033518,49507640393,America/Lima
+LOC-0516,"New York, United States",New York,New York,United States,Americas,North America,41.87,2.8,4817860,2.49E+11,Europe/San_Marino
+LOC-0517,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,39.71,3.4,24595024,1.20E+12,America/Antigua
+LOC-0518,"New York, United States",New York,New York,United States,Americas,North America,120.19,3.1,4075959,1.13E+12,Africa/Douala
+LOC-0519,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,36.65,2.6,2129766,1.29E+12,Asia/Dili
+LOC-0520,"São Paulo, Brazil",São Paulo,São Paulo,Brazil,Americas,South America,111.09,5,13297715,3.53E+11,Africa/Casablanca
+LOC-0521,"New York, United States",New York,New York,United States,Americas,North America,30.91,1.2,12251990,1.42E+12,Africa/Brazzaville
+LOC-0522,"São Paulo, Brazil",São Paulo,São Paulo,Brazil,Americas,South America,59.88,1.6,14745580,6.80E+11,Europe/Paris
+LOC-0523,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,109.45,3.8,763330,8.38E+11,Pacific/Nauru
+LOC-0524,"Buenos Aires, Argentina",Buenos Aires,Buenos Aires,Argentina,Americas,South America,98.52,3.7,2325411,8.08E+11,Africa/Harare
+LOC-0525,"Shanghai, China",Shanghai,Shanghai,China,APAC,Asia,98.32,4.9,5878182,1.39E+12,Asia/Yerevan
+LOC-0526,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,122.2,1.4,5825840,1.66E+12,Europe/Andorra
+LOC-0527,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,124.44,3.3,17910574,1.70E+12,Africa/Lusaka
+LOC-0528,"São Paulo, Brazil",São Paulo,São Paulo,Brazil,Americas,South America,66.51,1.7,13468790,1.46E+12,Africa/Douala
+LOC-0529,"Buenos Aires, Argentina",Buenos Aires,Buenos Aires,Argentina,Americas,South America,113.6,4.5,12899917,1.98E+12,America/Lima
+LOC-0530,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,73.54,3.8,18504506,8.35E+11,Asia/Brunei
+LOC-0531,"Buenos Aires, Argentina",Buenos Aires,Buenos Aires,Argentina,Americas,South America,103.44,1.1,20443575,1.94E+12,Africa/Tunis
+LOC-0532,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,85.4,4.5,11777225,1.71E+12,Europe/Athens
+LOC-0533,"Sydney, Australia",Sydney,New South Wales,Australia,APAC,Australia,129.81,2.3,17856592,1.76E+12,Europe/Belgrade
+LOC-0534,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,71.38,1.3,23733801,1.40E+12,America/Montevideo
+LOC-0535,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,125.87,4,10201759,1.00E+12,Asia/Dhaka
+LOC-0536,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,87.6,3.2,18867056,1.15E+12,Pacific/Ponape
+LOC-0537,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,91.67,1.5,21453428,9.87E+11,Africa/Brazzaville
+LOC-0538,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,45.81,2.3,7434195,1.99E+12,America/Nassau
+LOC-0539,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,121.58,1.1,7973190,3.24E+11,Asia/Qyzylorda
+LOC-0540,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,118.92,2.6,7617349,1.10E+11,Africa/Bamako
+LOC-0541,"Mumbai, India",Mumbai,Maharashtra,India,APAC,Asia,33.49,3.4,12451519,3.56E+11,Asia/Calcutta
+LOC-0542,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,71.49,4,7078983,5.23E+11,Indian/Antananarivo
+LOC-0543,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,96.14,3.8,14214822,1.54E+12,Africa/Brazzaville
+LOC-0544,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,52.24,2.6,362313,1.97E+11,Asia/Baku
+LOC-0545,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,148.48,2.9,19371213,1.87E+12,Africa/Malabo
+LOC-0546,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,58.04,4.7,19053674,9.04E+11,Europe/Monaco
+LOC-0547,"Shanghai, China",Shanghai,Shanghai,China,APAC,Asia,118.76,1.7,16039532,3.64E+11,America/Grenada
+LOC-0548,"Mexico City, Mexico",Mexico City,Mexico City,Mexico,Americas,North America,144.56,3.2,8688419,1.76E+12,Asia/Hovd
+LOC-0549,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,141.04,3.8,963316,3.01E+11,Africa/Brazzaville
+LOC-0550,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,148.97,4.1,10222066,1.64E+12,Europe/Zurich
+LOC-0551,"Mexico City, Mexico",Mexico City,Mexico City,Mexico,Americas,North America,144.91,1.3,1337186,1.77E+12,America/Tegucigalpa
+LOC-0552,"Mexico City, Mexico",Mexico City,Mexico City,Mexico,Americas,North America,73.95,4.1,23074993,5.09E+11,Europe/Podgorica
+LOC-0553,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,139.22,3.1,11869230,1.23E+12,America/Mazatlan
+LOC-0554,"Buenos Aires, Argentina",Buenos Aires,Buenos Aires,Argentina,Americas,South America,122.49,1.3,12223551,1.95E+12,America/Barbados
+LOC-0555,"Shanghai, China",Shanghai,Shanghai,China,APAC,Asia,141.2,2.7,16466711,7.75E+11,America/El_Salvador
+LOC-0556,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,103.93,2.2,11715015,7.09E+11,Europe/Zurich
+LOC-0557,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,75.83,2,722458,1.34E+11,Africa/Tunis
+LOC-0558,"New York, United States",New York,New York,United States,Americas,North America,120.42,1.8,12343311,1.18E+12,Africa/Windhoek
+LOC-0559,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,62.67,2.5,3421479,1.64E+12,Europe/Athens
+LOC-0560,"New York, United States",New York,New York,United States,Americas,North America,120.78,2.3,22129367,1.52E+11,Africa/Monrovia
+LOC-0561,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,149.14,3.5,1111786,1.46E+12,Africa/Douala
+LOC-0562,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,94.85,4.4,17115127,1.64E+12,America/Port_of_Spain
+LOC-0563,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,70.65,2.8,3978767,6.29E+11,Asia/Oral
+LOC-0564,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,42.65,2,14705045,5.15E+11,America/Guayaquil
+LOC-0565,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,76.41,4.5,5580207,7.63E+11,America/Tegucigalpa
+LOC-0566,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,96.22,3.1,21931378,1.02E+12,Africa/Malabo
+LOC-0567,"New York, United States",New York,New York,United States,Americas,North America,46.49,1.7,15443551,4.51E+11,America/Panama
+LOC-0568,"New York, United States",New York,New York,United States,Americas,North America,68.74,3.4,11300719,1.47E+12,Europe/Paris
+LOC-0569,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,149.42,3.3,12809176,1.41E+12,America/Costa_Rica
+LOC-0570,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,85.46,4.4,7418000,1.22E+12,Asia/Brunei
+LOC-0571,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,100.2,2.4,18506719,1.06E+12,Africa/Douala
+LOC-0572,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,43.43,2.1,148488,1.13E+12,Europe/Monaco
+LOC-0573,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,93.3,4.3,10069321,8.85E+11,Africa/Ouagadougou
+LOC-0574,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,86.3,1.1,22777308,6.33E+11,Europe/Chisinau
+LOC-0575,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,36.1,2.2,21119238,1.46E+12,Africa/Conakry
+LOC-0576,"Shanghai, China",Shanghai,Shanghai,China,APAC,Asia,81.18,1.6,24209280,1.67E+12,Asia/Muscat
+LOC-0577,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,85.23,2.1,7748598,1.52E+12,America/Guayaquil
+LOC-0578,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,47.4,3.1,3008935,1.51E+12,America/St_Vincent
+LOC-0579,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,146.46,4.4,3336677,1.98E+12,America/El_Salvador
+LOC-0580,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,72.22,4,17675974,1.31E+12,Asia/Bangkok
+LOC-0581,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,131.49,2.7,1656276,9.66E+11,Asia/Magadan
+LOC-0582,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,142.73,4.8,1763771,1.10E+12,Asia/Ulaanbaatar
+LOC-0583,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,122.54,1.1,16328312,1.94E+12,Europe/Tirane
+LOC-0584,"New York, United States",New York,New York,United States,Americas,North America,52.94,3.2,22099368,1.96E+12,America/Porto_Velho
+LOC-0585,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,118.67,4.8,17949319,11845639272,Africa/Djibouti
+LOC-0586,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,64.71,2.9,17748498,1.05E+12,Africa/Mogadishu
+LOC-0587,"Sydney, Australia",Sydney,New South Wales,Australia,APAC,Australia,91.72,1.7,11388412,5.63E+11,America/Havana
+LOC-0588,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,145.95,4.7,22405703,1.65E+12,America/Araguaina
+LOC-0589,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,45.57,1.5,12487416,1.17E+12,America/Paramaribo
+LOC-0590,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,90.81,4.7,1562047,18209051633,Asia/Taipei
+LOC-0591,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,62.93,1.3,24831850,1.16E+12,Africa/Mogadishu
+LOC-0592,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,59.37,1.2,11185830,3.37E+11,Africa/Dar_es_Salaam
+LOC-0593,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,47.44,3.6,15634692,28473568920,Indian/Maldives
+LOC-0594,"Mumbai, India",Mumbai,Maharashtra,India,APAC,Asia,131.48,4.3,19123993,1.09E+12,America/Panama
+LOC-0595,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,96.35,2.6,9063350,1.71E+12,Pacific/Nauru
+LOC-0596,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,100.02,1.5,21256522,1.12E+12,America/Araguaina
+LOC-0597,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,119.35,4.9,1078800,3.13E+11,Africa/Kigali
+LOC-0598,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,97.22,4.5,4976534,1.03E+12,Africa/Bamako
+LOC-0599,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,58.06,2.9,4798983,1.17E+12,Asia/Bahrain
+LOC-0600,"Buenos Aires, Argentina",Buenos Aires,Buenos Aires,Argentina,Americas,South America,102.23,3.2,10377826,1.79E+12,America/El_Salvador
+LOC-0601,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,127.7,2.6,913610,1.98E+12,Pacific/Nauru
+LOC-0602,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,109.66,3.1,5517408,1.92E+12,Africa/Monrovia
+LOC-0603,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,47.96,2.3,20987576,2.19E+11,Europe/Helsinki
+LOC-0604,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,124.05,3.4,2097665,9.46E+11,Asia/Tokyo
+LOC-0605,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,54.3,4.6,17057345,9.71E+11,Africa/Lusaka
+LOC-0606,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,60.41,1.4,23830192,1.41E+12,Asia/Amman
+LOC-0607,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,41.21,2.5,15686503,1.02E+12,Indian/Maldives
+LOC-0608,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,82.31,4.5,2156645,1.23E+12,Africa/Kigali
+LOC-0609,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,112.23,1.7,2463836,1.53E+12,Africa/Kinshasa
+LOC-0610,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,118.69,4.2,24297693,1.13E+12,Asia/Dushanbe
+LOC-0611,"Shanghai, China",Shanghai,Shanghai,China,APAC,Asia,115.16,2.5,16106019,74718148900,Europe/Dublin
+LOC-0612,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,48.35,1.7,20188967,1.24E+12,Asia/Aqtau
+LOC-0613,"Sydney, Australia",Sydney,New South Wales,Australia,APAC,Australia,68.68,2.9,13149635,1.72E+12,Africa/Lagos
+LOC-0614,"New York, United States",New York,New York,United States,Americas,North America,143.43,3.3,2120424,1.54E+12,Atlantic/Reykjavik
+LOC-0615,"Buenos Aires, Argentina",Buenos Aires,Buenos Aires,Argentina,Americas,South America,111.3,4.3,18636385,1.00E+12,Africa/Lubumbashi
+LOC-0616,"São Paulo, Brazil",São Paulo,São Paulo,Brazil,Americas,South America,61.4,3.7,18350600,1.85E+12,Africa/Luanda
+LOC-0617,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,72.63,3.8,3892120,1.79E+12,America/Paramaribo
+LOC-0618,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,72.72,3,11240908,3.49E+11,Europe/Athens
+LOC-0619,"Sydney, Australia",Sydney,New South Wales,Australia,APAC,Australia,112.16,4.4,8085428,1.36E+12,Europe/Budapest
+LOC-0620,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,102,1.9,320636,4.08E+11,Africa/Maputo
+LOC-0621,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,141.88,2.2,8711422,1.44E+12,Africa/Mbabane
+LOC-0622,"Sydney, Australia",Sydney,New South Wales,Australia,APAC,Australia,32.86,2,14395283,1.22E+12,Asia/Chongqing
+LOC-0623,"São Paulo, Brazil",São Paulo,São Paulo,Brazil,Americas,South America,46,4.4,1091567,1.05E+12,America/La_Paz
+LOC-0624,"Mexico City, Mexico",Mexico City,Mexico City,Mexico,Americas,North America,46.12,2.8,922757,6.19E+11,America/St_Vincent
+LOC-0625,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,93.74,4.1,2781664,6.96E+11,America/Santo_Domingo
+LOC-0626,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,49.9,1.4,1855217,1.39E+12,Asia/Qatar
+LOC-0627,"São Paulo, Brazil",São Paulo,São Paulo,Brazil,Americas,South America,73.3,3.3,11389603,4.27E+11,Africa/Dar_es_Salaam
+LOC-0628,"Sydney, Australia",Sydney,New South Wales,Australia,APAC,Australia,80.56,4.1,8690444,6.06E+11,Pacific/Nauru
+LOC-0629,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,130.34,3.2,23484192,1.97E+12,Europe/Bratislava
+LOC-0630,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,83.26,3.9,9364380,1.18E+12,Europe/Skopje
+LOC-0631,"Mexico City, Mexico",Mexico City,Mexico City,Mexico,Americas,North America,93.65,4.3,21619871,3.42E+11,Asia/Ashgabat
+LOC-0632,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,68.19,1.7,15855397,8.94E+11,Atlantic/Madeira
+LOC-0633,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,93.34,2.9,7770095,1.22E+12,Africa/Mbabane
+LOC-0634,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,130.69,1.4,20837977,6.01E+11,Africa/Nouakchott
+LOC-0635,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,118.49,3,15903941,1.66E+12,Europe/San_Marino
+LOC-0636,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,90.54,4.7,2829480,1.94E+11,Africa/Djibouti
+LOC-0637,"Shanghai, China",Shanghai,Shanghai,China,APAC,Asia,72.45,3.9,19426640,78813199462,Asia/Muscat
+LOC-0638,"New York, United States",New York,New York,United States,Americas,North America,100.64,2.3,23698432,1.90E+12,Europe/Belgrade
+LOC-0639,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,84.06,2.4,1484308,24629119253,America/Caracas
+LOC-0640,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,106.86,1.9,1547393,1.52E+12,America/Lima
+LOC-0641,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,73.02,2.7,1995601,1.35E+11,Europe/Sofia
+LOC-0642,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,146.23,2.5,20665856,1.15E+12,Europe/Zurich
+LOC-0643,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,103.82,1.6,2634307,1.87E+12,Asia/Tbilisi
+LOC-0644,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,46.95,3.4,3545321,3.18E+11,Africa/Bissau
+LOC-0645,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,132.78,4.1,5851808,1.41E+11,America/Asuncion
+LOC-0646,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,101.57,3,12236668,3.03E+11,Asia/Tbilisi
+LOC-0647,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,71.22,4.9,15600201,1.66E+12,Europe/Minsk
+LOC-0648,"Buenos Aires, Argentina",Buenos Aires,Buenos Aires,Argentina,Americas,South America,125.53,1.6,2960683,1.74E+12,Africa/Djibouti
+LOC-0649,"Shanghai, China",Shanghai,Shanghai,China,APAC,Asia,96.19,5,16097851,1.82E+12,Africa/Porto-Novo
+LOC-0650,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,103.51,2.3,8461002,1.22E+12,Europe/Vaduz
+LOC-0651,"Mexico City, Mexico",Mexico City,Mexico City,Mexico,Americas,North America,75.15,3.4,14368524,1.41E+12,America/Juneau
+LOC-0652,"Buenos Aires, Argentina",Buenos Aires,Buenos Aires,Argentina,Americas,South America,80.73,4.4,20580049,7.98E+11,America/Mexico_City
+LOC-0653,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,123.59,3.1,24537622,3.80E+11,Africa/Gaborone
+LOC-0654,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,39.14,2.9,3323630,3.91E+11,Europe/Helsinki
+LOC-0655,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,80.35,3.2,451292,1.13E+12,Pacific/Chatham
+LOC-0656,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,65.04,1.2,929699,3.05E+11,Europe/Luxembourg
+LOC-0657,"Buenos Aires, Argentina",Buenos Aires,Buenos Aires,Argentina,Americas,South America,148.84,4.9,23490766,1.62E+12,Europe/Oslo
+LOC-0658,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,73.23,4.4,22700607,1.55E+12,Atlantic/Reykjavik
+LOC-0659,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,72.03,3.8,3907108,1.09E+12,Asia/Colombo
+LOC-0660,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,86.47,1.4,4562125,2.32E+11,America/Guatemala
+LOC-0661,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,64.06,4.6,8233801,8.62E+11,America/Santiago
+LOC-0662,"Shanghai, China",Shanghai,Shanghai,China,APAC,Asia,120.39,2.9,15206603,1.33E+12,Europe/Rome
+LOC-0663,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,127.47,1.5,10620251,5.09E+11,Europe/Vatican
+LOC-0664,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,121.78,4.7,14326714,1.87E+12,America/Dominica
+LOC-0665,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,96.91,1.8,7009426,1.75E+12,Africa/Harare
+LOC-0666,"New York, United States",New York,New York,United States,Americas,North America,58.17,4.3,18738158,1.11E+12,Europe/Helsinki
+LOC-0667,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,129.61,1.2,9597298,7.46E+11,Europe/Vilnius
+LOC-0668,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,96.85,3.9,4530644,1.41E+11,Europe/Lisbon
+LOC-0669,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,80.22,1.5,23269772,1.84E+12,America/Santo_Domingo
+LOC-0670,"Mexico City, Mexico",Mexico City,Mexico City,Mexico,Americas,North America,89.89,3.5,24125156,2.00E+12,Africa/Gaborone
+LOC-0671,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,39.66,4.5,22191227,1.51E+11,Atlantic/Reykjavik
+LOC-0672,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,126.3,3.7,18752126,1.57E+12,Asia/Kuching
+LOC-0673,"Mexico City, Mexico",Mexico City,Mexico City,Mexico,Americas,North America,30.9,4.7,5084329,4.76E+11,Asia/Dubai
+LOC-0674,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,144.02,3,17022931,1.21E+12,Africa/Sao_Tome
+LOC-0675,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,50.99,1.9,17489057,2.80E+11,Africa/Gaborone
+LOC-0676,"Buenos Aires, Argentina",Buenos Aires,Buenos Aires,Argentina,Americas,South America,114.72,3.2,17853253,1.48E+12,Europe/Andorra
+LOC-0677,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,98.05,4.5,21930471,7.45E+11,America/Port_of_Spain
+LOC-0678,"Mumbai, India",Mumbai,Maharashtra,India,APAC,Asia,71.5,1.8,15152741,7.11E+11,Europe/Oslo
+LOC-0679,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,131.39,3.9,2737471,1.56E+12,America/Nassau
+LOC-0680,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,83.6,4.6,8262785,1.51E+12,Asia/Dili
+LOC-0681,"São Paulo, Brazil",São Paulo,São Paulo,Brazil,Americas,South America,79.15,3.6,11009226,75884775848,Indian/Comoro
+LOC-0682,"Sydney, Australia",Sydney,New South Wales,Australia,APAC,Australia,57.18,4.7,1189076,1.00E+12,Europe/Sofia
+LOC-0683,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,48.37,4.7,23755106,1.97E+11,Europe/Vaduz
+LOC-0684,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,46.59,4.2,7206917,3.50E+11,Asia/Chongqing
+LOC-0685,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,134.59,2.9,16089772,1.27E+12,America/St_Lucia
+LOC-0686,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,51.7,2.7,2053538,3.81E+11,Africa/Nairobi
+LOC-0687,"Mumbai, India",Mumbai,Maharashtra,India,APAC,Asia,102.2,3,20164746,1.94E+12,Asia/Rangoon
+LOC-0688,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,132.98,4.2,11447672,3.06E+11,Africa/Algiers
+LOC-0689,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,116.15,3.1,2425126,1.22E+12,Australia/Sydney
+LOC-0690,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,118.28,2.5,1140876,80900546829,Africa/Cairo
+LOC-0691,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,105.7,3.3,17965997,1.36E+12,Africa/Tunis
+LOC-0692,"Mexico City, Mexico",Mexico City,Mexico City,Mexico,Americas,North America,135.21,4.8,1637631,9.79E+11,Africa/Mogadishu
+LOC-0693,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,146.52,1,13872241,4.23E+11,Europe/Warsaw
+LOC-0694,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,131.03,1.8,22107351,8.26E+11,Europe/Skopje
+LOC-0695,"Buenos Aires, Argentina",Buenos Aires,Buenos Aires,Argentina,Americas,South America,63.54,4,8969211,1.01E+12,America/St_Lucia
+LOC-0696,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,71.82,3.8,23683097,8.80E+11,Europe/Riga
+LOC-0697,"Buenos Aires, Argentina",Buenos Aires,Buenos Aires,Argentina,Americas,South America,61.23,3.7,24165807,1.09E+12,Asia/Jayapura
+LOC-0698,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,99.1,3.1,5159507,1.23E+12,Africa/Porto-Novo
+LOC-0699,"Mumbai, India",Mumbai,Maharashtra,India,APAC,Asia,126.47,1.7,2798901,8.87E+11,America/Tegucigalpa
+LOC-0700,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,105.74,3.8,10993565,1.98E+12,Asia/Tehran
+LOC-0701,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,38.13,3.1,11503045,1.13E+12,America/Argentina/San_Juan
+LOC-0702,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,49.86,4.8,3458015,1.97E+12,Asia/Tbilisi
+LOC-0703,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,149.49,3.7,4261671,1.95E+11,Pacific/Tongatapu
+LOC-0704,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,41.31,1.6,16794243,1.74E+11,America/Managua
+LOC-0705,"Sydney, Australia",Sydney,New South Wales,Australia,APAC,Australia,100.85,1.1,3263303,6.17E+11,Africa/Ndjamena
+LOC-0706,"São Paulo, Brazil",São Paulo,São Paulo,Brazil,Americas,South America,118.92,4.6,14276732,1.25E+12,Europe/Sarajevo
+LOC-0707,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,34.77,4.5,14161409,7.60E+11,Europe/Vienna
+LOC-0708,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,135.64,2.8,13582215,2.10E+11,Atlantic/Cape_Verde
+LOC-0709,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,63.54,3.5,11683162,4.98E+11,Asia/Tashkent
+LOC-0710,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,104.73,1.1,5075985,6.80E+11,Europe/Skopje
+LOC-0711,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,100.16,3.5,24175841,1.25E+12,America/Bogota
+LOC-0712,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,118.09,4.1,23739675,4.91E+11,Asia/Tbilisi
+LOC-0713,"Mexico City, Mexico",Mexico City,Mexico City,Mexico,Americas,North America,50.47,2.8,7884429,1.67E+12,America/St_Vincent
+LOC-0714,"Buenos Aires, Argentina",Buenos Aires,Buenos Aires,Argentina,Americas,South America,134.84,2.9,21404954,5.29E+11,Asia/Taipei
+LOC-0715,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,122.27,2,15132346,1.37E+12,America/Guatemala
+LOC-0716,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,139.11,3.2,15637933,1.50E+12,Asia/Baku
+LOC-0717,"New York, United States",New York,New York,United States,Americas,North America,47.05,4.4,19735346,2.61E+11,America/Nassau
+LOC-0718,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,149.37,1.1,18179101,1.83E+12,America/St_Vincent
+LOC-0719,"Mumbai, India",Mumbai,Maharashtra,India,APAC,Asia,121.66,3.3,12917304,1.55E+12,Africa/Asmera
+LOC-0720,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,132.7,2.5,18319734,4.49E+11,Asia/Dushanbe
+LOC-0721,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,128.44,4.4,7031928,1.87E+12,Asia/Bahrain
+LOC-0722,"São Paulo, Brazil",São Paulo,São Paulo,Brazil,Americas,South America,129.17,1.1,19944235,1.45E+12,Europe/Sofia
+LOC-0723,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,111.11,4.4,24827382,67993931990,America/Havana
+LOC-0724,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,41.19,3,24124213,1.17E+12,America/Argentina/Tucuman
+LOC-0725,"São Paulo, Brazil",São Paulo,São Paulo,Brazil,Americas,South America,56.69,2.4,20545342,1.93E+12,Africa/Kampala
+LOC-0726,"Sydney, Australia",Sydney,New South Wales,Australia,APAC,Australia,36.1,1.1,15757874,4.60E+11,America/St_Vincent
+LOC-0727,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,47.95,4.4,4472018,1.60E+11,Asia/Kuwait
+LOC-0728,"Mumbai, India",Mumbai,Maharashtra,India,APAC,Asia,49.07,4.3,5633267,9.60E+11,Asia/Pontianak
+LOC-0729,"Mumbai, India",Mumbai,Maharashtra,India,APAC,Asia,53.15,2.7,22445615,1.94E+12,America/Caracas
+LOC-0730,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,103.39,4.3,18029742,1.69E+12,Africa/Accra
+LOC-0731,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,59.08,3.6,7843039,1.54E+12,America/St_Lucia
+LOC-0732,"Mumbai, India",Mumbai,Maharashtra,India,APAC,Asia,145.63,3.9,16928993,1.39E+12,Asia/Bishkek
+LOC-0733,"Buenos Aires, Argentina",Buenos Aires,Buenos Aires,Argentina,Americas,South America,147.38,4.9,9573274,6.38E+11,Africa/Freetown
+LOC-0734,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,136.9,2.8,23506366,2.45E+11,Europe/Helsinki
+LOC-0735,"New York, United States",New York,New York,United States,Americas,North America,35.64,2.3,22191721,7.48E+11,America/Panama
+LOC-0736,"Mexico City, Mexico",Mexico City,Mexico City,Mexico,Americas,North America,145.29,2.7,1854434,1.35E+12,Asia/Damascus
+LOC-0737,"Mexico City, Mexico",Mexico City,Mexico City,Mexico,Americas,North America,128.7,2.9,9629240,1.76E+12,Africa/Lagos
+LOC-0738,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,133.81,3.1,656852,3.72E+11,America/Grenada
+LOC-0739,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,106.46,3.8,2211103,9.67E+11,Asia/Taipei
+LOC-0740,"Mumbai, India",Mumbai,Maharashtra,India,APAC,Asia,88.32,4.4,10652341,1.77E+12,Europe/Vilnius
+LOC-0741,"New York, United States",New York,New York,United States,Americas,North America,106.83,1.3,5808840,1.92E+12,Africa/Casablanca
+LOC-0742,"Mumbai, India",Mumbai,Maharashtra,India,APAC,Asia,105.12,3.6,9587206,8.98E+11,Asia/Brunei
+LOC-0743,"Mexico City, Mexico",Mexico City,Mexico City,Mexico,Americas,North America,83.76,1.6,4078774,2.82E+11,America/Asuncion
+LOC-0744,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,125.04,2.5,15972975,1.23E+12,Europe/Prague
+LOC-0745,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,148.81,3.1,14084294,7.67E+11,Asia/Rangoon
+LOC-0746,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,77.64,2.3,5356279,1.81E+12,Asia/Samarkand
+LOC-0747,"Mumbai, India",Mumbai,Maharashtra,India,APAC,Asia,70.27,2.7,23214988,1.55E+11,Asia/Magadan
+LOC-0748,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,49.03,1.5,6904573,1.95E+12,Europe/Brussels
+LOC-0749,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,76.76,4.3,7935498,1.60E+12,Indian/Comoro
+LOC-0750,"New York, United States",New York,New York,United States,Americas,North America,95.83,4.1,3880344,23431047675,America/Managua
+LOC-0751,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,80.21,3.4,21316366,5.67E+11,Asia/Calcutta
+LOC-0752,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,128.6,3.3,3527385,6.45E+11,Europe/Dublin
+LOC-0753,"Buenos Aires, Argentina",Buenos Aires,Buenos Aires,Argentina,Americas,South America,40.32,2.1,23446060,1.78E+12,Africa/Algiers
+LOC-0754,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,109.64,3,11123920,1.26E+11,Africa/Djibouti
+LOC-0755,"Shanghai, China",Shanghai,Shanghai,China,APAC,Asia,104.81,2.3,6984392,1.05E+12,Africa/Dakar
+LOC-0756,"Mumbai, India",Mumbai,Maharashtra,India,APAC,Asia,137.31,1.7,5855218,1.94E+12,America/Tegucigalpa
+LOC-0757,"Mumbai, India",Mumbai,Maharashtra,India,APAC,Asia,51.3,1.9,12492535,1.12E+12,America/Merida
+LOC-0758,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,57.56,4.9,13215275,2.40E+11,Asia/Urumqi
+LOC-0759,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,72.98,4.5,2760949,7.74E+11,Africa/Dar_es_Salaam
+LOC-0760,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,132.97,4.1,2792348,1.52E+12,Europe/Malta
+LOC-0761,"São Paulo, Brazil",São Paulo,São Paulo,Brazil,Americas,South America,123.83,1.1,10396006,2.08E+11,Europe/Minsk
+LOC-0762,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,36.34,4.4,12143250,9.57E+11,America/Havana
+LOC-0763,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,134.58,4.5,22631506,1.25E+12,America/Costa_Rica
+LOC-0764,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,84.39,2.6,22587638,8.02E+11,Indian/Mauritius
+LOC-0765,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,117.86,1.7,20814227,3.58E+11,Asia/Anadyr
+LOC-0766,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,33.91,4.4,19941715,2.99E+11,America/St_Vincent
+LOC-0767,"São Paulo, Brazil",São Paulo,São Paulo,Brazil,Americas,South America,143.45,3,8354844,1.67E+12,America/Guatemala
+LOC-0768,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,31.8,2.7,1633129,1.95E+12,Europe/Sofia
+LOC-0769,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,138,2.3,21135857,3.43E+11,Europe/Riga
+LOC-0770,"Mumbai, India",Mumbai,Maharashtra,India,APAC,Asia,113.79,2.8,14136754,1.11E+12,Africa/Conakry
+LOC-0771,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,40.73,4.3,21650239,1.21E+12,Africa/Windhoek
+LOC-0772,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,98.37,1.1,14447523,1.39E+12,America/Bogota
+LOC-0773,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,144.21,2.7,15405731,7.80E+11,Africa/Harare
+LOC-0774,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,79.32,4.1,4078162,1.40E+12,Asia/Kabul
+LOC-0775,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,46.27,3.6,22126482,1.08E+12,Asia/Bangkok
+LOC-0776,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,129.98,2.8,11655510,1.06E+12,Europe/Rome
+LOC-0777,"New York, United States",New York,New York,United States,Americas,North America,133.16,1.6,682550,1.46E+12,Pacific/Funafuti
+LOC-0778,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,35.42,5,4238633,1.14E+12,Africa/Libreville
+LOC-0779,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,145.54,2.6,21994286,6.82E+11,Pacific/Efate
+LOC-0780,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,149.66,1.5,4808235,6.59E+11,Africa/Mbabane
+LOC-0781,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,38.31,1.9,4222285,1.09E+12,Africa/Maputo
+LOC-0782,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,93.18,3.3,12845189,1.94E+12,Asia/Jerusalem
+LOC-0783,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,118.53,1.9,6889107,1.34E+12,America/Panama
+LOC-0784,"Mexico City, Mexico",Mexico City,Mexico City,Mexico,Americas,North America,110.16,3.2,6861292,9.39E+11,Asia/Urumqi
+LOC-0785,"Sydney, Australia",Sydney,New South Wales,Australia,APAC,Australia,35.41,4.1,20620591,6.69E+11,America/Santo_Domingo
+LOC-0786,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,89.81,1.8,19027604,8.79E+11,Africa/Mogadishu
+LOC-0787,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,124.54,3.6,16256687,1.52E+12,Africa/Djibouti
+LOC-0788,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,34.44,2.2,5176827,1.48E+12,Asia/Bangkok
+LOC-0789,"Shanghai, China",Shanghai,Shanghai,China,APAC,Asia,140.45,1.6,21323424,7.90E+11,America/Antigua
+LOC-0790,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,49.68,1.8,10275776,1.39E+12,Africa/Kampala
+LOC-0791,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,117.16,3.9,18124873,1.38E+12,Pacific/Majuro
+LOC-0792,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,145.77,2.2,16269589,1.66E+12,Asia/Muscat
+LOC-0793,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,62.35,3,23591989,1.19E+12,America/Asuncion
+LOC-0794,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,121.4,4,8478482,4.10E+11,Europe/Amsterdam
+LOC-0795,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,79.58,4.2,11529716,85572669189,America/Nassau
+LOC-0796,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,120.8,4.6,11740533,1.05E+12,Asia/Tehran
+LOC-0797,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,93.83,4.3,9651114,7.22E+11,Pacific/Apia
+LOC-0798,"Sydney, Australia",Sydney,New South Wales,Australia,APAC,Australia,107.06,4.4,20789377,1.78E+11,Asia/Kabul
+LOC-0799,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,52.34,5,7894909,6.00E+11,Asia/Vientiane
+LOC-0800,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,86.43,2.2,11949701,1.76E+12,Asia/Thimphu
+LOC-0801,"Buenos Aires, Argentina",Buenos Aires,Buenos Aires,Argentina,Americas,South America,111.94,1.6,10156607,2.34E+11,Africa/Bujumbura
+LOC-0802,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,142.72,2.5,3010025,1.10E+12,Europe/Warsaw
+LOC-0803,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,52.37,1.6,6440129,9.06E+11,America/Nassau
+LOC-0804,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,132.58,4.4,5373870,1.90E+12,Asia/Kabul
+LOC-0805,"Buenos Aires, Argentina",Buenos Aires,Buenos Aires,Argentina,Americas,South America,139.47,4.6,7503498,1.72E+12,America/Antigua
+LOC-0806,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,149.77,3.1,3479095,4.04E+11,Africa/Casablanca
+LOC-0807,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,83.93,4.4,18958147,2.71E+11,Indian/Mahe
+LOC-0808,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,134.57,4.9,22674296,1.04E+12,Africa/Nouakchott
+LOC-0809,"Mexico City, Mexico",Mexico City,Mexico City,Mexico,Americas,North America,84.44,3.5,17382346,5.57E+11,Indian/Comoro
+LOC-0810,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,55.82,1.4,20583392,1.66E+12,Europe/Moscow
+LOC-0811,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,68.82,4.5,2288993,75121658413,Europe/Tallinn
+LOC-0812,"Mumbai, India",Mumbai,Maharashtra,India,APAC,Asia,141.31,2,19372298,5.25E+11,Africa/Bujumbura
+LOC-0813,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,124.16,4.8,23057441,6.62E+11,Africa/Addis_Ababa
+LOC-0814,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,116.45,1.3,4506276,4.74E+11,America/Lima
+LOC-0815,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,141.83,1.8,5509870,1.48E+12,Europe/Prague
+LOC-0816,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,107.75,1.5,11175917,4.73E+11,Indian/Mahe
+LOC-0817,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,83.84,2.6,16051269,1.27E+12,Africa/Maputo
+LOC-0818,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,92.57,3.1,1230589,3.06E+11,America/St_Lucia
+LOC-0819,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,46.22,4.8,14156107,5.23E+11,Asia/Katmandu
+LOC-0820,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,137.4,1.1,1017750,1.10E+12,America/Nassau
+LOC-0821,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,65.74,1.7,21344988,1.94E+12,America/Antigua
+LOC-0822,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,67.5,4.7,10580951,1.51E+12,America/Paramaribo
+LOC-0823,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,35.45,2.6,2222856,1.69E+12,Pacific/Guadalcanal
+LOC-0824,"Sydney, Australia",Sydney,New South Wales,Australia,APAC,Australia,113.09,4.4,14978780,1.00E+12,Atlantic/Cape_Verde
+LOC-0825,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,44,2.5,22576442,1.21E+12,Africa/Kinshasa
+LOC-0826,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,50.81,3.8,19043923,7.04E+11,Europe/Monaco
+LOC-0827,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,87.71,3.4,14074784,1.50E+12,Europe/Berlin
+LOC-0828,"São Paulo, Brazil",São Paulo,São Paulo,Brazil,Americas,South America,49.76,4.9,8368063,5.11E+11,Europe/Luxembourg
+LOC-0829,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,103.38,2.7,756831,1.88E+12,Africa/Maseru
+LOC-0830,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,39.4,4.1,17781717,9.68E+11,Asia/Dubai
+LOC-0831,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,85.6,3.9,20793858,1.44E+12,America/El_Salvador
+LOC-0832,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,75.42,4.5,12447975,1.35E+12,Asia/Almaty
+LOC-0833,"Sydney, Australia",Sydney,New South Wales,Australia,APAC,Australia,39.88,1.4,14606329,1.37E+12,Europe/Bratislava
+LOC-0834,"Buenos Aires, Argentina",Buenos Aires,Buenos Aires,Argentina,Americas,South America,60.8,4.7,2571208,1.09E+11,Africa/Maputo
+LOC-0835,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,66.96,3.4,3580125,9.80E+11,Asia/Aden
+LOC-0836,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,72.8,2.8,8514561,4.26E+11,Asia/Beirut
+LOC-0837,"Mexico City, Mexico",Mexico City,Mexico City,Mexico,Americas,North America,43.23,4.8,11424360,3.55E+11,Africa/Algiers
+LOC-0838,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,143.33,4.1,20139059,1.99E+12,Asia/Thimphu
+LOC-0839,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,135.22,4.6,15143307,1.26E+12,Africa/Brazzaville
+LOC-0840,"Mumbai, India",Mumbai,Maharashtra,India,APAC,Asia,78.42,4.1,16035791,4.52E+11,Pacific/Funafuti
+LOC-0841,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,70.61,4.2,483657,3.37E+11,Africa/Kigali
+LOC-0842,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,32.57,3.7,16910010,7.01E+11,America/Guatemala
+LOC-0843,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,84.66,2.6,276511,39465780214,America/Asuncion
+LOC-0844,"Sydney, Australia",Sydney,New South Wales,Australia,APAC,Australia,113.55,4.2,19470345,9.46E+11,America/Nassau
+LOC-0845,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,85.42,4.5,4904507,41627324413,Africa/Porto-Novo
+LOC-0846,"Buenos Aires, Argentina",Buenos Aires,Buenos Aires,Argentina,Americas,South America,41.79,3.1,21782132,1.05E+12,America/Belize
+LOC-0847,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,95.7,1.9,24017566,5.07E+11,Pacific/Port_Moresby
+LOC-0848,"Shanghai, China",Shanghai,Shanghai,China,APAC,Asia,85.58,2.9,13937238,1.48E+12,Atlantic/Cape_Verde
+LOC-0849,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,103.74,2.7,23966460,79575922522,America/Santo_Domingo
+LOC-0850,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,57.37,4.4,15070843,22758427482,Europe/Tallinn
+LOC-0851,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,43.44,4,5566731,3.12E+11,Europe/Vilnius
+LOC-0852,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,95.88,4.4,18890866,2.30E+11,America/La_Paz
+LOC-0853,"Shanghai, China",Shanghai,Shanghai,China,APAC,Asia,81.08,4.5,19945252,2.46E+11,America/Noronha
+LOC-0854,"Shanghai, China",Shanghai,Shanghai,China,APAC,Asia,71.54,3.8,1239353,1.96E+12,Africa/Kampala
+LOC-0855,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,68.59,1.9,23702593,4.63E+11,Asia/Tbilisi
+LOC-0856,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,86.94,4.2,20244303,1.44E+12,Africa/Maputo
+LOC-0857,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,118.63,1.7,11219413,1.81E+12,Africa/Tunis
+LOC-0858,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,109.81,4.2,7991690,6.46E+11,Asia/Tehran
+LOC-0859,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,49.82,1.9,16807158,1.37E+11,America/Port_of_Spain
+LOC-0860,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,95.41,3.4,18644541,6.53E+11,Europe/Riga
+LOC-0861,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,111.72,1.8,13268699,5.18E+11,Africa/Harare
+LOC-0862,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,82.96,2.3,23324942,1.55E+12,Africa/Bamako
+LOC-0863,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,38.6,2.5,4011474,1.40E+12,Pacific/Fiji
+LOC-0864,"New York, United States",New York,New York,United States,Americas,North America,141.17,3.4,19581736,1.32E+12,Asia/Choibalsan
+LOC-0865,"Shanghai, China",Shanghai,Shanghai,China,APAC,Asia,127.11,3.8,21899584,6.60E+11,Asia/Harbin
+LOC-0866,"Buenos Aires, Argentina",Buenos Aires,Buenos Aires,Argentina,Americas,South America,35.86,1.4,9512712,11912951867,Africa/Addis_Ababa
+LOC-0867,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,78.32,4.2,1630929,70836079688,America/St_Vincent
+LOC-0868,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,123.32,2.5,11174686,1.98E+12,America/Lima
+LOC-0869,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,75.89,1.4,4409598,1.80E+12,America/Lima
+LOC-0870,"São Paulo, Brazil",São Paulo,São Paulo,Brazil,Americas,South America,85.71,2.1,18000788,5.19E+11,America/Managua
+LOC-0871,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,145.94,1.8,19701310,7.71E+11,Africa/Khartoum
+LOC-0872,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,112.41,3.8,11021348,1.49E+12,Africa/Mogadishu
+LOC-0873,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,90.43,5,16109189,1.62E+12,Asia/Baku
+LOC-0874,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,44.11,1.9,18336507,1.88E+12,Asia/Aden
+LOC-0875,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,126.75,1,16454319,1.23E+12,Europe/Brussels
+LOC-0876,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,88.94,3.3,8473697,1.43E+12,Asia/Karachi
+LOC-0877,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,137.41,4.5,16557875,1.66E+12,Europe/Zaporozhye
+LOC-0878,"Sydney, Australia",Sydney,New South Wales,Australia,APAC,Australia,65.9,4.3,5356616,1.49E+12,America/Lima
+LOC-0879,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,66.03,2.5,11842912,1.40E+12,Asia/Phnom_Penh
+LOC-0880,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,46.85,3.1,10574052,1.49E+12,Europe/Oslo
+LOC-0881,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,133.99,4.1,4487158,7.60E+11,Asia/Yekaterinburg
+LOC-0882,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,93.65,2.1,12200286,82709278616,Pacific/Majuro
+LOC-0883,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,73.35,1.2,5067315,1.85E+12,Asia/Thimphu
+LOC-0884,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,41.94,3.4,7655305,1.67E+12,Pacific/Efate
+LOC-0885,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,47.9,1.9,18444428,1.29E+12,Europe/Athens
+LOC-0886,"São Paulo, Brazil",São Paulo,São Paulo,Brazil,Americas,South America,94.58,4.7,11000743,1.69E+12,Africa/Blantyre
+LOC-0887,"New York, United States",New York,New York,United States,Americas,North America,89.54,2.2,14172971,1.91E+12,Asia/Tbilisi
+LOC-0888,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,89.02,3.3,490957,1.89E+12,Asia/Baghdad
+LOC-0889,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,77.26,3.1,17040696,4.19E+11,America/St_Kitts
+LOC-0890,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,34.01,1,13763236,8.16E+11,America/Dominica
+LOC-0891,"Sydney, Australia",Sydney,New South Wales,Australia,APAC,Australia,31.08,3.1,12855007,1.21E+12,Europe/Podgorica
+LOC-0892,"Shanghai, China",Shanghai,Shanghai,China,APAC,Asia,118.16,4.3,13476215,1.42E+11,Pacific/Funafuti
+LOC-0893,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,49.02,2,10880051,1.66E+12,Africa/Bangui
+LOC-0894,"Mumbai, India",Mumbai,Maharashtra,India,APAC,Asia,64.17,1.9,13044193,8.38E+11,Pacific/Efate
+LOC-0895,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,116.05,4.5,17546389,1.57E+12,Africa/Djibouti
+LOC-0896,"São Paulo, Brazil",São Paulo,São Paulo,Brazil,Americas,South America,143.25,2.1,24760499,1.81E+12,Asia/Manila
+LOC-0897,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,100.45,4.8,13960785,1.80E+12,Europe/Sarajevo
+LOC-0898,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,80.33,2.9,6341468,1.90E+12,America/Bogota
+LOC-0899,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,43.31,1.2,2121391,1.74E+12,Australia/Perth
+LOC-0900,"Buenos Aires, Argentina",Buenos Aires,Buenos Aires,Argentina,Americas,South America,133.21,2.6,11559644,19494701825,Asia/Thimphu
+LOC-0901,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,65.11,3.1,24485586,1.17E+12,Europe/Zurich
+LOC-0902,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,95.41,4.3,5209282,1.88E+12,America/Tegucigalpa
+LOC-0903,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,148.19,2.1,13838928,6.09E+11,Europe/Malta
+LOC-0904,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,75.2,2.2,24597109,1.99E+12,Pacific/Apia
+LOC-0905,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,66.22,2.6,17617609,1.22E+12,America/Guyana
+LOC-0906,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,66.86,1.9,15485298,1.52E+12,Africa/Dar_es_Salaam
+LOC-0907,"New York, United States",New York,New York,United States,Americas,North America,122.76,3.9,20364546,1.17E+12,Pacific/Kosrae
+LOC-0908,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,93.49,4.2,6037402,1.28E+12,Africa/Bangui
+LOC-0909,"Shanghai, China",Shanghai,Shanghai,China,APAC,Asia,48.53,3.1,6265594,6.66E+11,Asia/Gaza
+LOC-0910,"São Paulo, Brazil",São Paulo,São Paulo,Brazil,Americas,South America,148.55,3.6,7182608,1.43E+12,Africa/Cairo
+LOC-0911,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,139.31,3,12091397,1.00E+12,Asia/Taipei
+LOC-0912,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,140.99,1.1,7305762,1.51E+12,Europe/Amsterdam
+LOC-0913,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,94.86,2.6,9119155,1.46E+12,Europe/Stockholm
+LOC-0914,"São Paulo, Brazil",São Paulo,São Paulo,Brazil,Americas,South America,125.43,2.5,6532060,7.38E+11,Pacific/Galapagos
+LOC-0915,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,111.08,1.4,22926205,1.29E+12,Africa/Malabo
+LOC-0916,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,139.98,1.9,612560,1.66E+12,Pacific/Port_Moresby
+LOC-0917,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,114.71,3.8,22217707,8.35E+11,Asia/Seoul
+LOC-0918,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,45.45,3.2,12378226,9.07E+11,Africa/Maputo
+LOC-0919,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,124.36,2.9,881611,1.83E+12,Atlantic/Azores
+LOC-0920,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,45.99,2.5,15189674,9.39E+11,Asia/Katmandu
+LOC-0921,"Mexico City, Mexico",Mexico City,Mexico City,Mexico,Americas,North America,49.94,2.4,13604968,9.76E+11,Asia/Aden
+LOC-0922,"New York, United States",New York,New York,United States,Americas,North America,62.49,4.4,17444887,1.35E+12,America/St_Vincent
+LOC-0923,"Buenos Aires, Argentina",Buenos Aires,Buenos Aires,Argentina,Americas,South America,78.29,4.1,19677645,8.47E+11,Asia/Aqtobe
+LOC-0924,"São Paulo, Brazil",São Paulo,São Paulo,Brazil,Americas,South America,69.86,2.5,9530460,6.64E+11,Africa/Johannesburg
+LOC-0925,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,64.77,2.1,10667312,3.45E+11,Africa/Bissau
+LOC-0926,"Mumbai, India",Mumbai,Maharashtra,India,APAC,Asia,128.44,4,20407253,1.20E+12,Europe/Athens
+LOC-0927,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,78.89,2,4171506,1.20E+12,Asia/Dushanbe
+LOC-0928,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,66.7,1,19942403,1.26E+12,Europe/Luxembourg
+LOC-0929,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,130.6,3.4,7861654,1.92E+12,America/Argentina/Ushuaia
+LOC-0930,"Moscow, Russia",Moscow,Moscow,Russia,EMEA,Europe,136.3,3.1,23037240,6.35E+11,Europe/Malta
+LOC-0931,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,40.46,1.1,7980405,6.82E+11,Africa/Tunis
+LOC-0932,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,105.4,1.3,7090981,2.74E+11,America/St_Vincent
+LOC-0933,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,115.49,3.2,1909497,5.81E+11,America/Tegucigalpa
+LOC-0934,"Istanbul, Turkey",Istanbul,Istanbul,Turkey,EMEA,Europe,72.83,3.9,20844632,2.90E+11,Atlantic/Reykjavik
+LOC-0935,"Buenos Aires, Argentina",Buenos Aires,Buenos Aires,Argentina,Americas,South America,137.89,2.5,5100212,3.95E+11,Asia/Phnom_Penh
+LOC-0936,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,33.68,3.5,22861392,3.15E+11,Asia/Dhaka
+LOC-0937,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,113.83,3.2,7290801,2.98E+11,Pacific/Efate
+LOC-0938,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,135.08,4.3,7136012,1.65E+12,Africa/Algiers
+LOC-0939,"Sydney, Australia",Sydney,New South Wales,Australia,APAC,Australia,143.94,3.8,360432,3.73E+11,Africa/Mbabane
+LOC-0940,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,67.57,4.1,17810141,4.90E+11,America/Dominica
+LOC-0941,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,54.98,3.6,17716304,1.10E+12,Asia/Jayapura
+LOC-0942,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,77.68,3.5,6139201,1.75E+12,Asia/Kabul
+LOC-0943,"Mumbai, India",Mumbai,Maharashtra,India,APAC,Asia,69.83,1.2,15379503,1.50E+12,America/Belize
+LOC-0944,"São Paulo, Brazil",São Paulo,São Paulo,Brazil,Americas,South America,44.19,3.2,21860058,1.76E+12,America/Yellowknife
+LOC-0945,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,45.55,4.7,22657537,1.75E+12,Europe/Paris
+LOC-0946,"New York, United States",New York,New York,United States,Americas,North America,41.54,2.5,11055488,3.61E+11,Africa/Libreville
+LOC-0947,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,123.53,3.8,20837930,1.75E+12,Asia/Manila
+LOC-0948,"New York, United States",New York,New York,United States,Americas,North America,52.24,3,1134253,1.30E+12,Asia/Riyadh
+LOC-0949,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,34.06,1.5,24671081,7.75E+11,Europe/Bucharest
+LOC-0950,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,127.49,3.7,7692613,1.90E+12,Africa/Lome
+LOC-0951,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,71.69,1.4,20251827,2.53E+11,Asia/Kabul
+LOC-0952,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,148.69,2.8,11324887,1.62E+12,Africa/Nairobi
+LOC-0953,"Shanghai, China",Shanghai,Shanghai,China,APAC,Asia,73.5,4.7,18605642,1.44E+12,Africa/Brazzaville
+LOC-0954,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,64.43,4,15710554,1.72E+12,Asia/Phnom_Penh
+LOC-0955,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,73.23,2.5,22472785,6.80E+11,Asia/Seoul
+LOC-0956,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,81.86,1.3,9697641,1.32E+12,Europe/Zagreb
+LOC-0957,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,106.41,1.8,7151543,1.06E+12,America/Santo_Domingo
+LOC-0958,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,102.44,4.8,2372672,1.19E+12,Asia/Riyadh
+LOC-0959,"London, United Kingdom",London,England,United Kingdom,EMEA,Europe,77.66,1,11043120,9.75E+11,Asia/Manila
+LOC-0960,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,47.54,4.8,12867833,46343371343,America/Antigua
+LOC-0961,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,122.7,4,8464603,1.89E+12,America/Managua
+LOC-0962,"Mexico City, Mexico",Mexico City,Mexico City,Mexico,Americas,North America,77.02,3.9,8793699,1.96E+12,Pacific/Tongatapu
+LOC-0963,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,78.78,3.6,5830711,2.52E+11,America/Antigua
+LOC-0964,"Lagos, Nigeria",Lagos,Lagos,Nigeria,EMEA,Africa,53.18,1.1,21162536,7.69E+11,Asia/Bishkek
+LOC-0965,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,124.99,4,18064999,1.89E+12,Europe/Brussels
+LOC-0966,"Mexico City, Mexico",Mexico City,Mexico City,Mexico,Americas,North America,55.19,1.7,17976765,1.59E+11,Asia/Thimphu
+LOC-0967,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,101.1,3.2,11534728,8.80E+11,Europe/Budapest
+LOC-0968,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,88.83,2.4,21416035,1.91E+12,Africa/Bamako
+LOC-0969,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,70.22,1.4,21758734,1.96E+12,America/Caracas
+LOC-0970,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,124.85,4.7,9086946,20721435551,Asia/Dushanbe
+LOC-0971,"Sydney, Australia",Sydney,New South Wales,Australia,APAC,Australia,148.55,4.5,940786,2.02E+11,Pacific/Efate
+LOC-0972,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,98.33,1.5,24761713,1.06E+12,Asia/Riyadh
+LOC-0973,"Buenos Aires, Argentina",Buenos Aires,Buenos Aires,Argentina,Americas,South America,140.06,4.3,21495060,2.20E+11,Africa/Bujumbura
+LOC-0974,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,50.39,1.1,14735738,3.39E+11,Africa/Dar_es_Salaam
+LOC-0975,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,109.8,1.1,3718641,5.59E+11,Europe/Monaco
+LOC-0976,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,98.36,3.5,9283912,1.58E+12,Europe/Tallinn
+LOC-0977,"Shanghai, China",Shanghai,Shanghai,China,APAC,Asia,109.38,1.8,13295137,8.68E+11,Europe/Riga
+LOC-0978,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,131.54,4.7,4036874,41242580567,Africa/Bamako
+LOC-0979,"Tokyo, Japan",Tokyo,Tokyo,Japan,APAC,Asia,131.22,1,2426730,7.86E+11,Pacific/Guadalcanal
+LOC-0980,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,115.86,2.3,11013142,5.94E+11,Pacific/Funafuti
+LOC-0981,"New York, United States",New York,New York,United States,Americas,North America,143.21,1.5,18893120,1.47E+12,Europe/Dublin
+LOC-0982,"Shanghai, China",Shanghai,Shanghai,China,APAC,Asia,41.42,2.8,23914674,1.48E+12,Asia/Phnom_Penh
+LOC-0983,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,139.2,4.5,2770251,1.87E+12,Africa/Nairobi
+LOC-0984,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,106.68,4,5686824,1.14E+11,Europe/Brussels
+LOC-0985,"Mexico City, Mexico",Mexico City,Mexico City,Mexico,Americas,North America,82.73,3.4,20007535,2.28E+11,America/St_Vincent
+LOC-0986,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,124.45,2.8,13529024,1.56E+12,Africa/Tripoli
+LOC-0987,"Paris, France",Paris,Île-de-France,France,EMEA,Europe,44.05,4.2,5514643,3.52E+11,Africa/Niamey
+LOC-0988,"Jakarta, Indonesia",Jakarta,Jakarta,Indonesia,APAC,Asia,104.57,3.9,10600198,1.22E+12,Europe/Sarajevo
+LOC-0989,"Shanghai, China",Shanghai,Shanghai,China,APAC,Asia,136.39,2.4,23565201,5.56E+11,America/Dominica
+LOC-0990,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,48.21,2.6,22623024,1.42E+12,Europe/Prague
+LOC-0991,"Los Angeles, United States",Los Angeles,California,United States,Americas,North America,84.46,1.4,24238842,7.77E+11,Africa/Kampala
+LOC-0992,"Seoul, South Korea",Seoul,Seoul,South Korea,APAC,Asia,67.27,2.6,23697265,8.45E+11,America/Havana
+LOC-0993,"Sydney, Australia",Sydney,New South Wales,Australia,APAC,Australia,126.45,3.1,17805258,1.51E+12,Africa/Gaborone
+LOC-0994,"Berlin, Germany",Berlin,Berlin,Germany,EMEA,Europe,31.69,4.7,18186615,3.94E+11,Africa/Ouagadougou
+LOC-0995,"Toronto, Canada",Toronto,Ontario,Canada,Americas,North America,87.22,1.6,4380626,5.61E+11,Asia/Calcutta
+LOC-0996,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,123.7,3.4,373380,1.30E+12,Asia/Muscat
+LOC-0997,"São Paulo, Brazil",São Paulo,São Paulo,Brazil,Americas,South America,128.29,1.8,1406211,1.03E+12,Europe/Istanbul
+LOC-0998,"Cairo, Egypt",Cairo,Cairo,Egypt,EMEA,Africa,64.34,1.3,11553599,1.84E+11,Pacific/Fiji
+LOC-0999,"Sydney, Australia",Sydney,New South Wales,Australia,APAC,Australia,40.9,1.5,10848278,1.41E+12,Pacific/Fiji
+LOC-1000,"Kinshasa, DR Congo",Kinshasa,Kinshasa,DR Congo,EMEA,Africa,100.13,1.3,4316529,1.58E+12,America/Antigua

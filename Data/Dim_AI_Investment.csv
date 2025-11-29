@@ -1,0 +1,501 @@
+AIInvestmentKey,AI_Investment_Level_USD,AI_Productivity_Gain_Pct,AI_Return_on_Investment_ROI_Score,Primary_Investment_Area,Investment_DateKey,Funding_Source,Project_Name,Project_Status,Team_Size,Risk_Level,Expected_Payback_Period_Months
+1,44233372,0.25,2.84,Platform,834,Grant,AI Project 1,In-Progress,30,Low,32
+2,32630550,0.19,2.51,Generative AI,1653,VC,AI Project 2,Completed,36,High,19
+3,48017114,0.16,1.36,Platform,428,Corporate,AI Project 3,Completed,76,Medium,20
+4,38140406,0.16,2.26,Platform,810,Corporate,AI Project 4,On-Hold,35,Low,20
+5,21866528,0.23,1.11,Generative AI,1279,Grant,AI Project 5,In-Progress,27,Medium,10
+6,34420240,0.24,2.21,Analytics,1286,VC,AI Project 6,Completed,13,Low,25
+7,34305965,0.29,1.2,Platform,920,VC,AI Project 7,Planned,77,Low,35
+8,26090751,0.2,2.34,Platform,505,Internal,AI Project 8,Planned,76,Low,24
+9,41098732,0.14,0.59,Analytics,1247,Corporate,AI Project 9,Completed,46,Low,26
+10,32595019,0.13,2.53,Analytics,629,Internal,AI Project 10,Planned,99,Medium,11
+11,29765408,0.27,2.11,Analytics,1379,VC,AI Project 11,In-Progress,54,Medium,9
+12,24492680,0.31,2.12,Generative AI,2105,Corporate,AI Project 12,Planned,70,Medium,12
+13,13136143,0.05,0.99,Analytics,1155,Grant,AI Project 13,Completed,74,Low,13
+14,9593761,0.4,1.73,Generative AI,1353,Internal,AI Project 14,Completed,14,Low,31
+15,12701531,0.08,1.87,Automation,755,Grant,AI Project 15,In-Progress,42,Low,35
+16,33975567,0.4,0.71,Analytics,972,VC,AI Project 16,Completed,79,Low,9
+17,19025722,0.34,2.13,Platform,1484,Corporate,AI Project 17,Planned,23,High,15
+18,3213160,0.21,0.82,Platform,424,Grant,AI Project 18,Completed,99,Medium,28
+19,19537621,0.09,2.8,Generative AI,1900,VC,AI Project 19,On-Hold,41,Low,10
+20,8133047,0.07,2.88,Platform,47,Grant,AI Project 20,Completed,9,High,25
+21,32115161,0.1,1.32,Automation,435,Corporate,AI Project 21,Completed,9,Low,24
+22,30387108,0.37,2.8,Automation,1700,Internal,AI Project 22,Completed,28,Medium,27
+23,8630142,0.34,2.06,Generative AI,954,Internal,AI Project 23,Planned,83,Low,27
+24,10107403,0.14,1.84,Generative AI,1617,Corporate,AI Project 24,Completed,84,Medium,16
+25,42241493,0.05,2.94,Automation,546,Internal,AI Project 25,On-Hold,63,Low,28
+26,34399304,0.09,2.77,Automation,2006,Internal,AI Project 26,In-Progress,97,Low,35
+27,49512715,0.08,0.95,Generative AI,62,Grant,AI Project 27,Planned,14,High,15
+28,36353643,0.11,1.38,Automation,1620,Grant,AI Project 28,On-Hold,22,High,30
+29,39571572,0.13,2.81,Platform,1947,Corporate,AI Project 29,In-Progress,59,Medium,7
+30,9776410,0.39,2.44,Platform,871,Corporate,AI Project 30,In-Progress,26,Low,26
+31,12780259,0.22,0.86,Generative AI,192,VC,AI Project 31,Completed,28,Medium,13
+32,46135647,0.4,0.61,Analytics,509,VC,AI Project 32,On-Hold,72,High,21
+33,22937599,0.21,2.2,Automation,1523,Internal,AI Project 33,Planned,41,High,25
+34,16369292,0.25,0.81,Generative AI,1293,Corporate,AI Project 34,Planned,7,Low,24
+35,35323612,0.24,2.68,Generative AI,1278,Internal,AI Project 35,Planned,77,Medium,28
+36,2290673,0.07,2.58,Analytics,2067,Corporate,AI Project 36,In-Progress,29,High,24
+37,40346390,0.16,1.09,Platform,2119,VC,AI Project 37,Planned,38,Low,12
+38,25187229,0.14,1.21,Generative AI,38,Grant,AI Project 38,In-Progress,24,High,27
+39,13182979,0.28,1.17,Analytics,51,Grant,AI Project 39,In-Progress,6,High,25
+40,44944777,0.1,1.52,Automation,1605,Grant,AI Project 40,Completed,83,Medium,13
+41,823464,0.14,0.58,Platform,618,Internal,AI Project 41,Planned,91,Low,17
+42,48913124,0.3,0.6,Automation,660,Grant,AI Project 42,Completed,66,Medium,31
+43,21713060,0.05,0.98,Analytics,2068,Corporate,AI Project 43,On-Hold,98,Medium,34
+44,2887294,0.12,2.84,Automation,1102,Corporate,AI Project 44,In-Progress,87,High,16
+45,41473818,0.15,2.38,Platform,1609,Grant,AI Project 45,On-Hold,35,Low,29
+46,24505343,0.21,0.67,Automation,1196,Internal,AI Project 46,Planned,31,Medium,29
+47,27391650,0.32,1.14,Automation,1689,VC,AI Project 47,Planned,73,Medium,30
+48,4677480,0.37,0.76,Analytics,248,Internal,AI Project 48,In-Progress,85,Medium,31
+49,14196307,0.39,0.5,Generative AI,1531,Grant,AI Project 49,In-Progress,72,Low,26
+50,14081765,0.05,2.6,Platform,183,VC,AI Project 50,In-Progress,76,Medium,23
+51,26119386,0.24,2.99,Platform,574,Grant,AI Project 51,In-Progress,77,Low,10
+52,47884101,0.34,1.88,Analytics,1886,VC,AI Project 52,On-Hold,41,High,8
+53,24304924,0.19,2.73,Analytics,799,Internal,AI Project 53,Planned,64,High,31
+54,16912870,0.19,0.58,Generative AI,2043,VC,AI Project 54,Completed,67,Medium,26
+55,37633919,0.2,1.63,Generative AI,589,Grant,AI Project 55,On-Hold,79,Low,9
+56,12518112,0.18,2.85,Generative AI,1095,Internal,AI Project 56,Completed,58,Medium,20
+57,19288993,0.38,1.2,Platform,1378,Corporate,AI Project 57,In-Progress,53,Low,32
+58,37279317,0.18,2.75,Generative AI,973,Corporate,AI Project 58,Planned,34,Low,26
+59,34165836,0.28,0.69,Analytics,342,Grant,AI Project 59,On-Hold,37,Medium,29
+60,28474656,0.29,2.03,Automation,550,VC,AI Project 60,In-Progress,32,Low,16
+61,40299359,0.09,2.11,Analytics,1260,Internal,AI Project 61,Completed,97,Medium,7
+62,15510679,0.11,2.76,Analytics,984,Corporate,AI Project 62,In-Progress,13,Medium,10
+63,20518890,0.08,2.81,Automation,1581,Corporate,AI Project 63,Completed,12,Low,13
+64,8588464,0.19,2.19,Automation,810,Corporate,AI Project 64,Completed,81,High,35
+65,37628989,0.39,1.78,Platform,2116,Grant,AI Project 65,On-Hold,91,Medium,35
+66,10645492,0.06,1.91,Analytics,1888,Grant,AI Project 66,Completed,35,Low,29
+67,30270601,0.08,2.24,Platform,999,VC,AI Project 67,On-Hold,83,Medium,28
+68,35145472,0.28,2.66,Analytics,448,Grant,AI Project 68,Completed,94,Medium,7
+69,45730959,0.13,2.27,Analytics,1877,Internal,AI Project 69,In-Progress,65,High,9
+70,5629316,0.32,1.53,Analytics,1591,VC,AI Project 70,On-Hold,26,Low,12
+71,3321388,0.13,2.41,Analytics,1966,Corporate,AI Project 71,Completed,54,High,32
+72,45411563,0.09,1.44,Platform,1506,Internal,AI Project 72,Planned,68,Medium,12
+73,28906804,0.18,1.28,Generative AI,1758,Corporate,AI Project 73,Planned,35,High,33
+74,7679292,0.14,1.68,Analytics,65,VC,AI Project 74,In-Progress,8,Low,16
+75,21789728,0.13,1.57,Automation,976,Corporate,AI Project 75,Completed,36,Medium,12
+76,19422938,0.17,1.8,Analytics,992,VC,AI Project 76,In-Progress,39,Medium,15
+77,29518702,0.36,1.52,Generative AI,927,Internal,AI Project 77,Completed,58,High,11
+78,5110649,0.18,2.39,Generative AI,1387,Internal,AI Project 78,In-Progress,37,High,33
+79,6229479,0.14,0.76,Platform,1896,Corporate,AI Project 79,Completed,45,High,17
+80,11040081,0.1,1.97,Automation,1531,VC,AI Project 80,Completed,19,High,35
+81,45499538,0.29,2.69,Automation,1494,Internal,AI Project 81,Planned,70,High,10
+82,37906198,0.28,0.84,Generative AI,540,VC,AI Project 82,On-Hold,35,High,35
+83,16443132,0.1,1.74,Generative AI,1703,Corporate,AI Project 83,On-Hold,52,High,13
+84,31212685,0.36,0.5,Generative AI,1359,Grant,AI Project 84,Completed,57,Medium,9
+85,47639204,0.18,2.17,Automation,422,Internal,AI Project 85,Completed,79,Low,8
+86,2122866,0.37,2.23,Generative AI,2160,Corporate,AI Project 86,Completed,75,High,29
+87,6610050,0.17,2.12,Generative AI,419,Internal,AI Project 87,Completed,16,Low,18
+88,10953778,0.2,1.09,Generative AI,36,Corporate,AI Project 88,In-Progress,90,High,30
+89,31059237,0.12,2.07,Analytics,487,Corporate,AI Project 89,On-Hold,6,Medium,11
+90,21067191,0.11,0.66,Platform,1596,Internal,AI Project 90,Completed,37,Low,33
+91,26450195,0.08,0.71,Analytics,522,Corporate,AI Project 91,Planned,15,Medium,35
+92,22364823,0.08,1.14,Automation,69,Grant,AI Project 92,Completed,47,High,12
+93,34992518,0.27,2.11,Generative AI,1775,Corporate,AI Project 93,Planned,45,Medium,29
+94,26085052,0.22,0.96,Analytics,1646,Grant,AI Project 94,On-Hold,21,High,27
+95,18446155,0.36,1.29,Analytics,1534,VC,AI Project 95,In-Progress,57,Low,11
+96,4272703,0.29,1.02,Automation,922,VC,AI Project 96,Planned,55,Medium,16
+97,38103094,0.21,0.75,Automation,1887,Internal,AI Project 97,Completed,91,Low,17
+98,4837616,0.07,0.56,Generative AI,1469,Grant,AI Project 98,On-Hold,77,High,15
+99,30176929,0.22,2.12,Analytics,986,Internal,AI Project 99,On-Hold,32,Medium,26
+100,29320977,0.33,2.97,Platform,1159,Corporate,AI Project 100,Completed,49,Medium,23
+101,23485680,0.2,0.92,Automation,1056,Corporate,AI Project 101,Planned,64,Low,8
+102,9478858,0.26,2.36,Automation,1593,Internal,AI Project 102,On-Hold,6,High,31
+103,17797608,0.17,2.13,Analytics,1201,Corporate,AI Project 103,In-Progress,21,High,16
+104,21602773,0.33,1.48,Generative AI,902,Grant,AI Project 104,In-Progress,94,Low,28
+105,8965483,0.14,2.87,Generative AI,1114,Internal,AI Project 105,In-Progress,74,High,32
+106,46255044,0.18,1.73,Platform,1560,Corporate,AI Project 106,In-Progress,19,Low,7
+107,20669997,0.08,1.53,Generative AI,551,Internal,AI Project 107,On-Hold,70,Medium,6
+108,16501731,0.19,2.32,Automation,825,Internal,AI Project 108,Planned,16,High,14
+109,9996995,0.06,2.85,Platform,183,Grant,AI Project 109,Completed,56,High,35
+110,5772069,0.32,2.49,Generative AI,672,Corporate,AI Project 110,Completed,44,High,19
+111,41412469,0.07,1.1,Platform,726,Corporate,AI Project 111,In-Progress,75,Medium,23
+112,19005825,0.15,1.66,Generative AI,840,Corporate,AI Project 112,On-Hold,5,Low,33
+113,33458108,0.19,0.8,Automation,1758,Corporate,AI Project 113,On-Hold,5,Medium,7
+114,44045491,0.06,0.55,Generative AI,1922,Grant,AI Project 114,On-Hold,38,Medium,15
+115,46747251,0.12,2.19,Automation,934,Internal,AI Project 115,In-Progress,33,Low,22
+116,425499,0.26,0.85,Platform,643,Grant,AI Project 116,Completed,21,Medium,22
+117,12896444,0.1,2.29,Platform,949,Corporate,AI Project 117,On-Hold,35,Medium,35
+118,49611095,0.29,2.76,Automation,740,Grant,AI Project 118,Planned,73,High,18
+119,3214777,0.13,2.3,Analytics,1104,Internal,AI Project 119,Planned,59,Low,21
+120,6457604,0.17,1.32,Generative AI,230,Grant,AI Project 120,Planned,56,Low,25
+121,1921193,0.25,1.05,Analytics,1720,Grant,AI Project 121,In-Progress,24,High,21
+122,37870079,0.25,1.07,Analytics,1124,VC,AI Project 122,Completed,14,Low,30
+123,8645610,0.36,2.52,Analytics,1613,VC,AI Project 123,In-Progress,48,Medium,32
+124,21626859,0.07,1.66,Automation,1594,VC,AI Project 124,In-Progress,95,High,21
+125,40045164,0.1,2.48,Automation,339,VC,AI Project 125,On-Hold,26,High,6
+126,49827760,0.35,2.14,Automation,1208,Grant,AI Project 126,On-Hold,88,Medium,21
+127,8310379,0.2,1.18,Analytics,2164,Corporate,AI Project 127,On-Hold,39,High,24
+128,25711520,0.37,0.82,Platform,328,Grant,AI Project 128,In-Progress,16,Medium,6
+129,40115054,0.39,2.32,Generative AI,1612,Corporate,AI Project 129,Planned,70,High,16
+130,46428389,0.38,2.76,Automation,1700,Internal,AI Project 130,Planned,68,High,12
+131,35169983,0.12,0.77,Generative AI,763,Corporate,AI Project 131,On-Hold,29,Medium,27
+132,18567396,0.2,2.68,Analytics,1426,Grant,AI Project 132,On-Hold,28,High,13
+133,5614907,0.26,2.53,Analytics,1307,Grant,AI Project 133,Completed,63,Medium,18
+134,38395473,0.09,0.56,Analytics,1359,Grant,AI Project 134,Completed,37,High,29
+135,38253417,0.19,0.94,Generative AI,356,Corporate,AI Project 135,Completed,41,Low,22
+136,18660104,0.33,1.24,Analytics,1087,Grant,AI Project 136,Completed,46,High,24
+137,12940920,0.1,2.1,Analytics,935,VC,AI Project 137,Planned,25,Medium,16
+138,20695961,0.05,1.78,Analytics,1277,Grant,AI Project 138,On-Hold,36,Medium,22
+139,21036604,0.22,2.14,Automation,522,VC,AI Project 139,On-Hold,26,Medium,6
+140,6134597,0.28,1.04,Automation,1278,VC,AI Project 140,On-Hold,81,Low,6
+141,18861825,0.31,0.92,Analytics,938,Corporate,AI Project 141,In-Progress,45,Medium,6
+142,9788354,0.26,2.14,Platform,1840,Internal,AI Project 142,Planned,57,Low,18
+143,10721704,0.25,2.4,Generative AI,793,Internal,AI Project 143,Planned,49,High,7
+144,49155096,0.31,2.42,Automation,2099,Internal,AI Project 144,On-Hold,50,Medium,17
+145,49426728,0.18,1.64,Automation,1951,Corporate,AI Project 145,Completed,48,Low,34
+146,43253496,0.2,2.15,Platform,1011,Corporate,AI Project 146,On-Hold,61,Medium,20
+147,27407993,0.06,1.25,Generative AI,2106,Grant,AI Project 147,Completed,6,High,21
+148,8558146,0.25,0.89,Automation,566,Grant,AI Project 148,On-Hold,42,Low,26
+149,40265179,0.12,1.77,Analytics,909,Internal,AI Project 149,On-Hold,81,High,33
+150,42650776,0.21,1.78,Generative AI,1819,Grant,AI Project 150,Completed,74,Medium,24
+151,10635876,0.17,1.31,Analytics,689,Internal,AI Project 151,In-Progress,84,Low,19
+152,5370215,0.21,1.74,Automation,1456,Internal,AI Project 152,Planned,30,Medium,30
+153,32368355,0.37,1.61,Analytics,321,Corporate,AI Project 153,On-Hold,9,Medium,8
+154,35576611,0.18,2.72,Generative AI,397,Internal,AI Project 154,Planned,81,Low,18
+155,45229520,0.13,2.61,Analytics,1381,Corporate,AI Project 155,Completed,98,Low,18
+156,42759060,0.38,1.74,Automation,1931,Internal,AI Project 156,On-Hold,68,High,16
+157,21319544,0.15,2.18,Generative AI,192,VC,AI Project 157,On-Hold,58,Medium,15
+158,39916770,0.13,1.25,Generative AI,161,Corporate,AI Project 158,On-Hold,31,Medium,9
+159,11159728,0.13,0.52,Analytics,1273,VC,AI Project 159,Completed,27,Low,9
+160,4875975,0.38,2.17,Automation,1144,Corporate,AI Project 160,On-Hold,12,High,20
+161,10924285,0.1,1.4,Analytics,679,Grant,AI Project 161,Completed,71,High,26
+162,20821924,0.29,1.83,Platform,1471,Internal,AI Project 162,Completed,36,Medium,7
+163,18122613,0.11,2.04,Generative AI,662,Corporate,AI Project 163,Planned,63,Medium,27
+164,21746505,0.34,0.92,Generative AI,1571,Internal,AI Project 164,On-Hold,90,Medium,26
+165,21565193,0.17,2.03,Platform,428,Grant,AI Project 165,In-Progress,51,Medium,9
+166,34810243,0.11,0.53,Generative AI,813,VC,AI Project 166,Planned,65,High,29
+167,43127479,0.39,2.67,Automation,1847,Corporate,AI Project 167,On-Hold,90,Low,34
+168,7635273,0.32,0.94,Generative AI,370,Grant,AI Project 168,Completed,83,High,34
+169,47964974,0.11,1.49,Analytics,244,VC,AI Project 169,In-Progress,10,High,30
+170,35712025,0.32,2.3,Analytics,431,VC,AI Project 170,Planned,20,Low,28
+171,14953212,0.26,2.98,Automation,830,Internal,AI Project 171,On-Hold,47,Low,19
+172,24583750,0.17,0.9,Automation,1101,Internal,AI Project 172,In-Progress,90,Low,19
+173,43713882,0.18,2.85,Platform,1807,Internal,AI Project 173,Completed,92,Medium,18
+174,33217822,0.25,2.24,Generative AI,460,Internal,AI Project 174,Planned,59,Medium,12
+175,5250845,0.1,1.7,Platform,1613,VC,AI Project 175,In-Progress,58,Low,18
+176,14868450,0.15,0.74,Platform,1750,Corporate,AI Project 176,Completed,73,Low,9
+177,25106217,0.08,2.44,Generative AI,2078,Internal,AI Project 177,Planned,28,Medium,33
+178,11865047,0.12,1.39,Analytics,1121,VC,AI Project 178,Planned,96,Medium,8
+179,45489916,0.17,2.09,Automation,989,Grant,AI Project 179,On-Hold,49,High,7
+180,47287473,0.29,1.31,Generative AI,1930,Grant,AI Project 180,In-Progress,52,Medium,29
+181,33791125,0.16,0.87,Platform,1489,VC,AI Project 181,On-Hold,22,High,18
+182,17748879,0.25,0.76,Analytics,1914,Corporate,AI Project 182,Completed,8,High,12
+183,35250828,0.29,0.93,Automation,655,Grant,AI Project 183,Completed,57,Medium,10
+184,42716004,0.22,2.17,Analytics,291,Grant,AI Project 184,Completed,31,High,6
+185,30347210,0.23,1.3,Analytics,1197,Corporate,AI Project 185,Planned,47,Medium,28
+186,46899332,0.34,1.36,Automation,673,VC,AI Project 186,In-Progress,72,High,27
+187,42189984,0.07,2.18,Automation,775,Grant,AI Project 187,On-Hold,91,High,33
+188,20905009,0.32,1.88,Generative AI,1742,Grant,AI Project 188,Planned,83,Low,18
+189,37324989,0.3,2.25,Automation,1965,Corporate,AI Project 189,In-Progress,17,Medium,32
+190,32427554,0.18,1.96,Generative AI,642,VC,AI Project 190,On-Hold,25,Medium,21
+191,4701687,0.31,1.7,Automation,846,VC,AI Project 191,Planned,53,High,11
+192,35469252,0.33,1.22,Generative AI,2053,Grant,AI Project 192,In-Progress,76,High,26
+193,19382171,0.35,0.65,Generative AI,413,VC,AI Project 193,Completed,72,Medium,22
+194,42936480,0.15,2.55,Analytics,1541,Internal,AI Project 194,Completed,93,Medium,31
+195,32805211,0.34,0.6,Generative AI,332,VC,AI Project 195,On-Hold,84,High,29
+196,3871670,0.35,0.66,Generative AI,1720,Corporate,AI Project 196,Completed,92,Low,18
+197,14670007,0.31,2.42,Analytics,553,Internal,AI Project 197,Planned,67,High,28
+198,44877353,0.39,0.54,Platform,1047,VC,AI Project 198,Planned,95,Medium,8
+199,34532555,0.15,1.99,Platform,1917,VC,AI Project 199,In-Progress,17,Low,25
+200,24296335,0.35,0.8,Analytics,1255,Internal,AI Project 200,Completed,60,Medium,20
+201,36312126,0.18,0.98,Generative AI,1912,Grant,AI Project 201,Planned,65,Low,13
+202,14477566,0.27,0.66,Platform,1313,VC,AI Project 202,Planned,76,Low,15
+203,34236699,0.16,0.71,Automation,1160,VC,AI Project 203,On-Hold,84,High,22
+204,21689681,0.23,1.93,Generative AI,612,Grant,AI Project 204,On-Hold,17,High,30
+205,4863086,0.16,2.74,Platform,1865,Internal,AI Project 205,In-Progress,69,High,10
+206,17076186,0.28,1.31,Analytics,1648,Grant,AI Project 206,On-Hold,38,High,32
+207,18341147,0.35,0.65,Generative AI,318,Corporate,AI Project 207,Completed,73,High,25
+208,1363658,0.18,1.61,Platform,1314,Grant,AI Project 208,In-Progress,53,High,8
+209,39653040,0.34,1.78,Analytics,728,Corporate,AI Project 209,Completed,54,High,17
+210,14977137,0.16,1.58,Platform,626,Corporate,AI Project 210,On-Hold,5,Medium,21
+211,3579686,0.18,2.41,Analytics,1846,VC,AI Project 211,Planned,8,Medium,15
+212,29482204,0.24,2.18,Platform,2002,VC,AI Project 212,Planned,95,High,11
+213,11857226,0.15,1.89,Generative AI,1881,Corporate,AI Project 213,Completed,42,Medium,21
+214,44842426,0.11,0.53,Generative AI,545,Corporate,AI Project 214,Planned,83,Low,16
+215,18795200,0.34,2.34,Platform,2166,VC,AI Project 215,On-Hold,16,Low,25
+216,19809098,0.35,1.24,Platform,1002,Grant,AI Project 216,Planned,88,Medium,27
+217,3226809,0.18,0.9,Automation,863,VC,AI Project 217,On-Hold,13,Medium,19
+218,22201805,0.4,1.81,Generative AI,616,VC,AI Project 218,In-Progress,11,Low,9
+219,33607067,0.09,1.91,Analytics,2022,VC,AI Project 219,On-Hold,76,High,12
+220,20676601,0.24,1.01,Automation,291,VC,AI Project 220,In-Progress,65,Medium,15
+221,40531283,0.13,1.81,Platform,562,Grant,AI Project 221,Completed,54,Low,35
+222,29637373,0.39,2.65,Generative AI,1476,VC,AI Project 222,Completed,48,Medium,16
+223,44775929,0.2,0.96,Automation,272,VC,AI Project 223,On-Hold,31,Medium,33
+224,27590980,0.15,2.19,Platform,110,Internal,AI Project 224,Completed,7,Medium,28
+225,1857414,0.19,2.1,Analytics,1958,Grant,AI Project 225,Planned,99,Low,23
+226,5717854,0.21,1.7,Generative AI,589,Internal,AI Project 226,Planned,16,High,19
+227,43100307,0.24,0.8,Platform,1213,Grant,AI Project 227,In-Progress,47,High,29
+228,28837906,0.36,2.04,Generative AI,463,VC,AI Project 228,Planned,55,Medium,10
+229,23388413,0.37,0.97,Platform,779,VC,AI Project 229,Completed,10,Medium,26
+230,5734735,0.4,1.1,Platform,2,VC,AI Project 230,Planned,7,High,10
+231,3239376,0.21,0.79,Analytics,20,VC,AI Project 231,Completed,98,Medium,14
+232,836249,0.09,2.07,Automation,1190,Corporate,AI Project 232,On-Hold,78,High,33
+233,20282832,0.39,2.13,Automation,146,Corporate,AI Project 233,On-Hold,92,High,30
+234,22126054,0.32,2.14,Generative AI,1410,Internal,AI Project 234,On-Hold,30,High,17
+235,37582556,0.14,2.03,Platform,1834,Internal,AI Project 235,In-Progress,38,Low,11
+236,49709698,0.21,0.54,Platform,1711,Internal,AI Project 236,In-Progress,7,Medium,10
+237,47183064,0.14,2.83,Automation,749,Grant,AI Project 237,Completed,39,Medium,19
+238,43049624,0.32,0.87,Automation,407,Grant,AI Project 238,In-Progress,66,Medium,17
+239,5794513,0.38,1.36,Analytics,721,VC,AI Project 239,In-Progress,17,Medium,35
+240,36488964,0.23,0.66,Analytics,1728,Corporate,AI Project 240,On-Hold,9,Low,23
+241,24584864,0.25,0.79,Generative AI,652,Corporate,AI Project 241,Completed,99,Low,11
+242,42251368,0.36,2.29,Generative AI,1907,Corporate,AI Project 242,In-Progress,38,Low,30
+243,28857141,0.23,1.6,Platform,1027,Grant,AI Project 243,In-Progress,29,High,29
+244,32754525,0.25,2.26,Platform,541,Grant,AI Project 244,Completed,96,Medium,14
+245,14630339,0.34,2.24,Analytics,499,Internal,AI Project 245,In-Progress,18,Medium,29
+246,25379530,0.13,2.57,Generative AI,1049,Corporate,AI Project 246,In-Progress,79,Medium,20
+247,32452521,0.08,1.12,Automation,1741,Grant,AI Project 247,On-Hold,18,Medium,21
+248,21130448,0.1,0.87,Platform,288,Corporate,AI Project 248,On-Hold,55,High,32
+249,5721803,0.28,0.51,Generative AI,123,VC,AI Project 249,In-Progress,71,Medium,7
+250,16352002,0.1,1.25,Automation,667,Corporate,AI Project 250,On-Hold,25,Medium,21
+251,17422561,0.39,1.11,Platform,1678,Corporate,AI Project 251,Completed,31,High,31
+252,948006,0.17,1.73,Analytics,1760,Corporate,AI Project 252,On-Hold,16,High,23
+253,36345348,0.33,2.1,Analytics,337,Grant,AI Project 253,On-Hold,17,High,32
+254,37353586,0.13,1.23,Automation,916,VC,AI Project 254,Completed,50,Low,6
+255,7876511,0.38,2.9,Automation,1477,Corporate,AI Project 255,Completed,55,Medium,35
+256,37508138,0.06,1.28,Platform,1679,Corporate,AI Project 256,Planned,54,Medium,35
+257,26224759,0.26,0.7,Platform,703,VC,AI Project 257,Planned,6,Low,27
+258,6201037,0.06,0.82,Platform,244,VC,AI Project 258,Completed,31,Medium,19
+259,7046815,0.15,2.27,Generative AI,2164,Internal,AI Project 259,In-Progress,77,Medium,8
+260,26733591,0.31,1.52,Platform,1342,Internal,AI Project 260,Planned,99,Medium,10
+261,49115709,0.39,1.15,Platform,215,Grant,AI Project 261,On-Hold,55,Low,15
+262,17840799,0.14,2.87,Analytics,2036,Internal,AI Project 262,Planned,25,Medium,10
+263,47589436,0.27,1.17,Platform,636,VC,AI Project 263,Completed,64,Low,31
+264,24916280,0.2,2.6,Generative AI,1111,VC,AI Project 264,On-Hold,18,Low,13
+265,18487251,0.21,1.75,Platform,1267,Grant,AI Project 265,Planned,68,Medium,27
+266,3611225,0.3,1.67,Generative AI,758,Corporate,AI Project 266,Planned,22,Low,8
+267,2123771,0.25,1.83,Generative AI,774,Internal,AI Project 267,On-Hold,75,Low,15
+268,26933417,0.1,0.87,Platform,579,VC,AI Project 268,Planned,53,High,18
+269,23423097,0.31,3.0,Automation,276,VC,AI Project 269,Planned,57,Medium,12
+270,6370687,0.23,1.39,Generative AI,973,Grant,AI Project 270,On-Hold,90,Medium,22
+271,300072,0.17,2.15,Generative AI,337,Grant,AI Project 271,Planned,15,Low,7
+272,41398583,0.1,2.44,Platform,581,Grant,AI Project 272,On-Hold,84,High,26
+273,24292721,0.39,0.62,Automation,1312,Grant,AI Project 273,Completed,76,Medium,25
+274,7568192,0.21,2.91,Analytics,286,Corporate,AI Project 274,On-Hold,29,Medium,15
+275,29430519,0.22,1.41,Automation,1968,VC,AI Project 275,Planned,18,High,11
+276,31579554,0.16,2.91,Automation,1759,Grant,AI Project 276,On-Hold,44,Low,31
+277,40088795,0.35,0.97,Automation,828,Grant,AI Project 277,In-Progress,56,High,21
+278,15600186,0.13,2.76,Analytics,1010,Grant,AI Project 278,Planned,34,Low,10
+279,35865762,0.3,1.87,Analytics,73,Internal,AI Project 279,On-Hold,91,Medium,15
+280,18692498,0.12,2.56,Platform,1221,Grant,AI Project 280,In-Progress,58,Medium,33
+281,43799991,0.08,1.8,Platform,1016,VC,AI Project 281,Completed,12,High,32
+282,25354010,0.27,2.07,Analytics,588,VC,AI Project 282,In-Progress,23,Low,20
+283,17405874,0.06,2.28,Generative AI,1204,Grant,AI Project 283,In-Progress,71,High,7
+284,34339574,0.23,2.57,Platform,507,Corporate,AI Project 284,On-Hold,76,Medium,8
+285,5125953,0.38,1.48,Platform,965,Internal,AI Project 285,Planned,44,Medium,9
+286,30722077,0.11,0.61,Analytics,450,Corporate,AI Project 286,On-Hold,24,Low,23
+287,324769,0.11,0.67,Analytics,652,VC,AI Project 287,On-Hold,42,Medium,21
+288,39166527,0.39,2.83,Automation,2009,VC,AI Project 288,On-Hold,11,Medium,12
+289,48547550,0.2,2.13,Generative AI,501,Corporate,AI Project 289,On-Hold,42,Low,25
+290,13938569,0.15,1.17,Analytics,1304,Corporate,AI Project 290,Completed,42,Low,26
+291,40044142,0.06,2.57,Platform,1386,Grant,AI Project 291,Planned,75,Low,10
+292,29283067,0.36,1.09,Automation,842,Internal,AI Project 292,On-Hold,28,High,7
+293,8053712,0.24,2.95,Platform,349,Internal,AI Project 293,In-Progress,93,Medium,11
+294,31264437,0.33,0.52,Analytics,512,Corporate,AI Project 294,Completed,84,High,8
+295,27277973,0.1,1.85,Platform,236,Internal,AI Project 295,Planned,24,Low,8
+296,33858593,0.34,2.22,Generative AI,48,Corporate,AI Project 296,Planned,67,Medium,27
+297,27629460,0.2,1.86,Platform,941,Grant,AI Project 297,On-Hold,67,Low,6
+298,3793908,0.31,1.73,Generative AI,1913,VC,AI Project 298,In-Progress,62,Medium,6
+299,47968323,0.37,2.72,Generative AI,847,Internal,AI Project 299,Planned,64,Low,12
+300,20408657,0.17,2.67,Automation,1136,VC,AI Project 300,In-Progress,74,High,11
+301,302064,0.09,2.26,Platform,309,Corporate,AI Project 301,In-Progress,81,Medium,16
+302,40946923,0.1,1.2,Platform,325,Grant,AI Project 302,Planned,49,Medium,10
+303,22389395,0.22,1.16,Automation,1037,VC,AI Project 303,In-Progress,19,Medium,10
+304,6775568,0.17,1.63,Analytics,1876,Corporate,AI Project 304,Planned,16,Medium,17
+305,44060235,0.23,1.09,Generative AI,482,Grant,AI Project 305,Planned,28,Low,20
+306,35223435,0.19,1.57,Generative AI,1140,Corporate,AI Project 306,Completed,52,High,29
+307,5668733,0.13,1.31,Generative AI,914,VC,AI Project 307,Completed,38,High,21
+308,47091410,0.07,2.22,Generative AI,1118,Internal,AI Project 308,Planned,35,High,29
+309,28356479,0.1,1.7,Generative AI,619,Grant,AI Project 309,On-Hold,30,High,7
+310,21531209,0.39,2.14,Automation,440,VC,AI Project 310,Planned,9,Low,27
+311,38972291,0.4,1.07,Automation,1215,VC,AI Project 311,Completed,91,Low,22
+312,16179994,0.17,1.86,Generative AI,256,VC,AI Project 312,In-Progress,6,High,16
+313,48319055,0.26,2.54,Automation,1596,VC,AI Project 313,Planned,44,Medium,30
+314,40503832,0.05,0.78,Automation,1246,VC,AI Project 314,In-Progress,13,High,27
+315,34388208,0.28,1.14,Platform,2094,Grant,AI Project 315,Planned,49,Medium,35
+316,43011429,0.19,0.61,Platform,996,Corporate,AI Project 316,Planned,16,High,29
+317,49014975,0.14,2.21,Analytics,501,VC,AI Project 317,In-Progress,92,Low,14
+318,19730717,0.17,0.87,Analytics,2076,Internal,AI Project 318,Planned,92,High,28
+319,32098642,0.09,2.61,Automation,627,Corporate,AI Project 319,Completed,5,Low,24
+320,18402811,0.24,1.74,Automation,1268,Internal,AI Project 320,Completed,44,Low,34
+321,21103377,0.31,0.93,Generative AI,2089,Corporate,AI Project 321,In-Progress,73,Medium,21
+322,10502937,0.12,1.1,Automation,660,Grant,AI Project 322,Planned,37,Medium,9
+323,43349480,0.28,1.52,Automation,561,VC,AI Project 323,Completed,35,Low,10
+324,40477946,0.16,1.14,Platform,32,Grant,AI Project 324,In-Progress,40,Low,16
+325,36716047,0.17,1.65,Generative AI,1160,VC,AI Project 325,Planned,79,Low,12
+326,17150564,0.18,2.0,Analytics,757,Corporate,AI Project 326,Completed,36,Low,32
+327,41406940,0.28,1.88,Platform,682,VC,AI Project 327,On-Hold,55,Medium,18
+328,25372794,0.37,1.43,Generative AI,1006,Internal,AI Project 328,In-Progress,38,Low,24
+329,14453960,0.08,1.54,Automation,1368,VC,AI Project 329,Planned,13,Low,23
+330,40706865,0.37,0.62,Analytics,1834,VC,AI Project 330,Planned,66,Low,22
+331,44029582,0.27,0.63,Automation,955,VC,AI Project 331,In-Progress,74,Medium,25
+332,24830238,0.09,1.7,Platform,1664,Corporate,AI Project 332,On-Hold,68,Medium,22
+333,34251416,0.28,0.89,Platform,429,Grant,AI Project 333,Completed,89,Low,21
+334,48811771,0.35,2.38,Generative AI,1562,Internal,AI Project 334,On-Hold,72,Low,23
+335,30509284,0.32,0.72,Automation,1708,Grant,AI Project 335,In-Progress,47,High,12
+336,25118326,0.11,0.59,Analytics,1013,Corporate,AI Project 336,In-Progress,73,Low,18
+337,19766297,0.3,0.72,Analytics,2092,Grant,AI Project 337,Completed,30,Medium,35
+338,18040010,0.38,1.23,Automation,996,VC,AI Project 338,Planned,30,Medium,13
+339,33541860,0.29,2.19,Analytics,809,Corporate,AI Project 339,On-Hold,95,Medium,13
+340,21762710,0.23,0.63,Platform,1790,Grant,AI Project 340,Planned,59,High,17
+341,48777476,0.16,2.23,Analytics,89,Corporate,AI Project 341,On-Hold,7,Medium,17
+342,19084398,0.31,1.92,Generative AI,204,VC,AI Project 342,On-Hold,51,Low,16
+343,8786915,0.1,2.7,Platform,331,Grant,AI Project 343,In-Progress,41,Medium,15
+344,1400778,0.36,2.98,Platform,834,Internal,AI Project 344,In-Progress,35,Low,12
+345,9013698,0.27,1.9,Analytics,805,Grant,AI Project 345,On-Hold,41,Medium,24
+346,15401836,0.08,1.53,Generative AI,2058,Internal,AI Project 346,Completed,17,Low,21
+347,39710358,0.06,1.84,Analytics,589,VC,AI Project 347,In-Progress,43,High,9
+348,12027053,0.37,2.75,Generative AI,358,Corporate,AI Project 348,Completed,46,Medium,20
+349,3485121,0.4,2.78,Platform,1352,VC,AI Project 349,In-Progress,19,Low,9
+350,10079405,0.06,1.04,Generative AI,584,Grant,AI Project 350,Completed,61,Low,35
+351,13281561,0.1,2.97,Automation,1905,Grant,AI Project 351,Completed,47,High,14
+352,34019782,0.25,1.76,Generative AI,435,Corporate,AI Project 352,Completed,57,Low,21
+353,20899180,0.34,1.88,Platform,198,Corporate,AI Project 353,Planned,77,Low,35
+354,25242815,0.36,0.66,Automation,501,Internal,AI Project 354,On-Hold,96,Medium,16
+355,43420765,0.06,1.34,Platform,1926,VC,AI Project 355,Completed,90,High,10
+356,8541559,0.19,1.22,Generative AI,1751,Internal,AI Project 356,Planned,84,Low,11
+357,41493853,0.08,0.93,Platform,531,VC,AI Project 357,On-Hold,24,High,33
+358,4608586,0.19,1.42,Generative AI,411,Internal,AI Project 358,In-Progress,65,Low,8
+359,45151076,0.28,1.27,Platform,1737,Internal,AI Project 359,Planned,77,High,20
+360,7486537,0.27,2.24,Automation,1679,VC,AI Project 360,Planned,56,Low,16
+361,14574929,0.24,1.95,Generative AI,226,Internal,AI Project 361,In-Progress,70,Medium,16
+362,32821882,0.38,2.57,Automation,230,Grant,AI Project 362,Planned,32,High,20
+363,16879717,0.25,0.94,Analytics,14,Grant,AI Project 363,In-Progress,94,Low,24
+364,21146175,0.37,1.65,Generative AI,460,Internal,AI Project 364,Completed,92,Medium,17
+365,13226303,0.06,1.01,Automation,2176,Internal,AI Project 365,In-Progress,5,Medium,6
+366,25764284,0.39,2.63,Generative AI,88,Internal,AI Project 366,On-Hold,76,Medium,27
+367,37006088,0.14,1.99,Platform,1322,VC,AI Project 367,Completed,24,Medium,32
+368,21600028,0.12,0.51,Generative AI,680,Internal,AI Project 368,Planned,42,Low,13
+369,6201036,0.38,0.85,Automation,1195,Corporate,AI Project 369,Planned,38,Medium,17
+370,17214834,0.18,2.66,Generative AI,52,Grant,AI Project 370,On-Hold,47,Low,22
+371,18739056,0.13,1.77,Platform,1011,Corporate,AI Project 371,In-Progress,96,Medium,34
+372,9152843,0.28,1.94,Generative AI,2021,Corporate,AI Project 372,In-Progress,60,High,25
+373,1457585,0.26,0.64,Analytics,1916,VC,AI Project 373,On-Hold,65,Low,26
+374,33934371,0.32,1.31,Platform,975,Internal,AI Project 374,On-Hold,85,Medium,27
+375,15200828,0.05,2.45,Automation,659,VC,AI Project 375,Planned,41,High,21
+376,42655459,0.33,1.19,Automation,1288,Grant,AI Project 376,Completed,47,Low,9
+377,28942826,0.24,2.15,Generative AI,155,Grant,AI Project 377,Completed,30,Medium,9
+378,33723271,0.25,1.89,Platform,75,Internal,AI Project 378,Planned,49,High,8
+379,24565975,0.39,2.48,Generative AI,1601,Internal,AI Project 379,On-Hold,29,High,12
+380,40307065,0.13,1.89,Automation,2175,Internal,AI Project 380,Planned,67,Low,33
+381,643086,0.14,2.15,Analytics,2105,Grant,AI Project 381,In-Progress,88,Low,9
+382,28890542,0.15,1.84,Analytics,1165,Internal,AI Project 382,In-Progress,17,Medium,35
+383,35303594,0.3,2.79,Platform,219,Grant,AI Project 383,On-Hold,17,Medium,14
+384,47794669,0.35,2.48,Automation,497,Grant,AI Project 384,On-Hold,14,Low,30
+385,38423595,0.17,1.82,Analytics,991,Corporate,AI Project 385,In-Progress,52,Medium,32
+386,11363428,0.06,0.55,Platform,1156,VC,AI Project 386,Completed,93,Low,19
+387,9972566,0.19,1.16,Generative AI,1451,Corporate,AI Project 387,On-Hold,16,Medium,20
+388,39869512,0.1,2.27,Analytics,955,Corporate,AI Project 388,On-Hold,71,High,20
+389,6638586,0.1,2.71,Automation,250,VC,AI Project 389,Planned,50,Low,13
+390,34872380,0.36,1.92,Platform,2071,VC,AI Project 390,Planned,54,Low,17
+391,38757971,0.19,2.36,Automation,290,Grant,AI Project 391,Completed,54,High,24
+392,20458986,0.06,0.96,Platform,499,Grant,AI Project 392,Planned,17,Medium,32
+393,31543762,0.36,0.62,Analytics,899,Grant,AI Project 393,In-Progress,58,Medium,34
+394,46774243,0.3,1.98,Analytics,1840,Internal,AI Project 394,Completed,68,High,35
+395,18482308,0.17,0.68,Platform,277,Corporate,AI Project 395,On-Hold,28,Medium,24
+396,27092636,0.26,0.63,Analytics,706,Grant,AI Project 396,In-Progress,27,Medium,30
+397,14500313,0.11,2.52,Automation,58,VC,AI Project 397,Planned,90,High,11
+398,11645795,0.12,2.07,Platform,1704,Corporate,AI Project 398,Completed,28,High,35
+399,8917151,0.28,1.06,Automation,1544,Internal,AI Project 399,On-Hold,40,High,21
+400,43201103,0.22,2.04,Generative AI,1563,Grant,AI Project 400,Completed,66,High,23
+401,28376351,0.25,1.69,Generative AI,737,Grant,AI Project 401,Planned,60,Medium,28
+402,25096703,0.36,1.19,Analytics,803,Internal,AI Project 402,Completed,36,Medium,25
+403,39305111,0.17,2.79,Platform,651,Corporate,AI Project 403,Planned,16,High,13
+404,1986284,0.13,1.1,Automation,909,Corporate,AI Project 404,Planned,45,Low,30
+405,39182205,0.17,2.09,Automation,1483,Internal,AI Project 405,Planned,52,Low,34
+406,48194453,0.21,1.35,Automation,230,VC,AI Project 406,Planned,62,Medium,8
+407,47755684,0.13,2.44,Platform,427,Corporate,AI Project 407,Completed,44,Medium,8
+408,2952143,0.39,1.91,Generative AI,205,Internal,AI Project 408,In-Progress,87,Medium,32
+409,17661275,0.18,2.87,Analytics,723,Grant,AI Project 409,Completed,13,Medium,6
+410,38262880,0.25,1.49,Automation,329,Grant,AI Project 410,Planned,65,Low,24
+411,37986731,0.25,2.93,Automation,509,Grant,AI Project 411,On-Hold,51,Low,30
+412,12818688,0.33,1.79,Automation,505,Corporate,AI Project 412,Completed,44,Medium,26
+413,26140471,0.12,0.78,Automation,1856,Internal,AI Project 413,Planned,10,Low,18
+414,21188221,0.06,1.48,Generative AI,24,Internal,AI Project 414,In-Progress,34,High,9
+415,4703947,0.24,1.72,Platform,1774,Grant,AI Project 415,On-Hold,16,High,13
+416,6122337,0.17,1.86,Analytics,1153,VC,AI Project 416,Planned,38,Low,10
+417,25687138,0.3,0.82,Platform,1920,Internal,AI Project 417,Planned,71,Low,13
+418,43409415,0.33,1.38,Generative AI,1235,VC,AI Project 418,In-Progress,81,Medium,9
+419,6869548,0.16,0.66,Generative AI,818,VC,AI Project 419,On-Hold,75,Medium,11
+420,2480549,0.12,2.14,Analytics,782,VC,AI Project 420,In-Progress,29,High,20
+421,41128172,0.14,1.47,Analytics,1939,Grant,AI Project 421,Planned,39,High,26
+422,606250,0.06,1.44,Automation,1648,Internal,AI Project 422,In-Progress,43,High,19
+423,12121009,0.16,2.61,Automation,1864,Internal,AI Project 423,On-Hold,75,High,30
+424,3261666,0.33,1.78,Analytics,962,Corporate,AI Project 424,On-Hold,40,Medium,14
+425,26949879,0.07,0.73,Generative AI,329,Grant,AI Project 425,Completed,68,Low,26
+426,47547940,0.27,2.89,Analytics,669,Corporate,AI Project 426,Planned,47,Medium,34
+427,47072353,0.25,2.18,Generative AI,65,Grant,AI Project 427,Completed,98,Medium,28
+428,27285493,0.25,2.09,Generative AI,1311,Corporate,AI Project 428,In-Progress,26,High,6
+429,6445562,0.14,1.84,Generative AI,489,VC,AI Project 429,Planned,56,Low,15
+430,1041283,0.31,2.31,Platform,338,VC,AI Project 430,Completed,16,High,7
+431,41721412,0.31,0.81,Analytics,2023,Internal,AI Project 431,On-Hold,60,Low,26
+432,4104871,0.07,1.24,Generative AI,455,Internal,AI Project 432,Completed,12,Low,8
+433,17271971,0.16,2.18,Analytics,1279,VC,AI Project 433,In-Progress,7,High,19
+434,26758368,0.3,2.63,Automation,1386,VC,AI Project 434,In-Progress,88,Low,31
+435,32278566,0.27,1.37,Automation,1593,VC,AI Project 435,On-Hold,52,Medium,19
+436,42267044,0.23,1.21,Platform,531,Corporate,AI Project 436,On-Hold,20,High,12
+437,33460172,0.29,1.72,Automation,10,Corporate,AI Project 437,In-Progress,63,High,24
+438,5193646,0.09,0.81,Generative AI,1507,Internal,AI Project 438,In-Progress,95,High,10
+439,44185212,0.36,1.68,Generative AI,181,Corporate,AI Project 439,Planned,91,High,8
+440,9978457,0.33,2.01,Analytics,1530,Internal,AI Project 440,Completed,83,High,24
+441,29345645,0.21,1.17,Analytics,1740,Grant,AI Project 441,On-Hold,69,Medium,17
+442,9556586,0.2,2.63,Analytics,843,Internal,AI Project 442,Planned,49,Medium,22
+443,20162062,0.33,0.86,Automation,1434,Grant,AI Project 443,In-Progress,27,Medium,17
+444,48520900,0.13,2.58,Automation,542,Corporate,AI Project 444,Completed,51,High,27
+445,45175630,0.08,2.77,Generative AI,1368,Internal,AI Project 445,Completed,55,Medium,33
+446,35716643,0.39,2.46,Platform,976,VC,AI Project 446,Planned,88,High,33
+447,10657339,0.35,1.48,Platform,1336,Grant,AI Project 447,Planned,64,High,20
+448,42464942,0.27,1.56,Analytics,1411,Grant,AI Project 448,Planned,22,Medium,11
+449,32748135,0.29,1.51,Analytics,1483,VC,AI Project 449,On-Hold,34,Medium,27
+450,38930528,0.1,2.13,Automation,70,Grant,AI Project 450,Completed,22,High,19
+451,10392347,0.1,1.64,Analytics,1415,Grant,AI Project 451,Planned,27,Medium,9
+452,747529,0.22,1.51,Generative AI,2004,Internal,AI Project 452,On-Hold,61,Medium,19
+453,33340616,0.21,2.89,Generative AI,912,Internal,AI Project 453,On-Hold,78,Medium,24
+454,38023038,0.26,1.78,Automation,1785,Corporate,AI Project 454,Completed,97,High,29
+455,8188788,0.05,1.89,Automation,1440,VC,AI Project 455,On-Hold,84,High,24
+456,41810751,0.37,2.05,Generative AI,473,Internal,AI Project 456,Completed,56,High,9
+457,22019319,0.32,0.63,Platform,418,VC,AI Project 457,Planned,63,Low,10
+458,22873667,0.27,1.48,Generative AI,437,VC,AI Project 458,On-Hold,93,High,18
+459,28332805,0.13,2.71,Platform,2052,Grant,AI Project 459,On-Hold,93,Medium,17
+460,19146560,0.34,1.9,Analytics,23,Grant,AI Project 460,In-Progress,60,Low,22
+461,45167245,0.18,1.56,Automation,591,Corporate,AI Project 461,Completed,5,Medium,24
+462,21506507,0.09,2.88,Analytics,679,Corporate,AI Project 462,Planned,98,Medium,14
+463,22689002,0.32,1.35,Generative AI,446,VC,AI Project 463,Planned,38,High,13
+464,33987876,0.1,0.84,Analytics,961,Corporate,AI Project 464,On-Hold,34,Medium,24
+465,42173076,0.08,2.88,Platform,1211,VC,AI Project 465,Planned,51,Low,15
+466,43265760,0.12,0.86,Automation,1983,Corporate,AI Project 466,Planned,86,Medium,6
+467,12447346,0.18,1.38,Generative AI,1280,Internal,AI Project 467,Completed,56,High,29
+468,45512253,0.39,0.95,Platform,1356,Grant,AI Project 468,On-Hold,73,Medium,22
+469,49705709,0.17,2.77,Platform,1990,Internal,AI Project 469,In-Progress,21,Low,12
+470,29247423,0.39,2.07,Analytics,1678,VC,AI Project 470,On-Hold,80,Low,15
+471,3329722,0.15,1.31,Platform,1516,Internal,AI Project 471,On-Hold,57,High,12
+472,11351415,0.34,2.63,Generative AI,1900,Grant,AI Project 472,In-Progress,90,Low,22
+473,28313305,0.11,1.11,Generative AI,850,Grant,AI Project 473,Completed,7,Low,20
+474,33878229,0.07,1.54,Analytics,1684,Corporate,AI Project 474,Completed,38,Low,21
+475,36558785,0.27,0.97,Automation,893,VC,AI Project 475,On-Hold,57,High,28
+476,698178,0.25,0.99,Platform,1865,Grant,AI Project 476,In-Progress,40,Low,22
+477,47948168,0.1,1.68,Generative AI,907,Internal,AI Project 477,In-Progress,30,High,23
+478,9236881,0.28,1.62,Analytics,309,Grant,AI Project 478,Completed,94,Low,32
+479,27957732,0.35,1.16,Analytics,504,Grant,AI Project 479,On-Hold,29,High,18
+480,35818748,0.14,2.62,Platform,330,Grant,AI Project 480,In-Progress,18,Low,26
+481,5625071,0.28,1.27,Generative AI,1947,Grant,AI Project 481,In-Progress,50,Low,15
+482,13162540,0.33,1.01,Analytics,1785,Corporate,AI Project 482,Completed,27,High,35
+483,44689886,0.22,0.56,Automation,426,Corporate,AI Project 483,On-Hold,80,High,13
+484,44994423,0.24,0.59,Automation,452,Corporate,AI Project 484,In-Progress,57,Low,14
+485,45296211,0.33,2.69,Automation,690,Corporate,AI Project 485,In-Progress,28,Medium,34
+486,29425807,0.12,2.39,Platform,1259,Grant,AI Project 486,Completed,32,High,10
+487,38618339,0.06,2.59,Generative AI,1761,VC,AI Project 487,In-Progress,13,High,9
+488,38963026,0.06,2.68,Platform,1646,VC,AI Project 488,In-Progress,63,High,20
+489,27362771,0.07,1.54,Generative AI,1902,VC,AI Project 489,In-Progress,15,Medium,33
+490,28692879,0.07,0.93,Platform,224,Corporate,AI Project 490,On-Hold,78,Medium,26
+491,4984889,0.13,2.83,Automation,1764,Internal,AI Project 491,On-Hold,81,Low,30
+492,35491773,0.16,2.46,Generative AI,1901,Corporate,AI Project 492,Planned,76,High,16
+493,36041635,0.3,2.26,Generative AI,1805,VC,AI Project 493,Planned,54,Medium,10
+494,7784602,0.39,1.46,Platform,1097,Grant,AI Project 494,In-Progress,16,Low,21
+495,40538915,0.38,1.59,Generative AI,1581,Internal,AI Project 495,Completed,19,Low,34
+496,37772055,0.09,1.55,Generative AI,1663,Corporate,AI Project 496,On-Hold,99,Low,35
+497,34591378,0.33,1.85,Automation,775,Internal,AI Project 497,Completed,30,Low,18
+498,42862992,0.31,0.71,Analytics,1623,VC,AI Project 498,On-Hold,26,Low,29
+499,20821426,0.33,0.53,Generative AI,1139,Internal,AI Project 499,Completed,34,High,29
+500,31643735,0.29,2.67,Analytics,190,VC,AI Project 500,On-Hold,56,High,9
